@@ -4,3 +4,6 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
+/downloads/*
+  Content-Disposition: attachment
+  X-Robots-Tag: noindex, nofollow

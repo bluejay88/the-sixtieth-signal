@@ -14,6 +14,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles.css" />
+  <link rel="stylesheet" href="/coupon.css" />
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -21,7 +22,7 @@
     <a class="wordmark" href="#top" aria-label="The Sixtieth Signal home"><span>60</span> THE SIXTIETH SIGNAL</a>
     <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links">Menu</button>
     <nav id="nav-links" aria-label="Primary">
-      <a href="#listen">Listen</a><a href="#cast">Cast</a><a href="#podcast">Podcast</a><a href="#archives">Archives</a><a href="#store">Store</a>
+      <a href="#listen">Listen</a><a href="#podcast">Podcast</a><a href="#free-book">Free book</a><a href="#archives">Archives</a><a href="#store">Store</a>
     </nav>
     <a class="nav-cta" href="#store">Get the book</a>
   </header>
@@ -91,8 +92,27 @@
       </div>
     </section>
 
+    <section class="coupon section dark" id="free-book">
+      <p class="section-index">05 / READER ACCESS</p>
+      <div class="coupon-layout reveal">
+        <div class="coupon-copy"><p class="eyebrow">FREE DIGITAL READER EDITION</p><h2>Receive the<br>first signal.</h2><p>Register for a complimentary digital coupon and download the publication-locked reader PDF immediately.</p><div class="offer-detail"><strong>$0</strong><span>No card required<br>One reader copy</span></div><p class="fine">Your download does not require promotional consent. Optional profile details help shape formats, events, and Archive releases.</p></div>
+        <form class="coupon-form" name="free-book-coupon" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="coupon-form">
+          <input type="hidden" name="form-name" value="free-book-coupon"><input type="hidden" name="utm_source"><input type="hidden" name="utm_medium"><input type="hidden" name="utm_campaign"><p hidden><label>Do not fill: <input name="bot-field"></label></p>
+          <div class="form-grid"><label>First name*<input name="first_name" autocomplete="given-name" required></label><label>Last name*<input name="last_name" autocomplete="family-name" required></label></div>
+          <label>Email address*<input type="email" name="email" autocomplete="email" required></label>
+          <div class="form-grid"><label>Phone (optional)<input type="tel" name="phone" autocomplete="tel"></label><label>Country/region<select name="country"><option value="">Select</option><option>United States</option><option>Canada</option><option>United Kingdom</option><option>Australia</option><option>Other</option></select></label></div>
+          <details><summary>Optional mailing and reader profile</summary><label>Street address<input name="address_1" autocomplete="address-line1"></label><div class="form-grid"><label>City<input name="city" autocomplete="address-level2"></label><label>State/province<input name="region" autocomplete="address-level1"></label></div><div class="form-grid"><label>Postal code<input name="postal_code" autocomplete="postal-code"></label><label>Preferred format<select name="preferred_format"><option>Ebook / PDF</option><option>Audiobook</option><option>Paperback</option><option>Collector edition</option></select></label></div><label>How did you find the signal?<select name="discovery_source"><option value="">Select</option><option>Friend or referral</option><option>Podcast</option><option>TikTok / BookTok</option><option>Instagram</option><option>Reddit / Discord</option><option>Search</option><option>Event or book club</option><option>Other</option></select></label><fieldset><legend>Interests</legend><label><input type="checkbox" name="interests" value="audiobook"> Audiobook</label><label><input type="checkbox" name="interests" value="podcast"> Podcast</label><label><input type="checkbox" name="interests" value="loam_archives"> LOAM Archives</label><label><input type="checkbox" name="interests" value="puzzles"> Signal puzzles</label><label><input type="checkbox" name="interests" value="events"> Events and book clubs</label></fieldset></details>
+          <label class="consent"><input type="checkbox" name="delivery_consent" required> Send my coupon and service messages needed to deliver this requested book.*</label>
+          <label class="consent"><input type="checkbox" name="email_marketing_consent"> Also send optional book, podcast, and LOAM Archives email updates.</label>
+          <label class="consent"><input type="checkbox" name="sms_marketing_consent"> If I supplied a phone number, I agree to optional SMS updates. Message/data rates may apply.</label>
+          <button class="button primary" type="submit">Generate my free coupon</button><p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+        <div class="coupon-result" id="coupon-result" hidden><p class="eyebrow">ACCESS GRANTED</p><h3>Your reader coupon</h3><code id="coupon-code"></code><p>Keep this code with your records. Your complimentary PDF is ready.</p><a class="button primary" href="/downloads/the-sixtieth-signal-reader-edition.pdf" download>Download the book</a><button class="button ghost" id="copy-coupon" type="button">Copy coupon</button></div>
+      </div>
+    </section>
+
     <section class="store section" id="store">
-      <p class="section-index">05 / STORE</p>
+      <p class="section-index">06 / STORE</p>
       <div class="section-head reveal"><h2>Choose how<br>you enter.</h2><p>Digital, print, and audio editions can share one direct path while retailer options remain available.</p></div>
       <div class="store-layout">
         <img src="/assets/cover.png" alt="The Sixtieth Signal cover" class="store-cover reveal">
@@ -104,7 +124,7 @@
     </section>
 
     <section class="support section dark" id="support">
-      <p class="section-index">06 / SUPPORT THE SIGNAL</p>
+      <p class="section-index">07 / SUPPORT THE SIGNAL</p>
       <div class="support-grid reveal"><div><h2>Back the writer.</h2><p>Support future fiction, archive research, and independent publication.</p><a class="button primary payment-link" data-kind="author" href="#support">Donate to Jayla</a></div><div><h2>Keep the panel live.</h2><p>Fund editing, hosting, transcripts, music licensing, and accessible production.</p><a class="button ghost payment-link" data-kind="podcast" href="#support">Support the podcast</a></div></div>
       <p class="payment-note">Secure donation destinations are configured in <code>site/config.js</code>. No payment is collected on this preview site.</p>
     </section>
