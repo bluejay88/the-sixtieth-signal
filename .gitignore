@@ -1,0 +1,9 @@
+.netlify/
+.playwright-cli/
+output/
+tmp/
+node_modules/
+.env*
+!.env.example
+site/audio/*.mp3
+

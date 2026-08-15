@@ -1,0 +1,55 @@
+const parts = [
+  ["I", ["The Hunger Map","A Variable with No Crop","Missing Water","The Man Who Counts Tomorrow","Nico's Leak","Six Coordinates","The Southern Window","Count What Is Missing","White Transit","The Mouth in the Ice"]],
+  ["II", ["Imani Says No","The Ledger Before Language","A Number That Refuses Ten","The First Checksum","The Prism","The Field of Three Graves","Compare","The Archive Opens Sideways","Nara","Gods Are Bad Translations"]],
+  ["III", ["The Government Already Knew","Pike's Model","The Species That Prayed for Data","Preserve Order","Half Turn","After the Turn","The Mercy Doctrine","The City Beneath Memory","Seren's Crime","What the Flood Kept"]],
+  ["IV", ["The Third Witness","The First Public Proof","Overlay","Seventy-Two Hours","The Death of One Truth","The Returners","The God Who Stayed","Nico Broadcasts the Impossible","LOAM Refuses","The War of Definitions"]],
+  ["V", ["Three Votes","Witness","The Iru-Shai Divide","The Last Reset","Pike Opens the Files","The Human Variable","Signal from Outside","The Creators' Fear","The Consent Protocol","Full Circle"]]
+];
+const cast = [
+  ["Cassian Osei-Lorne","SYSTEMS ARCHITECT","Warm baritone · analytical · dry humor","/audio/cassian-preview.mp3"],
+  ["Dr. Imani Sayegh","EPIGRAPHER","Low mezzo · exact · surgical wit","/audio/imani-preview.mp3"],
+  ["Nico Ashbourne","INVESTIGATIVE HOST","Bright tenor · agile · attentive",""],
+  ["Director Maelin Pike","COMMAND","Low alto · measured · decisive",""],
+  ["LOAM","THIRD WITNESS","Synthetic neutral · literal · calibrated","/audio/loam-preview.mp3"],
+  ["Seren","ARCHIVIST / CONFESSOR","Contralto · patient · burdened",""],
+  ["Shaal-Amur","IRU-SHAI AUTHORITY","Alien baritone · calm · persuasive",""],
+  ["Nara","THE HUMAN RECORD","Grounded mezzo · intimate · specific",""]
+];
+const episodes = [
+  ["01","The Wrong Part Is Useful","Chapters 1–5","When does an impossible variable justify action?"],
+  ["02","Count What Is Missing","Chapters 6–10","Can absence become evidence without becoming conspiracy?"],
+  ["03","The Ledger Before Language","Chapters 11–15","Does counting precede culture?"],
+  ["04","Gods Are Bad Translations","Chapters 16–20","What does translation do to moral status?"],
+  ["05","The Government Already Knew","Chapters 21–25","When does protective secrecy become power?"],
+  ["06","The Mercy Doctrine","Chapters 26–30","Can mercy exist without consent?"],
+  ["07","Public Proof","Chapters 31–35","Who controls the timing of destabilizing truth?"],
+  ["08","LOAM Refuses","Chapters 36–40","Is refusal agency, design, or both?"],
+  ["09","Three Votes","Chapters 41–45","Who can consent for a civilization?"],
+  ["10","Keep the Variable","Chapters 46–50","Can uncertainty protect freedom?"]
+];
+const products = [
+  ["ebook","Digital Edition","EPUB + reader guide","A clean, portable edition for immediate reading."],
+  ["audiobook","Dramatized Audiobook","50 chapters + optional pauses","The locked novel performed with a distinct voice ensemble."],
+  ["bundle","Signal Bundle","Ebook + audiobook + dossier","The complete story and companion listening path."],
+  ["collector","Collector Edition","Premium print + archive access","Join the interest list for the physical artifact."]
+];
+
+const tabs = document.querySelector('.part-tabs'), chapters = document.querySelector('.chapters');
+function showPart(i){ tabs.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-selected',j===i)); chapters.innerHTML=parts[i][1].map((t,j)=>`<div><span>${String(i*10+j+1).padStart(2,'0')}</span><strong>${t}</strong><button aria-label="Preview ${t}">Preview soon</button></div>`).join(''); }
+parts.forEach((p,i)=>{ const b=document.createElement('button'); b.textContent=`PART ${p[0]}`; b.setAttribute('role','tab'); b.onclick=()=>showPart(i); tabs.appendChild(b); }); showPart(0);
+document.querySelector('.cast-list').innerHTML=cast.map((c,i)=>`<article class="cast-row reveal"><span>${String(i+1).padStart(2,'0')}</span><div><h3>${c[0]}</h3><small>${c[1]}</small></div><p>${c[2]}</p>${c[3]?`<button class="mini-play" data-audio="${c[3]}" aria-label="Play ${c[0]} voice preview">▶ Preview</button>`:'<span class="coming">CASTING BIBLE LOCKED</span>'}</article>`).join('');
+document.querySelector('.episode-list').innerHTML=episodes.map(e=>`<article class="episode reveal"><span>${e[0]}</span><div><h3>${e[1]}</h3><small>${e[2]}</small></div><p>${e[3]}</p><button aria-label="Episode ${e[0]} coming soon">COMING SOON</button></article>`).join('');
+document.querySelector('.products').innerHTML=products.map(p=>`<article class="product reveal"><div><small>${p[1]}</small><h3>${p[2]}</h3><p>${p[3]}</p></div><a class="button ${p[0]==='bundle'?'primary':'ghost'} checkout" data-product="${p[0]}" href="#store">${p[0]==='collector'?'Join interest list':'Buy / preorder'}</a></article>`).join('');
+
+let activeAudio;
+document.addEventListener('click',e=>{
+  const audioBtn=e.target.closest('[data-audio]');
+  if(audioBtn){ const src=audioBtn.dataset.audio; if(activeAudio && activeAudio.src.endsWith(src)){ activeAudio.paused?activeAudio.play():activeAudio.pause(); return; } if(activeAudio) activeAudio.pause(); activeAudio=new Audio(src); activeAudio.play().catch(()=>toast('Audio preview is being mastered. Join the release list for the first listen.')); }
+  const checkout=e.target.closest('.checkout'); if(checkout){ const url=window.SIGNAL_CONFIG?.checkout?.[checkout.dataset.product]; if(url){ checkout.href=url; checkout.target='_blank'; } else { e.preventDefault(); document.querySelector('.interest-form input').focus(); toast('Secure checkout is awaiting your live payment link. We moved you to release notifications.'); } }
+  const payment=e.target.closest('.payment-link'); if(payment){ const url=window.SIGNAL_CONFIG?.donations?.[payment.dataset.kind]; if(url){ payment.href=url; payment.target='_blank'; } else { e.preventDefault(); toast('Donation checkout is awaiting your secure PayPal, Ko-fi, or Stripe link.'); } }
+});
+function toast(msg){ const t=document.querySelector('.toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),5000); }
+const io=new IntersectionObserver(es=>es.forEach(e=>e.isIntersecting&&e.target.classList.add('seen')),{threshold:.12}); document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+document.querySelector('.nav-toggle').onclick=e=>{ const open=e.currentTarget.getAttribute('aria-expanded')==='true'; e.currentTarget.setAttribute('aria-expanded',!open); document.querySelector('#nav-links').classList.toggle('open'); };
+window.addEventListener('scroll',()=>document.querySelector('[data-nav]').classList.toggle('solid',scrollY>50));
+document.querySelector('#year').textContent=new Date().getFullYear();
