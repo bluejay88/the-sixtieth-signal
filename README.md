@@ -17,7 +17,7 @@ BrowserSync serves the public site at `http://localhost:3000` and live-reloads H
 
 ## ElevenLabs voice previews
 
-The browser calls `/.netlify/functions/voice-preview`, which keeps the ElevenLabs API key server-side and permits only the ten approved character samples. Copy `.env.example` values into Netlify Environment Variables, using your own licensed ElevenLabs voice IDs. When ElevenLabs is not configured or unavailable, the site automatically falls back to browser speech synthesis so every cast preview still works.
+The browser calls `/.netlify/functions/voice-preview`, which keeps the ElevenLabs API key server-side and permits only the ten approved character samples. Copy `.env.example` values into Netlify Environment Variables, using your own licensed ElevenLabs voice IDs. Robotic browser speech is intentionally disabled; unavailable ElevenLabs previews fail gracefully without playing a low-quality substitute.
 
 ## Deploy
 

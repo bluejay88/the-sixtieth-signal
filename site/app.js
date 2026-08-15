@@ -43,24 +43,14 @@ document.querySelector('.cast-list').innerHTML=cast.map((c,i)=>`<article class="
 document.querySelector('.episode-list').innerHTML=episodes.map(e=>`<article class="episode reveal"><span>${e[0]}</span><div><h3>${e[1]}</h3><small>${e[2]}</small></div><p>${e[3]}</p><button aria-label="Episode ${e[0]} coming soon">COMING SOON</button></article>`).join('');
 document.querySelector('.products').innerHTML=products.map(p=>`<article class="product reveal"><div><small>${p[1]}</small><h3>${p[2]}</h3><p>${p[3]}</p></div><a class="button ${p[0]==='bundle'?'primary':'ghost'} checkout" data-product="${p[0]}" href="#store">${p[0]==='collector'?'Join interest list':'Buy / preorder'}</a></article>`).join('');
 
-const voiceProfiles={narrator:{rate:.83,pitch:.82,gender:'male'},cassian:{rate:.94,pitch:.78,gender:'male'},imani:{rate:.86,pitch:1.02,gender:'female'},nico:{rate:1.08,pitch:1.05,gender:'male'},pike:{rate:.82,pitch:.88,gender:'female'},loam:{rate:.76,pitch:.62,gender:'neutral'},seren:{rate:.72,pitch:.8,gender:'female'},shaal:{rate:.68,pitch:.55,gender:'male'},nara:{rate:.84,pitch:1.08,gender:'female'},abena:{rate:.9,pitch:.96,gender:'female'}};
 let activeAudio;
-function browserSpeakPreview(key,text,button){
-  if(!('speechSynthesis' in window)){toast('This browser does not support synthetic voice previews.');return}
-  speechSynthesis.cancel();
-  const p=voiceProfiles[key]||voiceProfiles.narrator,u=new SpeechSynthesisUtterance(text),voices=speechSynthesis.getVoices();
-  const preferred=voices.filter(v=>/en(-|_)/i.test(v.lang));
-  const femaleNames=/zira|samantha|victoria|susan|aria|jenny|sonia|female/i, maleNames=/david|mark|guy|george|daniel|male/i;
-  u.voice=preferred.find(v=>p.gender==='female'?femaleNames.test(v.name):p.gender==='male'?maleNames.test(v.name):/aria|jenny|mark|david/i.test(v.name))||preferred[(Object.keys(voiceProfiles).indexOf(key)*3)%Math.max(preferred.length,1)]||voices[0];
-  u.rate=p.rate;u.pitch=p.pitch;u.volume=1;button.textContent='■ Stop';u.onend=u.onerror=()=>button.textContent='▶ Preview';speechSynthesis.speak(u);
-}
 async function speakPreview(key,text,button){
   button.textContent='Loading…';button.disabled=true;
   try{const r=await fetch(`/.netlify/functions/voice-preview?character=${encodeURIComponent(key)}`,{method:'POST'});if(!r.ok)throw new Error('fallback');const blob=await r.blob();if(activeAudio)activeAudio.pause();activeAudio=new Audio(URL.createObjectURL(blob));button.textContent='■ Stop';activeAudio.onended=()=>{button.textContent='▶ Preview';button.disabled=false};await activeAudio.play();}
-  catch{button.disabled=false;browserSpeakPreview(key,text,button)}
+  catch{button.disabled=false;button.textContent='▶ Preview';toast('This natural ElevenLabs voice is still being mastered. No robotic fallback will be played.')}
 }
 document.addEventListener('click',e=>{
-  const voiceBtn=e.target.closest('[data-voice]'); if(voiceBtn){ if((activeAudio&&!activeAudio.paused)||speechSynthesis.speaking){activeAudio?.pause();speechSynthesis.cancel();voiceBtn.textContent='▶ Preview';voiceBtn.disabled=false}else{speakPreview(voiceBtn.dataset.voice,voiceBtn.dataset.preview,voiceBtn)} return; }
+  const voiceBtn=e.target.closest('[data-voice]'); if(voiceBtn){ if(activeAudio&&!activeAudio.paused){activeAudio.pause();voiceBtn.textContent='▶ Preview';voiceBtn.disabled=false}else{speakPreview(voiceBtn.dataset.voice,voiceBtn.dataset.preview,voiceBtn)} return; }
   const audioBtn=e.target.closest('[data-audio]');
   if(audioBtn){ const src=audioBtn.dataset.audio; if(activeAudio && activeAudio.src.endsWith(src)){ activeAudio.paused?activeAudio.play():activeAudio.pause(); return; } if(activeAudio) activeAudio.pause(); activeAudio=new Audio(src); activeAudio.play().catch(()=>toast('Audio preview is being mastered. Join the release list for the first listen.')); }
   const checkout=e.target.closest('.checkout'); if(checkout){ const url=window.SIGNAL_CONFIG?.checkout?.[checkout.dataset.product]; if(url){ checkout.href=url; checkout.target='_blank'; } else { e.preventDefault(); document.querySelector('.interest-form input').focus(); toast('Secure checkout is awaiting your live payment link. We moved you to release notifications.'); } }
