@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /dashboard.html
 Sitemap: https://the-sixtieth-signal.netlify.app/sitemap.xml
-
