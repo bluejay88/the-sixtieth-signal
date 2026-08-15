@@ -31,3 +31,7 @@ Netlify Forms captures `loam-archives` and `edition-interest` submissions after 
 ## Developer dashboard
 
 `/dashboard.html` is an aggregate-data product prototype with an 80-metric registry, 20 specialist agent roles, a 50-item roadmap, and PII/RBAC requirements. It intentionally contains no real customer records. Do not connect customer PII until server-side authentication, MFA, encryption, audit logging, and deletion/retention controls are implemented.
+
+## Plugin orchestration
+
+See `PLUGIN_MAP.md` for active capabilities, relevant next-stage plugins, connection requirements, and least-privilege approval boundaries.
