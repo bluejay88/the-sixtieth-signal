@@ -9,8 +9,15 @@ Edit `site/config.js` and paste secure hosted checkout URLs from Stripe Payment 
 ## Run locally
 
 ```powershell
-npx netlify dev
+npm install
+npm run dev
 ```
+
+BrowserSync serves the public site at `http://localhost:3000` and live-reloads HTML, CSS, and JavaScript. Use `npm run dev:netlify` when testing Netlify Functions.
+
+## ElevenLabs voice previews
+
+The browser calls `/.netlify/functions/voice-preview`, which keeps the ElevenLabs API key server-side and permits only the ten approved character samples. Copy `.env.example` values into Netlify Environment Variables, using your own licensed ElevenLabs voice IDs. When ElevenLabs is not configured or unavailable, the site automatically falls back to browser speech synthesis so every cast preview still works.
 
 ## Deploy
 

@@ -6,14 +6,16 @@ const parts = [
   ["V", ["Three Votes","Witness","The Iru-Shai Divide","The Last Reset","Pike Opens the Files","The Human Variable","Signal from Outside","The Creators' Fear","The Consent Protocol","Full Circle"]]
 ];
 const cast = [
-  ["Cassian Osei-Lorne","SYSTEMS ARCHITECT","Warm baritone · analytical · dry humor","/audio/cassian-preview.mp3"],
-  ["Dr. Imani Sayegh","EPIGRAPHER","Low mezzo · exact · surgical wit","/audio/imani-preview.mp3"],
-  ["Nico Ashbourne","INVESTIGATIVE HOST","Bright tenor · agile · attentive",""],
-  ["Director Maelin Pike","COMMAND","Low alto · measured · decisive",""],
-  ["LOAM","THIRD WITNESS","Synthetic neutral · literal · calibrated","/audio/loam-preview.mp3"],
-  ["Seren","ARCHIVIST / CONFESSOR","Contralto · patient · burdened",""],
-  ["Shaal-Amur","IRU-SHAI AUTHORITY","Alien baritone · calm · persuasive",""],
-  ["Nara","THE HUMAN RECORD","Grounded mezzo · intimate · specific",""]
+  ["Narrator","STORY ANCHOR","Intimate low register · documentary restraint","narrator","The map did not show hunger. It showed everything that would become hunger before anyone admitted the connection."],
+  ["Cassian Osei-Lorne","SYSTEMS ARCHITECT","Warm baritone · analytical · dry humor","cassian","Pattern hunger was one of the oldest bugs in the human brain. See three points, invent a constellation."],
+  ["Dr. Imani Sayegh","EPIGRAPHER","Low mezzo · exact · surgical wit","imani","No. You have an incomplete provenance and a pattern you are already calling intentional."],
+  ["Nico Ashbourne","INVESTIGATIVE HOST","Bright tenor · agile · attentive","nico","The story is not what they found. The story is who decided the rest of us were not ready to know."],
+  ["Director Maelin Pike","COMMAND","Low alto · measured · decisive","pike","Keeping the files closed had become another form of command."],
+  ["LOAM","THIRD WITNESS","Synthetic neutral · literal · calibrated","loam","Predictive value is not equivalent to mechanistic confidence. Pattern detection does not establish pattern authorship."],
+  ["Seren","ARCHIVIST / CONFESSOR","Contralto · patient · burdened","seren","Preservation without consent is only another name for possession."],
+  ["Shaal-Amur","IRU-SHAI AUTHORITY","Alien baritone · calm · persuasive","shaal","We did not choose control because we hated freedom. We chose it because we remembered extinction."],
+  ["Nara","THE HUMAN RECORD","Grounded mezzo · intimate · specific","nara","A life does not become small because an archive cannot measure it."],
+  ["Abena","HUMAN GROUNDING","Mature warmth · unsentimental wit","abena","A model is an argument with numbers attached. Go and see the nothing for yourself."]
 ];
 const episodes = [
   ["01","The Wrong Part Is Useful","Chapters 1–5","When does an impossible variable justify action?"],
@@ -37,12 +39,28 @@ const products = [
 const tabs = document.querySelector('.part-tabs'), chapters = document.querySelector('.chapters');
 function showPart(i){ tabs.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-selected',j===i)); chapters.innerHTML=parts[i][1].map((t,j)=>`<div><span>${String(i*10+j+1).padStart(2,'0')}</span><strong>${t}</strong><button aria-label="Preview ${t}">Preview soon</button></div>`).join(''); }
 parts.forEach((p,i)=>{ const b=document.createElement('button'); b.textContent=`PART ${p[0]}`; b.setAttribute('role','tab'); b.onclick=()=>showPart(i); tabs.appendChild(b); }); showPart(0);
-document.querySelector('.cast-list').innerHTML=cast.map((c,i)=>`<article class="cast-row reveal"><span>${String(i+1).padStart(2,'0')}</span><div><h3>${c[0]}</h3><small>${c[1]}</small></div><p>${c[2]}</p>${c[3]?`<button class="mini-play" data-audio="${c[3]}" aria-label="Play ${c[0]} voice preview">▶ Preview</button>`:'<span class="coming">CASTING BIBLE LOCKED</span>'}</article>`).join('');
+document.querySelector('.cast-list').innerHTML=cast.map((c,i)=>`<article class="cast-row reveal"><span>${String(i+1).padStart(2,'0')}</span><div><h3>${c[0]}</h3><small>${c[1]}</small></div><p>${c[2]}</p><button class="mini-play" data-voice="${c[3]}" data-preview="${c[4]}" aria-label="Play ${c[0]} voice preview">▶ Preview</button></article>`).join('');
 document.querySelector('.episode-list').innerHTML=episodes.map(e=>`<article class="episode reveal"><span>${e[0]}</span><div><h3>${e[1]}</h3><small>${e[2]}</small></div><p>${e[3]}</p><button aria-label="Episode ${e[0]} coming soon">COMING SOON</button></article>`).join('');
 document.querySelector('.products').innerHTML=products.map(p=>`<article class="product reveal"><div><small>${p[1]}</small><h3>${p[2]}</h3><p>${p[3]}</p></div><a class="button ${p[0]==='bundle'?'primary':'ghost'} checkout" data-product="${p[0]}" href="#store">${p[0]==='collector'?'Join interest list':'Buy / preorder'}</a></article>`).join('');
 
+const voiceProfiles={narrator:{rate:.83,pitch:.82,gender:'male'},cassian:{rate:.94,pitch:.78,gender:'male'},imani:{rate:.86,pitch:1.02,gender:'female'},nico:{rate:1.08,pitch:1.05,gender:'male'},pike:{rate:.82,pitch:.88,gender:'female'},loam:{rate:.76,pitch:.62,gender:'neutral'},seren:{rate:.72,pitch:.8,gender:'female'},shaal:{rate:.68,pitch:.55,gender:'male'},nara:{rate:.84,pitch:1.08,gender:'female'},abena:{rate:.9,pitch:.96,gender:'female'}};
 let activeAudio;
+function browserSpeakPreview(key,text,button){
+  if(!('speechSynthesis' in window)){toast('This browser does not support synthetic voice previews.');return}
+  speechSynthesis.cancel();
+  const p=voiceProfiles[key]||voiceProfiles.narrator,u=new SpeechSynthesisUtterance(text),voices=speechSynthesis.getVoices();
+  const preferred=voices.filter(v=>/en(-|_)/i.test(v.lang));
+  const femaleNames=/zira|samantha|victoria|susan|aria|jenny|sonia|female/i, maleNames=/david|mark|guy|george|daniel|male/i;
+  u.voice=preferred.find(v=>p.gender==='female'?femaleNames.test(v.name):p.gender==='male'?maleNames.test(v.name):/aria|jenny|mark|david/i.test(v.name))||preferred[(Object.keys(voiceProfiles).indexOf(key)*3)%Math.max(preferred.length,1)]||voices[0];
+  u.rate=p.rate;u.pitch=p.pitch;u.volume=1;button.textContent='■ Stop';u.onend=u.onerror=()=>button.textContent='▶ Preview';speechSynthesis.speak(u);
+}
+async function speakPreview(key,text,button){
+  button.textContent='Loading…';button.disabled=true;
+  try{const r=await fetch(`/.netlify/functions/voice-preview?character=${encodeURIComponent(key)}`,{method:'POST'});if(!r.ok)throw new Error('fallback');const blob=await r.blob();if(activeAudio)activeAudio.pause();activeAudio=new Audio(URL.createObjectURL(blob));button.textContent='■ Stop';activeAudio.onended=()=>{button.textContent='▶ Preview';button.disabled=false};await activeAudio.play();}
+  catch{button.disabled=false;browserSpeakPreview(key,text,button)}
+}
 document.addEventListener('click',e=>{
+  const voiceBtn=e.target.closest('[data-voice]'); if(voiceBtn){ if((activeAudio&&!activeAudio.paused)||speechSynthesis.speaking){activeAudio?.pause();speechSynthesis.cancel();voiceBtn.textContent='▶ Preview';voiceBtn.disabled=false}else{speakPreview(voiceBtn.dataset.voice,voiceBtn.dataset.preview,voiceBtn)} return; }
   const audioBtn=e.target.closest('[data-audio]');
   if(audioBtn){ const src=audioBtn.dataset.audio; if(activeAudio && activeAudio.src.endsWith(src)){ activeAudio.paused?activeAudio.play():activeAudio.pause(); return; } if(activeAudio) activeAudio.pause(); activeAudio=new Audio(src); activeAudio.play().catch(()=>toast('Audio preview is being mastered. Join the release list for the first listen.')); }
   const checkout=e.target.closest('.checkout'); if(checkout){ const url=window.SIGNAL_CONFIG?.checkout?.[checkout.dataset.product]; if(url){ checkout.href=url; checkout.target='_blank'; } else { e.preventDefault(); document.querySelector('.interest-form input').focus(); toast('Secure checkout is awaiting your live payment link. We moved you to release notifications.'); } }

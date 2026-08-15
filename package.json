@@ -1,0 +1,13 @@
+{
+  "name": "the-sixtieth-signal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "browser-sync start --config bs-config.cjs",
+    "dev:netlify": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
