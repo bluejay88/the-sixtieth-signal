@@ -6,4 +6,5 @@ node_modules/
 .env*
 !.env.example
 site/audio/*.mp3
-
+labs.py
+__pycache__/
