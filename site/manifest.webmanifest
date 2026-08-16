@@ -1,0 +1,11 @@
+{
+  "name":"The Sixtieth Signal",
+  "short_name":"Signal 60",
+  "description":"The official reader portal for The Sixtieth Signal by Jayla Harris.",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#04060c",
+  "theme_color":"#04060c",
+  "icons":[{"src":"/assets/cover.png","sizes":"any","type":"image/png","purpose":"any"}]
+}

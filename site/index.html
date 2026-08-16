@@ -19,6 +19,9 @@
 <meta name="twitter:image" content="https://the-sixtieth-signal.netlify.app/assets/cover.png">
 <meta name="theme-color" content="#04060c">
 <meta name="author" content="Jayla Harris">
+<meta name="color-scheme" content="dark">
+<meta name="format-detection" content="telephone=no">
+<link rel="manifest" href="/manifest.webmanifest">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 60'%3E%3Crect width='60' height='60' fill='%2304060c'/%3E%3Ccircle cx='30' cy='30' r='24' stroke='%238fd6ff' stroke-width='2' fill='none' opacity='0.8'/%3E%3Ccircle cx='30' cy='30' r='16' stroke='%23cda75a' stroke-width='1.5' fill='none' opacity='0.7'/%3E%3Ccircle cx='30' cy='30' r='3' fill='%238fd6ff'/%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -33,6 +36,7 @@
   "description": "LOAM was built to predict famine. It finds Antarctica instead. There are three stories in this book. Most readers will only find one."
 }
 </script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is the audiobook available now?","acceptedAnswer":{"@type":"Answer","text":"Not yet. Only approved clips appear in the player."}},{"@type":"Question","name":"What does the free reader offer include?","acceptedAnswer":{"@type":"Answer","text":"A unique signed link to the 89-page Part One reader PDF."}},{"@type":"Question","name":"How is my email used?","acceptedAnswer":{"@type":"Answer","text":"Email is stored for the requested service. Marketing enrollment requires explicit consent."}}]}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -860,6 +864,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 .mobile-drawer .close-btn{position:absolute;top:24px;right:28px;background:none;border:none;color:var(--paper);font-size:27.3px;}
 </style>
+<link rel="stylesheet" href="/enhancements.css">
 </head>
 <body>
 
@@ -985,6 +990,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
         <div class="eyebrow">Free Sample</div>
         <h3>Read Chapter One free.</h3>
         <p>Get secure, immediate access to Part One. No purchase required. Marketing updates are optional and require separate consent.</p>
+        <p id="emailReadiness" class="eyebrow" role="status">Checking delivery options…</p>
       </div>
       <form id="leadMagnetForm" class="lead-magnet-form">
         <input type="text" name="company_website" id="lm-hp" autocomplete="off" tabindex="-1" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;" aria-hidden="true">
@@ -1105,7 +1111,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   <div class="wrap">
     <div class="eyebrow reveal">Listen</div>
     <h2 class="section-title reveal">The <span class="accent">Audiobook</span></h2>
-    <p class="reveal" style="color:var(--slate);margin-top:16.8px;max-width:600px;">Chapter samples, added as they're produced. Full audiobook available at launch alongside every other format.</p>
+    <p class="reveal" style="color:var(--slate);margin-top:16.8px;max-width:600px;">Chapter samples are published only after voice, edit, mastering, and listening-quality approval.</p>
+    <div class="production-status reveal" id="audioProductionStatus" role="status" aria-live="polite"><span class="status-pulse"></span><b>Checking approved audio inventory</b><small id="audioVerifiedAt"></small></div>
     <div class="audiobook-list reveal" id="audiobookList">
       <!-- Populated from the backend at /api/public/audiobook-clips, or a
            local fallback sample if the backend isn't connected yet. -->
@@ -1204,6 +1211,20 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
         <div class="gate-stat"><span>Current interest</span><b id="circleInterest">&mdash;</b></div>
         <a href="#waitlist" class="btn btn-primary" style="margin-top:24px;width:100%;justify-content:center;">Request Access</a>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="faq-section" id="faq">
+  <div class="wrap">
+    <div class="eyebrow reveal">Before You Join</div>
+    <h2 class="section-title reveal">Reader <span class="accent">Briefing</span></h2>
+    <div class="faq-list reveal">
+      <details><summary>Is the audiobook available now?</summary><p>Not yet. Only approved clips appear in the player. Unpublished controls remain disabled so production work is never presented as a finished edition.</p></details>
+      <details><summary>What does the free reader offer include?</summary><p>A unique, signed link to the 89-page Part One reader PDF. Marketing email is optional and requires its own checkbox.</p></details>
+      <details><summary>What are the LOAM Archives?</summary><p>A planned monthly layer of redacted files, research notes, and world material. Archive membership and billing will open only after the owner publishes final terms and benefits.</p></details>
+      <details><summary>How is my email used?</summary><p>Your email is stored for the service you request. Marketing enrollment requires explicit consent, and raw contact data is not exposed through public analytics.</p></details>
+      <details><summary>Where can I report a problem?</summary><p>Use the feedback form below and choose Website issue or Podcast / audiobook. Every submission is stored in the private operations database.</p></details>
     </div>
   </div>
 </section>
@@ -1333,6 +1354,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     </div>
   </div>
 </footer>
+
+<div class="network-indicator" id="networkIndicator" role="status" aria-live="polite" hidden></div>
+<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">&#8593;</button>
+<noscript><div class="noscript-banner">JavaScript is required for secure reader access and live production status. The book information remains available without it.</div></noscript>
 
 <script>
 // Backend base URL — the owner/developer-only API. Update this once your
@@ -1696,5 +1721,6 @@ function bindLeadMagnetForm(){
 bindLeadMagnetForm();
 
 </script>
+<script src="/enhancements.js" defer></script>
 </body>
 </html>
