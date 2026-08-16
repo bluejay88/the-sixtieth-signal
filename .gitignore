@@ -9,3 +9,4 @@ site/audio/*.mp3
 audiobook/audio/
 labs.py
 __pycache__/
+.venv-local-tts/
