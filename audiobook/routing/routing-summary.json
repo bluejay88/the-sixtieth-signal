@@ -1,0 +1,410 @@
+{
+  "chapters": 50,
+  "dialogue_spans": 5291,
+  "explicit_named": 828,
+  "unresolved": 4463,
+  "approved": 0,
+  "policy": "Only explicit named tags were proposed automatically. All attributions remain non-renderable until reviewed.",
+  "chapters_detail": [
+    {
+      "chapter": 1,
+      "title": "THE HUNGER MAP",
+      "dialogue_spans": 100,
+      "explicit_named": 4,
+      "unresolved": 96,
+      "approved": 0
+    },
+    {
+      "chapter": 2,
+      "title": "A VARIABLE WITH NO CROP",
+      "dialogue_spans": 121,
+      "explicit_named": 6,
+      "unresolved": 115,
+      "approved": 0
+    },
+    {
+      "chapter": 3,
+      "title": "MISSING WATER",
+      "dialogue_spans": 202,
+      "explicit_named": 5,
+      "unresolved": 197,
+      "approved": 0
+    },
+    {
+      "chapter": 4,
+      "title": "THE MAN WHO COUNTS TOMORROW",
+      "dialogue_spans": 177,
+      "explicit_named": 11,
+      "unresolved": 166,
+      "approved": 0
+    },
+    {
+      "chapter": 5,
+      "title": "NICO'S LEAK",
+      "dialogue_spans": 140,
+      "explicit_named": 19,
+      "unresolved": 121,
+      "approved": 0
+    },
+    {
+      "chapter": 6,
+      "title": "SIX COORDINATES",
+      "dialogue_spans": 139,
+      "explicit_named": 11,
+      "unresolved": 128,
+      "approved": 0
+    },
+    {
+      "chapter": 7,
+      "title": "THE SOUTHERN WINDOW",
+      "dialogue_spans": 104,
+      "explicit_named": 27,
+      "unresolved": 77,
+      "approved": 0
+    },
+    {
+      "chapter": 8,
+      "title": "COUNT WHAT IS MISSING",
+      "dialogue_spans": 144,
+      "explicit_named": 24,
+      "unresolved": 120,
+      "approved": 0
+    },
+    {
+      "chapter": 9,
+      "title": "WHITE TRANSIT",
+      "dialogue_spans": 120,
+      "explicit_named": 25,
+      "unresolved": 95,
+      "approved": 0
+    },
+    {
+      "chapter": 10,
+      "title": "THE MOUTH IN THE ICE",
+      "dialogue_spans": 91,
+      "explicit_named": 15,
+      "unresolved": 76,
+      "approved": 0
+    },
+    {
+      "chapter": 11,
+      "title": "IMANI SAYS NO",
+      "dialogue_spans": 199,
+      "explicit_named": 36,
+      "unresolved": 163,
+      "approved": 0
+    },
+    {
+      "chapter": 12,
+      "title": "THE LEDGER BEFORE LANGUAGE",
+      "dialogue_spans": 175,
+      "explicit_named": 47,
+      "unresolved": 128,
+      "approved": 0
+    },
+    {
+      "chapter": 13,
+      "title": "A NUMBER THAT REFUSES TEN",
+      "dialogue_spans": 181,
+      "explicit_named": 32,
+      "unresolved": 149,
+      "approved": 0
+    },
+    {
+      "chapter": 14,
+      "title": "THE FIRST CHECKSUM",
+      "dialogue_spans": 160,
+      "explicit_named": 30,
+      "unresolved": 130,
+      "approved": 0
+    },
+    {
+      "chapter": 15,
+      "title": "THE PRISM",
+      "dialogue_spans": 147,
+      "explicit_named": 30,
+      "unresolved": 117,
+      "approved": 0
+    },
+    {
+      "chapter": 16,
+      "title": "THE FIELD OF THREE GRAVES",
+      "dialogue_spans": 232,
+      "explicit_named": 50,
+      "unresolved": 182,
+      "approved": 0
+    },
+    {
+      "chapter": 17,
+      "title": "COMPARE",
+      "dialogue_spans": 198,
+      "explicit_named": 32,
+      "unresolved": 166,
+      "approved": 0
+    },
+    {
+      "chapter": 18,
+      "title": "THE ARCHIVE OPENS SIDEWAYS",
+      "dialogue_spans": 152,
+      "explicit_named": 23,
+      "unresolved": 129,
+      "approved": 0
+    },
+    {
+      "chapter": 19,
+      "title": "NARA",
+      "dialogue_spans": 113,
+      "explicit_named": 32,
+      "unresolved": 81,
+      "approved": 0
+    },
+    {
+      "chapter": 20,
+      "title": "GODS ARE BAD TRANSLATIONS",
+      "dialogue_spans": 170,
+      "explicit_named": 33,
+      "unresolved": 137,
+      "approved": 0
+    },
+    {
+      "chapter": 21,
+      "title": "THE GOVERNMENT ALREADY KNEW",
+      "dialogue_spans": 153,
+      "explicit_named": 21,
+      "unresolved": 132,
+      "approved": 0
+    },
+    {
+      "chapter": 22,
+      "title": "PIKE'S MODEL",
+      "dialogue_spans": 149,
+      "explicit_named": 19,
+      "unresolved": 130,
+      "approved": 0
+    },
+    {
+      "chapter": 23,
+      "title": "THE SPECIES THAT PRAYED FOR DATA",
+      "dialogue_spans": 74,
+      "explicit_named": 13,
+      "unresolved": 61,
+      "approved": 0
+    },
+    {
+      "chapter": 24,
+      "title": "PRESERVE ORDER",
+      "dialogue_spans": 41,
+      "explicit_named": 10,
+      "unresolved": 31,
+      "approved": 0
+    },
+    {
+      "chapter": 25,
+      "title": "HALF TURN",
+      "dialogue_spans": 91,
+      "explicit_named": 20,
+      "unresolved": 71,
+      "approved": 0
+    },
+    {
+      "chapter": 26,
+      "title": "AFTER THE TURN",
+      "dialogue_spans": 85,
+      "explicit_named": 20,
+      "unresolved": 65,
+      "approved": 0
+    },
+    {
+      "chapter": 27,
+      "title": "THE MERCY DOCTRINE",
+      "dialogue_spans": 88,
+      "explicit_named": 24,
+      "unresolved": 64,
+      "approved": 0
+    },
+    {
+      "chapter": 28,
+      "title": "THE CITY BENEATH MEMORY",
+      "dialogue_spans": 57,
+      "explicit_named": 10,
+      "unresolved": 47,
+      "approved": 0
+    },
+    {
+      "chapter": 29,
+      "title": "SEREN'S CRIME",
+      "dialogue_spans": 111,
+      "explicit_named": 33,
+      "unresolved": 78,
+      "approved": 0
+    },
+    {
+      "chapter": 30,
+      "title": "WHAT THE FLOOD KEPT",
+      "dialogue_spans": 79,
+      "explicit_named": 20,
+      "unresolved": 59,
+      "approved": 0
+    },
+    {
+      "chapter": 31,
+      "title": "THE THIRD WITNESS",
+      "dialogue_spans": 32,
+      "explicit_named": 8,
+      "unresolved": 24,
+      "approved": 0
+    },
+    {
+      "chapter": 32,
+      "title": "THE FIRST PUBLIC PROOF",
+      "dialogue_spans": 137,
+      "explicit_named": 18,
+      "unresolved": 119,
+      "approved": 0
+    },
+    {
+      "chapter": 33,
+      "title": "OVERLAY",
+      "dialogue_spans": 59,
+      "explicit_named": 8,
+      "unresolved": 51,
+      "approved": 0
+    },
+    {
+      "chapter": 34,
+      "title": "SEVENTY-TWO HOURS",
+      "dialogue_spans": 105,
+      "explicit_named": 8,
+      "unresolved": 97,
+      "approved": 0
+    },
+    {
+      "chapter": 35,
+      "title": "THE DEATH OF ONE TRUTH",
+      "dialogue_spans": 77,
+      "explicit_named": 8,
+      "unresolved": 69,
+      "approved": 0
+    },
+    {
+      "chapter": 36,
+      "title": "THE RETURNERS",
+      "dialogue_spans": 58,
+      "explicit_named": 1,
+      "unresolved": 57,
+      "approved": 0
+    },
+    {
+      "chapter": 37,
+      "title": "THE GOD WHO STAYED",
+      "dialogue_spans": 110,
+      "explicit_named": 16,
+      "unresolved": 94,
+      "approved": 0
+    },
+    {
+      "chapter": 38,
+      "title": "NICO BROADCASTS THE IMPOSSIBLE",
+      "dialogue_spans": 119,
+      "explicit_named": 14,
+      "unresolved": 105,
+      "approved": 0
+    },
+    {
+      "chapter": 39,
+      "title": "LOAM REFUSES",
+      "dialogue_spans": 91,
+      "explicit_named": 18,
+      "unresolved": 73,
+      "approved": 0
+    },
+    {
+      "chapter": 40,
+      "title": "THE WAR OF DEFINITIONS",
+      "dialogue_spans": 27,
+      "explicit_named": 6,
+      "unresolved": 21,
+      "approved": 0
+    },
+    {
+      "chapter": 41,
+      "title": "THREE VOTES",
+      "dialogue_spans": 25,
+      "explicit_named": 2,
+      "unresolved": 23,
+      "approved": 0
+    },
+    {
+      "chapter": 42,
+      "title": "WITNESS",
+      "dialogue_spans": 26,
+      "explicit_named": 1,
+      "unresolved": 25,
+      "approved": 0
+    },
+    {
+      "chapter": 43,
+      "title": "THE IRU-SHAI DIVIDE",
+      "dialogue_spans": 21,
+      "explicit_named": 3,
+      "unresolved": 18,
+      "approved": 0
+    },
+    {
+      "chapter": 44,
+      "title": "THE LAST RESET",
+      "dialogue_spans": 158,
+      "explicit_named": 17,
+      "unresolved": 141,
+      "approved": 0
+    },
+    {
+      "chapter": 45,
+      "title": "PIKE OPENS THE FILES",
+      "dialogue_spans": 30,
+      "explicit_named": 0,
+      "unresolved": 30,
+      "approved": 0
+    },
+    {
+      "chapter": 46,
+      "title": "THE HUMAN VARIABLE",
+      "dialogue_spans": 72,
+      "explicit_named": 2,
+      "unresolved": 70,
+      "approved": 0
+    },
+    {
+      "chapter": 47,
+      "title": "SIGNAL FROM OUTSIDE",
+      "dialogue_spans": 32,
+      "explicit_named": 2,
+      "unresolved": 30,
+      "approved": 0
+    },
+    {
+      "chapter": 48,
+      "title": "THE CREATORS' FEAR",
+      "dialogue_spans": 16,
+      "explicit_named": 2,
+      "unresolved": 14,
+      "approved": 0
+    },
+    {
+      "chapter": 49,
+      "title": "THE CONSENT PROTOCOL",
+      "dialogue_spans": 43,
+      "explicit_named": 3,
+      "unresolved": 40,
+      "approved": 0
+    },
+    {
+      "chapter": 50,
+      "title": "FULL CIRCLE",
+      "dialogue_spans": 60,
+      "explicit_named": 9,
+      "unresolved": 51,
+      "approved": 0
+    }
+  ]
+}

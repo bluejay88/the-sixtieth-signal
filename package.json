@@ -8,6 +8,8 @@
     "deploy": "netlify deploy --prod",
     "audio:prepare": "node scripts/prepare-audiobook.mjs",
     "audio:signals": "node scripts/prepare-signal-layer.mjs",
+    "audio:route:chapter1": "node scripts/extract-dialogue-routing.mjs --chapter=1",
+    "audio:route": "node scripts/extract-dialogue-routing.mjs --all",
     "audio:plan": "node scripts/generate-elevenlabs.mjs --dry-run"
   },
   "devDependencies": {
