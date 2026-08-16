@@ -20,8 +20,8 @@ export default async (request) => {
   const character=new URL(request.url).searchParams.get("character")?.toLowerCase();
   if(!character||!scripts[character]) return Response.json({error:"Unknown character"},{status:400});
   const apiKey=Netlify.env.get("ELEVENLABS_API_KEY"), voiceId=Netlify.env.get(`ELEVENLABS_VOICE_${character.toUpperCase()}`);
-  if(!apiKey||!voiceId) return Response.json({error:"ElevenLabs voice is not configured; use browser fallback.",fallback:true},{status:503,headers:{"Cache-Control":"no-store","X-Request-Source":ip==="unknown"?"unknown":"netlify"}});
+  if(!apiKey||!voiceId) return Response.json({error:"Natural voice preview is not configured.",fallback:false},{status:503,headers:{"Cache-Control":"no-store","X-Request-Source":ip==="unknown"?"unknown":"netlify"}});
   const response=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voiceId)}?output_format=mp3_44100_128`,{method:"POST",headers:{"xi-api-key":apiKey,"Content-Type":"application/json","Accept":"audio/mpeg"},body:JSON.stringify({text:scripts[character],model_id:Netlify.env.get("ELEVENLABS_MODEL_ID")||"eleven_multilingual_v2",voice_settings:{...settings[character],use_speaker_boost:true}})});
-  if(!response.ok){const detail=await response.text();console.error("ElevenLabs preview failed",response.status,detail.slice(0,300));return Response.json({error:"Voice service unavailable",fallback:true},{status:502,headers:{"Cache-Control":"no-store"}})}
+  if(!response.ok){const detail=await response.text();console.error("ElevenLabs preview failed",response.status,detail.slice(0,300));return Response.json({error:"Natural voice service unavailable",fallback:false},{status:502,headers:{"Cache-Control":"no-store"}})}
   return new Response(response.body,{status:200,headers:{"Content-Type":"audio/mpeg","Cache-Control":"public, max-age=86400","X-Voice-Provider":"ElevenLabs"}});
 };
