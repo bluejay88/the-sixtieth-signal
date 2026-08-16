@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "series": "Unfinished Evidence: The Sixtieth Signal Companion",
+  "canonical_status": "non-canonical companion commentary",
+  "publication_status": "in_development",
+  "panel_size": 8,
+  "episodes": [
+    {"number":0,"slug":"signal-before-story","milestone":"PRE-READ","spoiler_scope":"premise-only","status":"script_draft"},
+    {"number":1,"slug":"count","milestone":"S060 COUNT","spoiler_scope":"through Chapter 8","status":"outline_required"},
+    {"number":2,"slug":"compare","milestone":"S120 COMPARE","spoiler_scope":"through Chapter 17","status":"outline_required"},
+    {"number":3,"slug":"turn","milestone":"S180 TURN","spoiler_scope":"through Chapter 25","status":"outline_required"},
+    {"number":4,"slug":"overlay","milestone":"S240 OVERLAY","spoiler_scope":"through Chapter 33","status":"outline_required"},
+    {"number":5,"slug":"witness","milestone":"S300 WITNESS","spoiler_scope":"through Chapter 42","status":"outline_required"},
+    {"number":6,"slug":"return","milestone":"S360 RETURN","spoiler_scope":"full book","status":"outline_required"}
+  ]
+}
