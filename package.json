@@ -15,6 +15,7 @@
     "audio:validate-routing": "node scripts/validate-routing-decisions.mjs",
     "audio:test-routing": "node --test tests/routing-validator.test.mjs",
     "audio:audit-readiness": "node scripts/audit-audio-readiness.mjs --report-only",
+    "audio:audit-completion": "node scripts/audit-audiobook-completion.mjs",
     "podcast:validate": "node scripts/validate-podcast-season.mjs",
     "audio:plan": "node scripts/generate-elevenlabs.mjs --dry-run"
   },

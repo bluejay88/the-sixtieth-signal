@@ -30,3 +30,6 @@ node scripts/generate-elevenlabs.mjs --chapter=1
 8. Retail metadata, credits, AI-voice disclosure, and distribution requirements approved.
 
 The retail audiobook must never include companion-panel interruptions. Signal Pause discussions are separate bonus/podcast tracks.
+# Completion verification
+
+Run `npm run audio:audit-completion`. A release is complete only when it returns `complete: true`: 50 chapter masters, 209 non-empty source-aligned audio segments, approved casting and pronunciation, resolved routing for all 5,291 dialogue spans, and an accounted-for 360-signal layer. A website label or successful API request is not evidence of audiobook completion.
