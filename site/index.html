@@ -440,11 +440,11 @@ section{
 .lead-magnet-copy h3{font-family:var(--font-display);font-size:26.3px;color:var(--paper);margin-top:6px;}
 .lead-magnet-copy p{color:var(--slate);font-size:14.7px;margin-top:10px;max-width:440px;}
 .lead-magnet-form{display:flex;gap:10px;flex-wrap:wrap;flex:1;min-width:280px;max-width:460px;}
-.lead-magnet-form input[type="email"]{
+.lead-magnet-form input[type="email"],.lead-magnet-form input[type="text"]{
   flex:1;min-width:180px;background:var(--void);border:1px solid var(--line-bright);color:var(--paper);
   padding:14px 16px;font-family:var(--font-body);font-size:14.7px;border-radius:2px;
 }
-.lead-magnet-form input[type="email"]:focus{outline:none;border-color:var(--ice);}
+.lead-magnet-form input[type="email"]:focus,.lead-magnet-form input[type="text"]:focus{outline:none;border-color:var(--ice);}
 .lead-magnet-success{display:none;color:var(--aurora);font-family:var(--font-mono);font-size:12.6px;letter-spacing:0.05em;max-width:460px;}
 .lead-magnet-success.show{display:block;}
 .referral-block{margin-top:16px;padding-top:16px;border-top:1px solid var(--line);}
@@ -984,15 +984,19 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
       <div class="lead-magnet-copy">
         <div class="eyebrow">Free Sample</div>
         <h3>Read Chapter One free.</h3>
-        <p>"The Hunger Map" &mdash; the opening chapter, sent straight to your inbox. No purchase required, and you'll be first in line when the Circle opens.</p>
+        <p>Get secure, immediate access to Part One. No purchase required. Marketing updates are optional and require separate consent.</p>
       </div>
       <form id="leadMagnetForm" class="lead-magnet-form">
         <input type="text" name="company_website" id="lm-hp" autocomplete="off" tabindex="-1" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;" aria-hidden="true">
+        <input type="text" id="lm-first" required placeholder="First name" aria-label="First name">
+        <input type="text" id="lm-last" required placeholder="Last name" aria-label="Last name">
         <input type="email" id="lm-email" required placeholder="you@email.com" aria-label="Email address">
-        <button type="submit" class="btn btn-primary">Send Me Chapter One</button>
+        <label style="display:flex;gap:8px;align-items:flex-start;color:var(--slate);font:11px var(--font-mono);width:100%;"><input type="checkbox" id="lm-marketing" style="margin-top:3px;"> Email me launch, newsletter, and LOAM Archives updates. Optional.</label>
+        <button type="submit" class="btn btn-primary">Unlock Part One</button>
+        <span id="leadMagnetStatus" role="status" aria-live="polite" style="color:var(--gold);font:11px var(--font-mono);width:100%;"></span>
       </form>
       <div class="lead-magnet-success" id="leadMagnetSuccess">
-        <span>&#10003;</span> Check your inbox &mdash; Chapter One is on its way.
+        <span>&#10003;</span> Reader access is ready. <a id="lmDownloadLink" class="btn btn-primary" href="#">Download Part One</a>
         <div class="referral-block" id="lmReferralBlock" style="display:none;">
           <p>Want to move up the list? Share your link &mdash; every reader who joins through it counts toward your founding-member spot.</p>
           <div class="referral-row">
@@ -1643,44 +1647,49 @@ loadAudiobookClips();
 function bindLeadMagnetForm(){
   const form=document.getElementById('leadMagnetForm');
   const success=document.getElementById('leadMagnetSuccess');
+  const status=document.getElementById('leadMagnetStatus');
+  const button=form.querySelector('button[type="submit"]');
+  const downloadLink=document.getElementById('lmDownloadLink');
   const referralBlock=document.getElementById('lmReferralBlock');
   const referralInput=document.getElementById('lmReferralLink');
   const copyBtn=document.getElementById('lmCopyBtn');
 
   form.addEventListener('submit',async(e)=>{
     e.preventDefault();
+    button.disabled=true;
+    status.textContent='Creating secure reader access...';
     const params=new URLSearchParams(window.location.search);
     const payload={
+      first_name:document.getElementById('lm-first').value,
+      last_name:document.getElementById('lm-last').value,
       email:document.getElementById('lm-email').value,
-      source:'lead_magnet_chapter1',
-      referred_by:params.get('ref') || undefined,
-      company_website:document.getElementById('lm-hp').value
+      reward:'part_one',
+      delivery_consent:true,
+      email_marketing_consent:document.getElementById('lm-marketing').checked,
+      programs:document.getElementById('lm-marketing').checked?['newsletter']:[],
+      interests:['part_one_reader'],
+      utm_source:params.get('utm_source')||'website_lead_magnet',
+      utm_medium:params.get('utm_medium')||'website',
+      utm_campaign:params.get('utm_campaign')||'part_one_reader',
+      bot_field:document.getElementById('lm-hp').value
     };
-    let referralCode=null;
     try{
-      const res=await fetch(BACKEND_WAITLIST_URL,{
+      const res=await fetch('/.netlify/functions/coupon-access',{
         method:'POST',
         headers:{'content-type':'application/json'},
         body:JSON.stringify(payload)
       });
-      if(res.ok){
-        const data=await res.json();
-        referralCode=data.referral_code || null;
-      }
+      if(!res.ok)throw new Error(`reader access ${res.status}`);
+      const data=await res.json();
+      if(!data.download_url)throw new Error('download unavailable');
+      downloadLink.href=data.download_url;
+      form.style.display='none';
+      success.classList.add('show');
     }catch(err){
-      console.warn('Lead magnet submission failed (backend may not be deployed yet):',err);
-    }
-    form.style.display='none';
-    success.classList.add('show');
-    if(referralCode){
-      const link=`${window.location.origin}${window.location.pathname}?ref=${referralCode}#lead-magnet`;
-      referralInput.value=link;
-      referralBlock.style.display='block';
-      copyBtn.addEventListener('click',()=>{
-        navigator.clipboard?.writeText(link);
-        copyBtn.textContent='Copied';
-        setTimeout(()=>copyBtn.textContent='Copy',1800);
-      });
+      console.warn('Lead magnet submission failed:',err);
+      status.textContent='Reader access could not be created. Please try again.';
+      button.disabled=false;
+      return;
     }
   });
 }

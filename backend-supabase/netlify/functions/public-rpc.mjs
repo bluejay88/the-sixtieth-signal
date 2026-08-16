@@ -16,6 +16,8 @@ export default async request=>{
   const {url,publishableKey}=configuration();
   const input=route.method==='POST'?await request.json().catch(()=>null):{};
   if(route.method==='POST'&&(!input||input.company_website))return safeJson(input?.company_website?{ok:true}:{error:'invalid_json'},input?.company_website?200:400,cors);
+  if(route.rpc==='join_signal_waitlist'&&(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(input.email||''))||input.email_consent!==true))return safeJson({error:'valid_email_and_consent_required'},400,cors);
+  if(route.rpc==='submit_signal_feedback'&&(!String(input.message||'').trim()||String(input.message).length>4000))return safeJson({error:'valid_message_required'},400,cors);
   const response=await fetch(`${url}/rest/v1/rpc/${route.rpc}`,{method:'POST',headers:{...publicHeaders(publishableKey),'Content-Type':'application/json'},body:JSON.stringify(route.method==='POST'?{p:input}:{}),signal:AbortSignal.timeout(8000)});
   if(!response.ok){console.error('public RPC failed',route.rpc,response.status);return safeJson({error:'service_unavailable'},503,cors);}
   const body=await response.json();
