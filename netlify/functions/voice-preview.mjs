@@ -10,6 +10,7 @@ const scripts = {
   nara: "A life does not become small because an archive cannot measure it.",
   abena: "A model is an argument with numbers attached. Go and see the nothing for yourself."
 };
+export const config={path:'/.netlify/functions/voice-preview',rateLimit:{action:'rate_limit',windowLimit:20,windowSize:60,aggregateBy:['ip','domain']}};
 const settings = {
   narrator:{stability:.74,similarity_boost:.76,style:.12},cassian:{stability:.7,similarity_boost:.78,style:.18},imani:{stability:.82,similarity_boost:.75,style:.1},nico:{stability:.55,similarity_boost:.8,style:.32},pike:{stability:.86,similarity_boost:.76,style:.08},loam:{stability:.96,similarity_boost:.82,style:0},seren:{stability:.78,similarity_boost:.8,style:.16},shaal:{stability:.9,similarity_boost:.84,style:.08},nara:{stability:.7,similarity_boost:.75,style:.2},abena:{stability:.66,similarity_boost:.78,style:.25}
 };

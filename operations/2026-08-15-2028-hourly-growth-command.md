@@ -9,6 +9,7 @@
 - Natural-voice previews remain unavailable because the ElevenLabs `sk_` secret and voice IDs are not configured.
 - Store, donation, and social destinations remain blank; no sales or donation capability is being claimed.
 - No verified revenue, traffic, subscriber, playback, or conversion metrics are connected.
+- Netlify function rate limits were preview-tested: a 40-request invalid-token burst produced 29 controlled HTTP 403 responses followed by 11 HTTP 429 responses.
 
 ## Completed internal tasks
 
@@ -32,11 +33,13 @@
 18. Audited canonical and social-sharing metadata.
 19. Prepared canonical, Open Graph, Twitter Card, and Book structured data.
 20. Preserved the explicit distinction between unavailable metrics and verified data.
+21. Added code-defined Netlify rate limits to coupon and voice functions.
+22. Verified excessive coupon-function traffic receives HTTP 429 without creating database records.
 
 ## Rolling queue
 
 1. Deploy and verify the new SEO metadata.
-2. Add coupon endpoint rate limiting at the server boundary.
+2. Monitor production coupon rate-limit behavior after deployment.
 3. Replace the publicly callable database RPC with a server-authenticated write path.
 4. Add campaign capacity and expiration enforcement.
 5. Add coupon redemption events without exposing PII.

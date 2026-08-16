@@ -1,5 +1,6 @@
 import {createHmac,randomBytes,timingSafeEqual,createHash} from 'node:crypto';
 import {readFile} from 'node:fs/promises';
+export const config={path:'/.netlify/functions/coupon-access',rateLimit:{action:'rate_limit',windowLimit:12,windowSize:60,aggregateBy:['ip','domain']}};
 const maxAge=60*60*24*30;
 const b64=x=>Buffer.from(x).toString('base64url');
 const sign=(payload,secret)=>createHmac('sha256',secret).update(payload).digest('base64url');
