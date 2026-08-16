@@ -4,7 +4,7 @@
 
 - Public site, developer dashboard, robots file, and sitemap returned HTTP 200.
 - The legacy reader PDF remains directly public at `/downloads/the-sixtieth-signal-reader-edition.pdf` (HTTP 200; 4,273,059 bytes). This bypasses signed coupon access and is a release-control blocker.
-- Coupon issuance returns a correctly formatted code, but the production function reports `stored: false`. Do not count the submission as a captured CRM lead until persistence is verified end to end.
+- Coupon persistence was repaired by migration `002_fix_coupon_rpc.sql`; production now returns `stored: true`, and a signed Part I download returned HTTP 200 with an 873,309-byte PDF.
 - All ten voice preview endpoints return HTTP 503. Netlify has no `ELEVENLABS_*` variables; the local `labs.py` value is a key ID rather than a valid `sk_` secret.
 - Commerce, donations, and social destinations are intentionally blank in `site/config.js`; no payment or social conversion is available.
 - BrowserSync starts from `npm run dev`.
@@ -40,8 +40,8 @@
 - Owner: provide hosted checkout/donation URLs and approve products, prices, refund terms, and tax settings.
 - Owner: provide official social-profile URLs.
 - Owner/legal: approve privacy, terms, refund, membership, AI-voice disclosure, and rights language.
-- Engineering: repair and verify Supabase persistence before treating coupon submissions as leads.
-- Release: remove the legacy public PDF after confirming signed downloads remain functional.
+- Engineering: add abuse controls before scaling the anonymous coupon endpoint; the public `SECURITY DEFINER` RPC remains an advisor warning.
+- Release: deploy the forced redirect that closes the legacy public PDF path; signed-download regression QA has passed.
 
 ## Next queue (highest value first)
 
