@@ -1,0 +1,11 @@
+{
+  "name": "the-sixtieth-signal-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Owner/developer-only backend for The Sixtieth Signal — reporting, subscribers, customer service, blog queue, and security, built to be operated by AI agents.",
+  "type": "module",
+  "dependencies": {
+    "@netlify/database": "*",
+    "@netlify/functions": "*"
+  }
+}

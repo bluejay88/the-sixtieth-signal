@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sixtieth-signal-backend": {
+      "command": "node",
+      "args": ["/absolute/path/to/mcp-server/index.mjs"],
+      "env": {
+        "SIGNAL_BACKEND_URL": "https://the-sixtieth-signal-backend.netlify.app",
+        "SIGNAL_ADMIN_API_KEY": "paste-your-admin-api-key-here"
+      }
+    }
+  }
+}

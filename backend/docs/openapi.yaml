@@ -1,0 +1,354 @@
+openapi: 3.1.0
+info:
+  title: The Sixtieth Signal — Admin & Agent API
+  version: "1.0.0"
+  description: >
+    Owner/developer-only backend for The Sixtieth Signal. Every /api/admin/*
+    route requires a Bearer token (ADMIN_API_KEY) and is meant to be called by
+    the site owner or by trusted AI agents acting on the owner's behalf — never
+    by site visitors. Import this file directly into any platform that accepts
+    an OpenAPI connector (custom GPT Actions, agent-builder tool configs, etc.).
+servers:
+  - url: https://the-sixtieth-signal-backend.netlify.app
+    description: Backend project (replace with your custom domain once attached)
+security:
+  - bearerAuth: []
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: The ADMIN_API_KEY value, set as a Netlify environment variable and never exposed client-side.
+  schemas:
+    Subscriber:
+      type: object
+      properties:
+        id: { type: integer }
+        name: { type: string, nullable: true }
+        email: { type: string }
+        format_pref: { type: string, nullable: true }
+        age_range: { type: string, nullable: true }
+        region: { type: string, nullable: true }
+        source: { type: string }
+        status: { type: string, enum: [waitlist, circle_member, unsubscribed] }
+        created_at: { type: string, format: date-time }
+    FeedbackItem:
+      type: object
+      properties:
+        id: { type: integer }
+        email: { type: string, nullable: true }
+        topic: { type: string, nullable: true }
+        message: { type: string }
+        status: { type: string, enum: [new, reviewed, archived] }
+        created_at: { type: string, format: date-time }
+    BlogPost:
+      type: object
+      properties:
+        id: { type: integer }
+        title: { type: string }
+        body_md: { type: string }
+        tag: { type: string, nullable: true }
+        status: { type: string, enum: [draft, review, live, rejected] }
+        author: { type: string }
+        created_at: { type: string, format: date-time }
+        updated_at: { type: string, format: date-time }
+        published_at: { type: string, format: date-time, nullable: true }
+    SupportTicket:
+      type: object
+      properties:
+        id: { type: integer }
+        email: { type: string }
+        subject: { type: string }
+        message: { type: string }
+        status: { type: string, enum: [open, pending, resolved, escalated] }
+        priority: { type: string, enum: [low, normal, high, urgent] }
+        assigned_agent: { type: string, nullable: true }
+        created_at: { type: string, format: date-time }
+    Order:
+      type: object
+      properties:
+        id: { type: integer }
+        email: { type: string }
+        product: { type: string, enum: [hardcover, paperback, ebook, audiobook] }
+        amount_cents: { type: integer }
+        currency: { type: string }
+        status: { type: string, enum: [pending, paid, refunded, cancelled] }
+        external_ref: { type: string, nullable: true }
+        created_at: { type: string, format: date-time }
+    SecurityEvent:
+      type: object
+      properties:
+        id: { type: integer }
+        event_type: { type: string }
+        detail: { type: string, nullable: true }
+        ip_hash: { type: string, nullable: true }
+        severity: { type: string, enum: [info, warning, critical] }
+        created_at: { type: string, format: date-time }
+paths:
+  /api/admin/overview:
+    get:
+      operationId: getOverviewReport
+      summary: High-level KPI snapshot — subscribers, feedback, blog queue, gate engagement, security counts.
+      responses:
+        "200": { description: OK }
+  /api/admin/demographics:
+    get:
+      operationId: getDemographicsReport
+      summary: Reader demographics — age range, region, format preference, source, and 30-day signup trend.
+      responses:
+        "200": { description: OK }
+  /api/admin/subscribers:
+    get:
+      operationId: listSubscribers
+      summary: List subscribers (waitlist + Circle members).
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [waitlist, circle_member, unsubscribed] }
+        - name: limit
+          in: query
+          schema: { type: integer, default: 50, maximum: 500 }
+        - name: offset
+          in: query
+          schema: { type: integer, default: 0 }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  subscribers:
+                    type: array
+                    items: { $ref: "#/components/schemas/Subscriber" }
+    patch:
+      operationId: updateSubscriberStatus
+      summary: Change a subscriber's status (e.g. promote waitlist -> circle_member).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id, status]
+              properties:
+                id: { type: integer }
+                status: { type: string, enum: [waitlist, circle_member, unsubscribed] }
+      responses:
+        "200": { description: OK }
+  /api/admin/feedback:
+    get:
+      operationId: listFeedback
+      summary: List reader feedback submissions.
+      responses:
+        "200": { description: OK }
+    patch:
+      operationId: updateFeedbackStatus
+      summary: Mark feedback reviewed/archived.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id, status]
+              properties:
+                id: { type: integer }
+                status: { type: string, enum: [new, reviewed, archived] }
+      responses:
+        "200": { description: OK }
+  /api/admin/blog:
+    get:
+      operationId: listBlogQueue
+      summary: List dispatch/blog posts in the content queue, optionally filtered by status.
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [draft, review, live, rejected] }
+      responses:
+        "200": { description: OK }
+    post:
+      operationId: createBlogDraft
+      summary: Create a new draft dispatch. Always lands as status=draft — never auto-published.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [title, body_md]
+              properties:
+                title: { type: string }
+                body_md: { type: string }
+                tag: { type: string }
+                author: { type: string, description: "Name/role of the authoring agent, e.g. 'content-agent'" }
+      responses:
+        "200": { description: OK }
+    patch:
+      operationId: updateBlogStatus
+      summary: Move a post through draft -> review -> live (or rejected).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id, status]
+              properties:
+                id: { type: integer }
+                status: { type: string, enum: [draft, review, live, rejected] }
+      responses:
+        "200": { description: OK }
+  /api/admin/support:
+    get:
+      operationId: listOrGetSupportTickets
+      summary: List support tickets (optionally by status), or fetch one ticket with its replies via ticket_id.
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [open, pending, resolved, escalated] }
+        - name: ticket_id
+          in: query
+          schema: { type: integer }
+      responses:
+        "200": { description: OK }
+    post:
+      operationId: createTicketOrReply
+      summary: Open a new ticket (email, subject, message) or reply to an existing one (ticket_id, message).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email: { type: string }
+                subject: { type: string }
+                message: { type: string }
+                ticket_id: { type: integer }
+                author: { type: string }
+                priority: { type: string, enum: [low, normal, high, urgent] }
+      responses:
+        "200": { description: OK }
+    patch:
+      operationId: updateSupportTicket
+      summary: Update ticket status, priority, or assigned agent.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id]
+              properties:
+                id: { type: integer }
+                status: { type: string, enum: [open, pending, resolved, escalated] }
+                priority: { type: string, enum: [low, normal, high, urgent] }
+                assigned_agent: { type: string }
+      responses:
+        "200": { description: OK }
+  /api/admin/orders:
+    get:
+      operationId: listOrders
+      summary: List book sales orders, with revenue summary and per-product breakdown.
+      parameters:
+        - name: status
+          in: query
+          schema: { type: string, enum: [pending, paid, refunded, cancelled] }
+      responses:
+        "200": { description: OK }
+    post:
+      operationId: recordOrder
+      summary: Record a new order (e.g. from a payment webhook or manual entry).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email, product]
+              properties:
+                email: { type: string }
+                product: { type: string, enum: [hardcover, paperback, ebook, audiobook] }
+                amount_cents: { type: integer }
+                currency: { type: string }
+                status: { type: string, enum: [pending, paid, refunded, cancelled] }
+                external_ref: { type: string }
+      responses:
+        "200": { description: OK }
+    patch:
+      operationId: updateOrderStatus
+      summary: Update an order's status (e.g. mark paid or refunded).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id, status]
+              properties:
+                id: { type: integer }
+                status: { type: string, enum: [pending, paid, refunded, cancelled] }
+      responses:
+        "200": { description: OK }
+  /api/admin/audiobook:
+    get:
+      operationId: listAudiobookClips
+      summary: List all audiobook clips (draft and live).
+      responses:
+        "200": { description: OK }
+    post:
+      operationId: createAudiobookClip
+      summary: Add a new audiobook chapter sample. Lands as status=draft until you flip it live.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [chapter_label, title]
+              properties:
+                chapter_label: { type: string, description: "e.g. 'Chapter One'" }
+                title: { type: string, description: "e.g. 'The Hunger Map'" }
+                narrator: { type: string }
+                audio_url: { type: string, description: "Hosted mp3/m4a URL" }
+                duration_seconds: { type: integer }
+                order_index: { type: integer }
+                status: { type: string, enum: [draft, live] }
+      responses:
+        "200": { description: OK }
+    patch:
+      operationId: updateAudiobookClip
+      summary: Update a clip's metadata or flip it live/draft.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [id]
+              properties:
+                id: { type: integer }
+                chapter_label: { type: string }
+                title: { type: string }
+                narrator: { type: string }
+                audio_url: { type: string }
+                duration_seconds: { type: integer }
+                order_index: { type: integer }
+                status: { type: string, enum: [draft, live] }
+      responses:
+        "200": { description: OK }
+  /api/admin/security-log:
+    get:
+      operationId: getSecurityLog
+      summary: Read the audit/security event log (auth failures, rate limits, spam blocks, admin actions, anomalies).
+      parameters:
+        - name: severity
+          in: query
+          schema: { type: string, enum: [info, warning, critical] }
+        - name: limit
+          in: query
+          schema: { type: integer, default: 100, maximum: 1000 }
+      responses:
+        "200": { description: OK }

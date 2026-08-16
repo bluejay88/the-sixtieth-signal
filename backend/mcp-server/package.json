@@ -1,0 +1,10 @@
+{
+  "name": "sixtieth-signal-mcp-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "sixtieth-signal-mcp": "index.mjs" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
