@@ -42,6 +42,8 @@ for(const match of text.matchAll(/“[\s\S]*?”/g)){
     end_offset:end,
     text_exact:match[0],
     text_sha256:sha(match[0]),
+    context_before:before,
+    context_after:after,
     speaker:explicit?.role||null,
     speaker_display:explicit?.name||null,
     attribution_method:explicit?'explicit_named_tag':'unresolved',
