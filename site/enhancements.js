@@ -34,7 +34,7 @@
   const emailReadiness=$('#emailReadiness');
   const statusRequest=localDevelopment?Promise.resolve({outbound_email_configured:false}):withTimeout('/.netlify/functions/public-status').then(r=>r.ok?r.json():Promise.reject());
   statusRequest.then(data=>{
-    emailReadiness.textContent=data.outbound_email_configured?'Instant download active · confirmation email available':'Instant download active · outbound email awaiting provider connection';
+    emailReadiness.textContent=data.outbound_email_mode==='active'?'Instant download active · approved confirmation emails enabled':data.email_queue_available?'Instant download active · email requests queued for approval':'Instant download active · outbound email awaiting provider connection';
   }).catch(()=>emailReadiness.textContent='Instant download active · email status unavailable');
 
   // Back-to-top and navigation state.
