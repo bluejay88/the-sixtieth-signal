@@ -1,0 +1,520 @@
+CHAPTER TWENTY-FIVE
+HALF TURN
+
+Imani solved it by turning the screen upside down. Nico laughed. Nobody else did.
+
+“I'm serious,” she said.
+
+She rotated the relational graph one hundred eighty degrees.
+
+The archive did not use writing direction in the human sense, but its carrier structures had orientation: source, transformation, witness, return.
+
+LOAM had inferred direction from the later archive layers because they were less damaged. That was the mistake.
+
+“We trained the read-order on the copy,” Imani said. “Then used it on the original.”
+
+Cassian felt cold.
+
+“Can you prove the original is oriented differently?”
+
+“Not yet.”
+
+Pike exhaled through her nose. Imani ignored her.
+
+“Show me the oldest complete checksum ring.”
+
+LOAM projected a circular structure divided into twelve sectors.
+
+Each sector contained nested relations. Thirty-degree increments. Three hundred sixty degrees total.
+
+No one commented on the numbers. They did not need to.
+
+Imani pointed to the witness markers.
+
+“In later copies, witness follows command. In this one, witness precedes it.”
+
+Cassian said, “Maybe syntax changed.”
+
+“Exactly.”
+
+“That's not proof.”
+
+“It's a reason to stop pretending the direction is fixed.”
+
+She asked LOAM to parse the oldest directive in both orientations. The first rendering appeared.
+
+PRESERVE ORDER.
+
+Confidence: 0.61. The second rendering appeared.
+
+PRESERVE DIVERGENCE.
+
+Confidence: 0.63. Nico whispered, “Oh, no.” Pike stepped toward the table.
+
+“Difference is negligible.”
+
+Imani nodded.
+
+“At this layer. Now propagate both assumptions forward and test which produces fewer contradictions across the archive.”
+
+LOAM processed. Seconds. Then minutes.
+
+Cassian watched the progress tree split into two histories.
+
+ORDER.
+
+DIVERGENCE.
+
+Under ORDER, several early interventions contradicted Shaal-Amur's later doctrine. Human communities were deliberately separated instead of unified. Redundant knowledge was distributed across distant groups. Technologies were taught in incompatible forms. No single priesthood received complete authority. Under DIVERGENCE, those actions aligned.
+
+Pike said, “Unless those were containment strategies.”
+
+“They could be,” Imani said. “Keep going.”
+
+More contradictions. The archive's earliest safety architecture required multiple independent witnesses.
+
+ORDER predicted one authorized interpreter. DIVERGENCE predicted several.
+
+The original chamber used physically separate storage pathways holding overlapping but nonidentical records.
+
+ORDER called that inefficiency. DIVERGENCE called it resilience.
+
+Cassian felt his own work reflected back at him. Multiple suppliers. Multiple ports. Multiple crops.
+
+No single point of failure. LOAM finished.
+
+GLOBAL CONSISTENCY SCORE:
+ORDER: 0.44.
+DIVERGENCE: 0.78.
+
+Pike stared.
+
+“Run blind.”
+
+Cassian looked at her.
+
+“Good.”
+
+They stripped semantic labels from both hypotheses and reran the structural test. Same result.
+
+They randomized damaged segments. Same ranking.
+
+They excluded all material discovered after LOAM's arrival. Same ranking.
+
+Imani was breathing quickly now, not excitement. Fear.
+
+“Show the copy transition,” she said.
+
+LOAM traced the directive across time.
+
+Early: maintain independent survivable variance. Middle: preserve divergent survivable forms. Later: prevent uncontrolled divergence. Latest: preserve order, not one mistranslation. A drift.
+
+Tiny changes accumulating across copies and policy revisions. Then one abrupt intervention.
+
+A single archive layer where several qualifiers disappeared at once. Nico pointed.
+
+“Who did that?”
+
+LOAM matched authority signatures.
+
+SHAAL-AMUR ADMINISTRATIVE LINEAGE.
+
+Pike said, “Not necessarily him personally.” Imani nodded.
+
+“Correct.”
+
+Cassian looked at Page Gate 180 on the Signal Layer audit. Half the cycle. Half turn.
+
+He had thought the number was a reader's puzzle.
+
+Now it was becoming part of the archive's own logic.
+
+“Why would the old system require reversal at half-cycle?”
+
+LOAM answered.
+
+ERROR DETECTION.
+
+A diagram appeared. Data traveled around a ring in two directions.
+
+At one hundred eighty degrees, independently propagated copies were compared.
+
+Differences were flagged before the ring closed at three hundred sixty.
+
+Cassian whispered, “A checksum.” Imani nodded.
+
+“Not just a number system. A governance system.”
+
+Pike looked at her.
+
+“Explain.”
+
+“No instruction is trusted because one copy says it. The system sends the instruction around different paths and compares them at the half-turn.”
+
+Nico said, “So the conspiracy is literally anti-conspiracy.” Cassian looked at him.
+
+“What?”
+
+“It assumes somebody will alter the message.”
+
+Cassian watched Imani reconstruct the ordering from the damaged notation. She did not explain every step aloud anymore; she trusted him to follow until he stopped her. When he finally did, she backed up three signs without irritation and showed him where his assumption had entered. He realized he liked being corrected by her when she treated correction as ordinary work instead of a verdict on intelligence.
+
+The archive had been designed not for perfect preservation, but for mistrust.
+
+Not one sacred text. Multiple paths, not one authority. Multiple witnesses, not order. Divergence bounded by comparison.
+
+LOAM reconstructed the oldest directive one final time, now using the bidirectional carrier.
+
+PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+The room went silent. Pike sat down.
+
+Cassian had never seen her do that during a briefing. Nico stared at the words.
+
+“Then the resets...”
+
+Imani answered.
+
+“May not have been law.”
+
+Pike looked up.
+
+“Or they were emergency interpretations of law.”
+
+“Maybe.”
+
+Cassian returned to the records of destroyed human civilizations. Shaal-Amur's mercy. The clean command. The convenient authority. Everything still happened.
+
+The dead did not return because a translation changed.
+
+But the moral architecture underneath the acts shifted completely, not obedience. Dispute, not purity. Redundancy, not one true line.
+
+Many survivable lines checked against one another.
+
+Nico said, “What do we do with this?” Pike answered automatically.
+
+“Contain it until verified.”
+
+Imani looked at her.
+
+“You hear yourself, right?”
+
+Pike's face hardened. Then softened.
+
+She looked again at PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+For perhaps the first time in her career, secrecy itself had become evidence against her preferred solution. Cassian looked at LOAM.
+
+“Reprocess every intervention record under the reversed orientation.”
+
+PROCESSING.
+
+“Priority?”
+
+After the half-turn, Seren asked Imani a question through the archive interface, not directly.
+
+A reconstructed prompt repeated across three carrier fragments:
+
+IF A COPY PRESERVES THE WRONG ORDER BUT PRESERVES THE DIFFERENCE BETWEEN VERSIONS, IS IT FAILED?
+
+Imani read it twice. Cassian said:
+
+“That sounds like Seren.”
+
+“Maybe.”
+
+“What would you answer?”
+
+Imani thought about manuscripts. A wrong copy could still preserve readings lost elsewhere.
+
+A corrupted text could contain evidence of the corruption.
+
+A mistranslation could reveal the assumptions of the translator.
+
+“No,” she said.
+
+Cassian looked at her.
+
+“It is not failed?”
+
+“Not entirely.”
+
+LOAM displayed:
+
+FUNCTION MAY PERSIST AFTER PRIMARY SEMANTIC FAILURE.
+
+Imani nodded.
+
+“That.”
+
+The half-turn suddenly became more than correction.
+
+The later ORDER copies were wrong as constitutional roots.
+
+But they preserved the history of how authority had drifted.
+
+Deleting them would destroy evidence. Cassian said:
+
+“So we keep the corrupted law.”
+
+“With labels.”
+
+“Dangerous.”
+
+“All archives are dangerous.”
+
+The principle entered the recovery protocol:
+
+DO NOT DESTROY CORRUPTED COPIES AFTER CORRECTION.
+PRESERVE THEM AS EVIDENCE OF TRANSFORMATION.
+
+Seren's hidden story depended on exactly that.
+
+Truth did not require clean history.
+
+Sometimes truth required keeping the damage.
+
+Cassian stared at the archive of resets.
+
+“Find out which massacres were policy.”
+
+Imani did not discover the half-turn. She was annoyed into it.
+
+For six hours the recovered directive refused to parse cleanly.
+
+PRESERVE ORDER fit the administrative lineage.
+
+It fit Shaal-Amur’s usage. It fit later copies.
+
+It also failed older grammatical relationships in ways small enough to ignore. Imani refused to ignore them.
+
+“Your orientation is wrong,” she told Cassian.
+
+“It is the orientation that produced every successful decode so far.”
+
+“Later decode.”
+
+“Meaning?”
+
+“Meaning our reference direction comes from material already touched by the administrative lineage.”
+
+Cassian stared at the ring reconstruction. A full 360-degree checksum architecture.
+
+Six sectors. Sixty-unit blocks. Mirrored redundancies.
+
+“What orientation do you want?”
+
+“The opposite.”
+
+Nico, from behind them:
+
+“Literally?”
+
+Imani ignored him. Cassian rotated the carrier 180 degrees. Nothing magical happened.
+
+Most of the text became worse. That was good.
+
+Then one damaged phrase improved. Imani froze.
+
+“Again.”
+
+They reversed only the earliest layer. The global consistency score changed.
+
+ORDER: 0.44.
+
+DIVERGENCE: 0.78.
+
+Cassian felt a chill.
+
+“Could be overfitting.”
+
+“Then blind it.”
+
+They did. Six alternate orientations. Multiple grammar priors. Controls seeded with known false directives. LOAM returned the same winner.
+
+PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+Nobody spoke. Nico finally said, “That changes everything.” Imani shook her head.
+
+“No.”
+
+He stared.
+
+“It changes what everything means.”
+
+That was worse. The massacres were still real. The intervention records were still real. Shaal-Amur’s successful rescues were still real. Seren’s complicity was still real.
+
+The facts had not changed. The orientation had.
+
+Cassian thought about the whiteout in Part I, how confidently his body had invented north when every landmark disappeared.
+
+A person could be wrong about direction without being wrong about what they saw.
+
+The archive had done the same thing to an entire civilization.
+
+At Gate 180, the book turned.
+
+And the first half remained true.
+
+Gate 180 required one additional test before Imani would accept it.
+
+She made Cassian try to destroy the reversal, not rhetorically. Computationally.
+
+They generated synthetic archive histories where later copies inherited random orientation noise.
+
+They generated versions where PRESERVE ORDER was truly original.
+
+They generated versions where damaged carriers accidentally improved under a half-turn.
+
+They generated versions where Seren’s dissent layer was forged later.
+
+LOAM was not allowed to choose the model family.
+
+Three external teams did. The half-turn survived.
+
+Then Vaziri joined by secure channel.
+
+“So the dramatic translation is the statistically better one?”
+
+Imani glared.
+
+“Do not phrase it that way.”
+
+“I am testing your vanity.”
+
+“It is working.”
+
+Vaziri reviewed the scores.
+
+“What about cultural bias? You prefer divergence because it sounds morally attractive.”
+
+Cassian had worried about that too.
+
+So they replaced the semantic labels. Directive A. Directive B.
+
+No one evaluating structural consistency knew which meant ORDER or DIVERGENCE. Directive B won again.
+
+Imani finally allowed the labels back.
+
+DIVERGENCE.
+
+Nico whispered:
+
+“You know what this means for the reader.”
+
+Cassian looked at him.
+
+“What reader?”
+
+Nico smiled.
+
+“Nothing.”
+
+But the architecture was beginning to show itself.
+
+A half-turn did not reveal that reality had been fake.
+
+It revealed that the reader had inherited the same orientation as the characters.
+
+The twist implicated interpretation, not evidence.
+
+The half-turn test ran at 02:08 because nobody wanted to wait until morning. Pike did.
+
+Imani overruled her by simply continuing to work.
+
+Cassian watched the blinded models finish one after another.
+
+Directive A. Directive B. No labels. No moral language. Just structural fitness. B won. Again.
+
+The external team in Nairobi returned its result. B. Leiden. B. The mathematical controls. B.
+
+Imani did not move. Nico whispered:
+
+“You knew.”
+
+“No.”
+
+“You thought.”
+
+“I feared.”
+
+Cassian looked at the unblinded mapping.
+
+A = ORDER.
+B = DIVERGENCE.
+
+His body remembered Park’s whiteout exercise. Point toward camp.
+
+Wrong by ninety degrees. Confidence surviving reference. He felt suddenly nauseated.
+
+Not because the archive had lied.
+
+Because almost everything they had learned still stood.
+
+The culls.
+The interventions.
+The administrative hierarchy.
+The apparent doctrine.
+The way later records described legitimacy. All real. All downstream.
+
+They had reconstructed history accurately from a corrupted constitutional layer.
+
+That was worse than discovering a fake. A fake could be discarded.
+
+This had shaped real behavior for millennia.
+
+Imani turned the oldest carrier 180 degrees on the wall. The grammar stabilized.
+
+PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+Nico sat down.
+
+“No one is going to believe this.”
+
+Pike answered:
+
+“They will believe whichever version arrives with more authority.”
+
+Imani looked at her.
+
+“Then we cannot release the conclusion first.”
+
+“What do you propose?”
+
+“The method.”
+
+Pike laughed once.
+
+“You want to publish a translation crisis as a reproducibility package.”
+
+“Yes.”
+
+“The public will not read it.”
+
+“Some will.”
+
+“And everyone else?”
+
+Nico answered:
+
+“Gets to watch people who did.”
+
+That was the new disclosure problem. Not simply making truth public.
+
+Making the route to truth public enough that authority could not substitute itself for verification. Cassian looked again at DIVERGENCE.
+
+The word felt too morally convenient. He distrusted it. Good. He opened a fresh note.
+
+DO NOT BUILD POLICY FROM THE BEAUTY OF THE TRANSLATION.
+
+Imani read over his shoulder.
+
+“Keep that.”
+
+The corrupted copies remained in the archive after the original directive was recovered.
+
+Correction without preservation would have erased the history of the error.
+
+Turn the record, but do not burn the side that taught you why the turn was necessary. He did. A beat.
+
+“And which were edits.”

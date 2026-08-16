@@ -1,0 +1,121 @@
+“So an AI system partly responsible for industrial water demand is sending us to Antarctica because it discovered climate risk.”
+
+Nico, two seats away, became very interested in his notebook. Cassian answered carefully.
+
+“LOAM is not responsible for the AI industry's water use.”
+
+“Convenient.”
+
+“And pretending computation is immaterial is also convenient.”
+
+Venn waited. Cassian continued.
+
+“The system exists inside the problem it models. Power, water, mineral supply, labor, networks. That is why its infrastructure is included in its own resource accounting.”
+
+“Does it ever recommend using less of itself?”
+
+“Yes.”
+
+That answer surprised him.
+
+“Often?”
+
+“More than its investors liked.”
+
+A few people laughed. The room relaxed by one degree. Park tapped the forecast.
+
+“If the window fails?”
+
+“I publish the failure.”
+
+Nico looked up. Cassian caught his eye. The old argument again. Park nodded.
+
+“Then we have a scientific mission.”
+
+Later, at equipment checkout, she handed Cassian a pair of ugly insulated boots.
+
+“Your other pair will crack below minus thirty.”
+
+He looked at them. Mira's voice returned in his head. Wear the ugly thermal boots.
+
+Lian Vorr finally explained what “interagency safety” meant after Nico asked for the seventh time.
+
+“It means I keep different agencies from becoming hazards to one another.”
+
+“That sounds made up.”
+
+“It is very real.”
+
+They were reviewing expedition cargo.
+
+Scientific equipment had one chain of custody. Food another. Communications another. Pike’s systems another.
+
+Every organization assumed its own procedures were the procedures.
+
+Lian’s job was to find the gaps between them.
+
+Cassian watched her reject a battery pack because its emergency shutoff required a cloud credential.
+
+“We will have local auth.”
+
+“Until you don’t.”
+
+“The manufacturer certifies offline mode.”
+
+“Show me.”
+
+Cassian opened the manual. The offline mode required a token refreshed every thirty days.
+
+Their deployment would cross the renewal boundary. He stared. Lian smiled without pleasure.
+
+“Seams.”
+
+Cassian looked at her.
+
+“You use that word?”
+
+“Everyone who works disasters eventually does.”
+
+She replaced the battery system with an older model. He objected.
+
+“Lower energy density.”
+
+“Manual serviceable.”
+
+“Heavier.”
+
+“Yes.”
+
+“Less efficient.”
+
+“Yes.”
+
+“Why are you enjoying this?”
+
+“Because efficiency is often a machine for moving risk somewhere nobody is looking.”
+
+Cassian stopped. The sentence belonged in LOAM.
+
+He asked permission to quote her in the model documentation.
+
+“No.”
+
+“Why?”
+
+“Because I do not want to become one of your inspirational anecdotes.”
+
+Nico, nearby, laughed loudly. Lian turned.
+
+“That includes you.”
+
+He stopped. During final manifest review, she required three independent location records for every critical field asset:
+
+digital manifest. printed crate list. physical marking.
+
+Nico noticed the number. He almost said something. Then remembered the rules. Sometimes three meant nothing cosmic.
+
+Sometimes three was simply what people arrived at when one copy felt fragile.
+
+That distinction was becoming important. Cassian took them without argument.
+
+“That is why you’re going south.”

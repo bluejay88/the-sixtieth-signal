@@ -1,0 +1,160 @@
+CHAPTER FOUR
+THE MAN WHO COUNTS TOMORROW
+
+Nico Ashbourne introduced Cassian to his audience without naming him. That was the agreement.
+
+“I’m talking to a systems architect,” Nico said into the studio camera, “who believes the most dangerous failures are the ones that belong to everybody and therefore to no one.”
+
+Cassian sat behind frosted glass in the adjacent room and immediately regretted agreeing to anything.
+
+Nico’s studio looked like a conspiracy theorist had married a broadcast engineer and hired an accountant. Acoustic panels. Redundant recorders. Analog clocks. A wall of physical notebooks because Nico distrusted cloud-only archives. Three cameras, none centered. A brass compass mounted upside down because a guest once told him north was “a colonial hallucination” and Nico had kept the object as a reminder not to let memorable sentences substitute for meaning.
+
+The podcast was called UNFINISHED EVIDENCE. Its audience was enormous.
+
+Its reputation depended on a contradiction: Nico loved mysteries and hated being fooled.
+
+He had built his career embarrassing both officials and cranks.
+
+“Tell me,” Nico said, “what LOAM actually does.”
+
+Cassian looked through the glass.
+
+“You said this wasn’t an interview.”
+
+“It’s not. It’s a calibration.”
+
+“That sentence means nothing.”
+
+“It means I want to know how to explain you if this becomes public.”
+
+“It will not become public.”
+
+Nico smiled toward a camera that was not recording.
+
+“Then this is excellent practice.”
+
+Cassian sighed.
+
+“LOAM models resource dependencies.”
+
+“Boring.”
+
+“Reality often is.”
+
+“Try again.”
+
+Cassian leaned back.
+
+“It counts tomorrow.”
+
+Nico’s eyebrows lifted. Cassian hated himself for saying it.
+
+“There,” Nico said. “That.”
+
+“No.”
+
+“Absolutely that.”
+
+“It’s misleading.”
+
+“It’s metaphor.”
+
+“It sounds prophetic.”
+
+“Only because you’re allergic to sentences people remember.”
+
+Cassian stood.
+
+“We’re done.”
+
+Nico raised both hands.
+
+“Fine. Technical version.”
+
+Cassian remained standing.
+
+“LOAM searches for causes outside the category where the problem appears.”
+
+“Example.”
+
+“A bread shortage may begin with a transformer failure.”
+
+“Better.”
+
+“A hospital meal shortage may begin with a labor dispute at a port.”
+
+“Better.”
+
+“A crop failure may be worsened by a data center’s water contract.”
+
+Nico’s smile vanished.
+
+“Current?”
+
+“Sometimes.”
+
+“And Antarctica?”
+
+Cassian looked at the studio door.
+
+Nico had locked the building to staff for the meeting. No assistant. No producer. No live transcription. Cassian had watched the network physically disconnect. Still, he lowered his voice.
+
+“LOAM found a Southern Ocean variable that materially improves famine forecasts.”
+
+“Which is weird.”
+
+“Yes.”
+
+“And then found recurring missing data near six coordinates.”
+
+“Yes.”
+
+“Which is weirder.”
+
+“Yes.”
+
+“And then a government office with no public website approved your field mission in hours.”
+
+“Yes.”
+
+Nico considered that.
+
+“Do you think it’s aliens?”
+
+“No.”
+
+“You answered too fast.”
+
+“Because it’s a stupid question.”
+
+“It is currently the most commercially successful question in human history.”
+
+“That doesn’t improve it.”
+
+“Do you think it is artificial?”
+
+Cassian paused.
+
+“Unknown.”
+
+Nico nodded. That answer he respected.
+
+“What do you think?”
+
+Cassian looked down at his hands.
+
+“I think the model is wrong in an interesting way.”
+
+“And if it isn’t?”
+
+“Then something in Antarctica is influencing systems far outside Antarctica.”
+
+“Natural systems do that.”
+
+“Yes.”
+
+“So what scares you?”
+
+Cassian took too long. Nico filled the silence softly.
+
+“The timing is what bothers me,” Cassian said. “Not because sixty days is mystical. Because the lead is useful, and useful anomalies are where people stop asking whether the mechanism is understood.”

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "status": "author_approval_required",
+  "policy": "Recommendations only. No bulk synthesis until the author locks every ambiguous invented or culturally specific term.",
+  "entries": [
+    {"term":"Cassian","recommended":"KASH-ee-un","alternate":"KASS-ee-un","status":"pending"},
+    {"term":"Osei-Lorne","recommended":"oh-SAY LORN","status":"pending"},
+    {"term":"Imani","recommended":"ee-MAH-nee","status":"pending"},
+    {"term":"Sayegh","recommended":"SYE-egg","alternate":"SAY-yeg","status":"pending"},
+    {"term":"Nico","recommended":"NEE-koh","status":"pending"},
+    {"term":"Ashbourne","recommended":"ASH-born","status":"pending"},
+    {"term":"Maelin","recommended":"MAY-lin","alternate":"MY-lin","status":"pending"},
+    {"term":"LOAM","recommended":"LOHM","note":"Expand Logistics Optimization and Allocation Mesh once.","status":"pending"},
+    {"term":"Seren","recommended":"SEH-ren","alternate":"SAIR-en","status":"pending"},
+    {"term":"Shaal-Amur","recommended":"shah-AHL ah-MOOR","status":"pending"},
+    {"term":"Nara","recommended":"NAH-rah","status":"pending"},
+    {"term":"Iru-Shai","recommended":"EE-roo SHYE","status":"pending"},
+    {"term":"Abena","recommended":"ah-BEH-nah","status":"pending"},
+    {"term":"Quispe","recommended":"KEES-peh","status":"pending"},
+    {"term":"Vaziri","recommended":"vah-ZEER-ee","status":"pending"},
+    {"term":"Accra","recommended":"uh-KRAH","status":"pending"},
+    {"term":"Sahel","recommended":"suh-HELL","status":"pending"},
+    {"term":"Kano","recommended":"KAH-noh","status":"pending"},
+    {"term":"Lagos","recommended":"LAH-goss","note":"Use character-context pronunciation if author prefers common English LAY-goss.","status":"pending"}
+  ]
+}

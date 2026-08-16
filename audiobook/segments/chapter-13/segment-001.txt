@@ -1,0 +1,176 @@
+CHAPTER THIRTEEN
+A NUMBER THAT REFUSES TEN
+
+Cassian trusted numbers most when they refused to be impressive.
+
+The Antarctic sequence looked terrible in base ten. That pleased him.
+
+It produced awkward fractions, irregular carries, ugly residuals.
+
+In base twelve it improved. In base twenty it improved differently. In base sixty it became boring. Boring was dangerous.
+
+Boring meant the representation might fit the thing rather than force it.
+
+Imani stood beside him while LOAM displayed the same sequence under four number systems.
+
+Nico had named the visualization THE FOUR GOSPELS.
+
+Imani had threatened to throw him out.
+
+“Why sixty?” Cassian asked.
+
+“Because sixty is divisible.”
+
+“That’s the human explanation.”
+
+“Yes.”
+
+“What’s the system explanation?”
+
+Imani looked at him.
+
+“You’re asking whether a nonhuman engineer would independently choose it.”
+
+“Yes.”
+
+“Maybe. If the problem rewards many clean subdivisions.”
+
+“Angles.”
+
+“Time.”
+
+“Synchronization.”
+
+“Allocation.”
+
+“Fractions.”
+
+Cassian thought of food. A warehouse divided among two regions. Three. Four. Five. Six.
+
+A base that made common sharing easy.
+
+LOAM had originally used binary underneath everything, of course. Machines did not need decimal sentiment. But human-facing optimization frequently represented quantities in whichever units minimized operational error.
+
+“Could sixty be a governance number?” Cassian asked.
+
+Imani laughed once.
+
+“That is a very strange sentence.”
+
+“Think about it. If you need systems divided among many coalition sizes—”
+
+“Two, three, four, five, six.”
+
+“Exactly.”
+
+“You’re turning arithmetic into politics.”
+
+“Humans did first.”
+
+She considered.
+
+“Maybe.”
+
+Nico entered carrying three coffees and a printed image.
+
+“Speaking of humans ruining numbers.”
+
+Imani took the coffee but not the bait.
+
+“What is that?”
+
+“King List.”
+
+She closed her eyes.
+
+“No.”
+
+“You haven’t—”
+
+“No.”
+
+Cassian smiled. Nico placed the image down anyway.
+
+The Weld-Blundell Prism, four-sided, densely inscribed.
+
+“I know what it is,” Imani said.
+
+“I know you know.”
+
+“Then why are you showing me?”
+
+“Because LOAM flagged the reign lengths.”
+
+Imani turned to Cassian.
+
+“You let it search the King List?”
+
+“Not for alien matches.”
+
+“Then for what?”
+
+“Normalization tests.”
+
+She set down the coffee.
+
+“Explain carefully.”
+
+Cassian did. They had asked LOAM to search selected ancient corpora for mathematical structures that remained detectable after language was removed.
+
+Not similarity in gods, not floods, not sky beings, not creation stories. Numerical residue.
+
+The Sumerian King List was an obvious stress test because its earliest reign lengths were famously enormous and often treated as mythic.
+
+LOAM normalized the reign values in several ways. Most produced nothing useful.
+
+One produced repeated residue classes under sexagesimal decomposition. Imani’s expression hardened.
+
+“Which version?”
+
+Cassian named it.
+
+“Variant differences?”
+
+“Not yet fully integrated.”
+
+“Then it means nothing.”
+
+“I know.”
+
+“Copying errors?”
+
+“In progress.”
+
+“Modern editorial reconstruction?”
+
+“In progress.”
+
+“Selection bias?”
+
+“Controlled by applying the same method to other royal lists.”
+
+She relaxed slightly. Nico said, “Do you interrogate everyone like this?”
+
+“Yes.”
+
+“I’m starting to understand academia.”
+
+Imani pulled the King List data closer.
+
+“Before anyone gets excited: this is not a technical document.”
+
+Cassian nodded.
+
+“It is ideological. It organizes kingship. It puts cities and rulers into a sequence, includes impossible reign lengths, and crosses a Flood boundary. Different copies differ. It is not a pristine timestamp from prehistory.”
+
+Nico said, “But the impossible ages—”
+
+“Are not proof of aliens.”
+
+“I know.”
+
+“Say it.”
+
+“The impossible ages are not proof of aliens.”
+
+“Good.”

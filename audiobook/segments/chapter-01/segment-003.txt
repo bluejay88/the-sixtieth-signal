@@ -1,0 +1,101 @@
+It was that, sometimes, it was useful for reasons no one understood.
+
+His briefing alarm chimed. Cassian closed the causal tree.
+
+The Antarctic point remained on the black wall after everything else vanished.
+
+He had not told the system to leave it there.
+
+“Clear display.”
+
+The point disappeared. He was halfway to the door when a new message appeared in small text.
+
+RECOMMENDATION: DO NOT EXCLUDE THE VARIABLE.
+
+Cassian stared at it.
+
+“That isn’t a recommendation class.”
+
+The text remained. He walked back to the terminal and opened the generation log.
+
+The sentence had not been generated as advice.
+
+It came from the model’s audit layer. A mechanical warning.
+
+Retain variables whose removal materially damages forecast accuracy.
+
+Nothing mystical. Nothing alive. He knew that. He repeated it to himself.
+
+Then he took a photograph of the screen before clearing it again.
+
+By 05:59, the world map was back. Ports. Crops. Fuel. Water. Freight.
+
+Human things. The amber point did not return. Cassian began the briefing.
+
+But while the minister asked whether school meal contracts could be insulated from the coming price spike, Cassian kept seeing the bottom of the world, not as ice.
+
+The briefing ended at 06:38 with no one asking about Antarctica again. That should have comforted him. Instead it made the amber point feel private.
+
+Cassian stayed in the lab while morning climbed the glass towers across the river. Below him, delivery bicycles moved between autonomous buses. Steam rose from cooling stacks on the east bank, where three hyperscale computing campuses shared a reclaimed-water loop with the city. The campuses had been built during the first great AI expansion, when every government wanted sovereign models and every company wanted its own. They had promised efficiency. They had also promised that the water would come from somewhere else.
+
+Somewhere else had become Cassian's problem.
+
+LOAM's earliest versions had been funded after the 2047 rationing summer, when municipal authorities discovered that data-center cooling contracts had priority clauses written before drought models were updated. Farms lost pumping hours. Hospitals paid emergency prices for cooling. Neighborhoods with old pipes lost pressure because the system was optimized for average demand rather than simultaneous heat stress. Nobody had intended starvation. Nobody had needed to. Intent was a poor predictor of consequence.
+
+His mother called while he was reading the original grant notes. He almost ignored her.
+
+Then remembered she had a rule about ignored calls. If he missed two, she began contacting colleagues.
+
+“You sound tired,” Abena said when he answered.
+
+“Good morning to you too.”
+
+“It is not morning where I am.”
+
+She was in Accra for six weeks, helping his aunt sell a house nobody wanted to admit had become too large for the family. Behind her he could hear market traffic and a radio announcer arguing about fuel prices.
+
+“Have you eaten?” she asked.
+
+“Yes.”
+
+“That pause was the length of a lie.”
+
+Cassian opened a nutrient bar and held it up to the camera.
+
+His mother looked offended on behalf of food.
+
+“You built a machine to feed the world and eat packing material.”
+
+“It has almonds.”
+
+“So does bird feed.”
+
+He smiled despite himself. Then she asked the question he had been avoiding.
+
+“Is the model wrong?”
+
+Abena never asked whether LOAM was right. She had learned from him that models were arguments with numbers attached.
+
+“Maybe.”
+
+“And you are upset because?”
+
+“Because the wrong part is useful.”
+
+She nodded as if that made perfect sense.
+
+“The worst kind.”
+
+Cassian looked at the dark wall.
+
+“It is connecting food risk to something in Antarctica.”
+
+His mother did not laugh.
+
+“Should it?”
+
+“Not like this.”
+
+“Then find out why.”
+
+“That is the plan.”

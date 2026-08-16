@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "status": "casting_decision_required",
+  "principals": ["narrator","cassian","imani","nico","pike","loam","seren","shaal","nara","abena"],
+  "recurring_support_requiring_assignment": ["Hye-Jin Park","Mira Kestrel","Dr. Linh Arendt","Selene Marr","Avel","Vaziri","Adrian Sol","Quispe","Lian Vorr","Rafi Dalan","Mara Voss","Eleni","Priya Sen","Amina Wekesa","Chidi Okafor","Maren Red Elk","Keisha Rowan","Temi Adebayo","Darius Bell","Ruth Ekanem"],
+  "recommended_ensemble_slots": [
+    {"slot":"support_female_science","count":1,"constraint":"Do not invent ethnic accents; avoid doubling in the same scene."},
+    {"slot":"support_female_official","count":1,"constraint":"Keep distinct from Pike and Seren."},
+    {"slot":"support_female_civic","count":1,"constraint":"Grounded contemporary voices; cultural authenticity where applicable."},
+    {"slot":"support_male_science","count":1,"constraint":"Keep distinct from Cassian and Nico."},
+    {"slot":"support_male_civic","count":1,"constraint":"Practical warmth; avoid announcer delivery."},
+    {"slot":"iru_shai_ensemble","count":1,"constraint":"Shared subtle spectral identity; no monster distortion."}
+  ],
+  "routing_rule": "No unresolved dialogue may silently fall back to narrator. Every supporting assignment requires scene-conflict and author review."
+}

@@ -1,0 +1,594 @@
+CHAPTER FOUR
+THE MAN WHO COUNTS TOMORROW
+
+Nico Ashbourne introduced Cassian to his audience without naming him. That was the agreement.
+
+“I’m talking to a systems architect,” Nico said into the studio camera, “who believes the most dangerous failures are the ones that belong to everybody and therefore to no one.”
+
+Cassian sat behind frosted glass in the adjacent room and immediately regretted agreeing to anything.
+
+Nico’s studio looked like a conspiracy theorist had married a broadcast engineer and hired an accountant. Acoustic panels. Redundant recorders. Analog clocks. A wall of physical notebooks because Nico distrusted cloud-only archives. Three cameras, none centered. A brass compass mounted upside down because a guest once told him north was “a colonial hallucination” and Nico had kept the object as a reminder not to let memorable sentences substitute for meaning.
+
+The podcast was called UNFINISHED EVIDENCE. Its audience was enormous.
+
+Its reputation depended on a contradiction: Nico loved mysteries and hated being fooled.
+
+He had built his career embarrassing both officials and cranks.
+
+“Tell me,” Nico said, “what LOAM actually does.”
+
+Cassian looked through the glass.
+
+“You said this wasn’t an interview.”
+
+“It’s not. It’s a calibration.”
+
+“That sentence means nothing.”
+
+“It means I want to know how to explain you if this becomes public.”
+
+“It will not become public.”
+
+Nico smiled toward a camera that was not recording.
+
+“Then this is excellent practice.”
+
+Cassian sighed.
+
+“LOAM models resource dependencies.”
+
+“Boring.”
+
+“Reality often is.”
+
+“Try again.”
+
+Cassian leaned back.
+
+“It counts tomorrow.”
+
+Nico’s eyebrows lifted. Cassian hated himself for saying it.
+
+“There,” Nico said. “That.”
+
+“No.”
+
+“Absolutely that.”
+
+“It’s misleading.”
+
+“It’s metaphor.”
+
+“It sounds prophetic.”
+
+“Only because you’re allergic to sentences people remember.”
+
+Cassian stood.
+
+“We’re done.”
+
+Nico raised both hands.
+
+“Fine. Technical version.”
+
+Cassian remained standing.
+
+“LOAM searches for causes outside the category where the problem appears.”
+
+“Example.”
+
+“A bread shortage may begin with a transformer failure.”
+
+“Better.”
+
+“A hospital meal shortage may begin with a labor dispute at a port.”
+
+“Better.”
+
+“A crop failure may be worsened by a data center’s water contract.”
+
+Nico’s smile vanished.
+
+“Current?”
+
+“Sometimes.”
+
+“And Antarctica?”
+
+Cassian looked at the studio door.
+
+Nico had locked the building to staff for the meeting. No assistant. No producer. No live transcription. Cassian had watched the network physically disconnect. Still, he lowered his voice.
+
+“LOAM found a Southern Ocean variable that materially improves famine forecasts.”
+
+“Which is weird.”
+
+“Yes.”
+
+“And then found recurring missing data near six coordinates.”
+
+“Yes.”
+
+“Which is weirder.”
+
+“Yes.”
+
+“And then a government office with no public website approved your field mission in hours.”
+
+“Yes.”
+
+Nico considered that.
+
+“Do you think it’s aliens?”
+
+“No.”
+
+“You answered too fast.”
+
+“Because it’s a stupid question.”
+
+“It is currently the most commercially successful question in human history.”
+
+“That doesn’t improve it.”
+
+“Do you think it is artificial?”
+
+Cassian paused.
+
+“Unknown.”
+
+Nico nodded. That answer he respected.
+
+“What do you think?”
+
+Cassian looked down at his hands.
+
+“I think the model is wrong in an interesting way.”
+
+“And if it isn’t?”
+
+“Then something in Antarctica is influencing systems far outside Antarctica.”
+
+“Natural systems do that.”
+
+“Yes.”
+
+“So what scares you?”
+
+Cassian took too long. Nico filled the silence softly.
+
+“The timing is what bothers me,” Cassian said. “Not because sixty days is mystical. Because the lead is useful, and useful anomalies are where people stop asking whether the mechanism is understood.”
+
+Cassian looked up. Nico had seen it in the files.
+
+“Three. Six. Twelve. Sixty.”
+
+“Yes.”
+
+“And the missing pages.”
+
+“Those prove nothing.”
+
+“Agreed.”
+
+“The data gaps prove nothing.”
+
+“Agreed.”
+
+“The fact that an obscure directorate exists proves nothing.”
+
+“Also agreed.”
+
+Nico leaned forward.
+
+“But the same boring coincidences keep showing up in different boring places.”
+
+Cassian said nothing. That was exactly the problem.
+
+Conspiracies were supposed to require dramatic evidence. Secret meetings. Men in black cars. Impossible photographs.
+
+Real systems hid in procurement codes and maintenance logs.
+
+“What are you doing on the expedition?” Cassian asked.
+
+Nico smiled.
+
+“Documenting ocean sensor maintenance.”
+
+“No.”
+
+“Yes.”
+
+“You are not accredited.”
+
+“I am now.”
+
+“How?”
+
+“The expedition consortium needed an independent public-communication contractor under the transparency terms attached to the food-resilience funding.”
+
+Cassian closed his eyes.
+
+“You wrote that requirement.”
+
+“I suggested language to a policy nonprofit two years ago. Democracy is beautiful.”
+
+“You engineered your way onto my expedition.”
+
+“You engineered your way onto Antarctica with a famine model.”
+
+“That is different.”
+
+“Emotionally, maybe.”
+
+Cassian sat again.
+
+“You publish nothing until clearance.”
+
+“Define clearance.”
+
+“Until we are off the ice.”
+
+“Done.”
+
+Cassian looked at him suspiciously.
+
+“That was too easy.”
+
+“I have conditions.”
+
+“Of course.”
+
+“If officials confiscate the primary media, a cryptographic hash of everything is released.”
+
+“No data.”
+
+“A hash is not the data.”
+
+“Fine.”
+
+“If someone tries to disappear us, dead-man switch.”
+
+“No.”
+
+“Cassian.”
+
+“This is not a thriller.”
+
+Nico’s expression changed. For once he did not make the obvious joke.
+
+“I know.”
+
+He reached under the desk and placed a physical folder between them.
+
+Inside were photographs of old polar monitoring stations, procurement forms, a flight log, and a report with nearly every substantive paragraph redacted.
+
+The friendship between Cassian and Nico had survived three versions of themselves before it nearly failed.
+
+The first version began in Accra during the 2047 heat emergency.
+
+Nico was not yet famous. Cassian was not yet important.
+
+They met because a refrigeration depot lost grid power and a local mutual-aid network needed to know which insulin coolers should receive the remaining generator fuel.
+
+Cassian had a prototype allocation model.
+
+Nico had a camera and no permission to be anywhere.
+
+“You cannot film patients.”
+
+“I am not filming patients.”
+
+“You are filming the room with patients in it.”
+
+“That is different.”
+
+“It is not.”
+
+Nico lowered the camera. Five minutes later he helped move coolers.
+
+That was how the friendship began, not conversation. Work.
+
+The second version came after LOAM received international funding.
+
+Cassian became harder to reach. Nico became easier to recognize. Their disagreements became professional.
+
+Nico thought institutions hid behind complexity. Cassian thought journalists rewarded simplification.
+
+Both were right often enough to become unbearable.
+
+The third version ended over the rationing module.
+
+During a water emergency, a regional government used a LOAM-derived vulnerability score to prioritize enforcement patrols around suspected unauthorized distribution points.
+
+Cassian had designed the score to identify where official food deliveries were failing.
+
+The government repurposed it. Nico discovered the repurposing. He called Cassian.
+
+Cassian asked for forty-eight hours to trace the decision chain. Nico gave him twelve.
+
+The story went live under the title:
+
+THE MACHINE THAT KNOWS WHO STARVES.
+
+Cassian stopped speaking to him for nine months.
+
+The title was unfair. The reporting was not. That distinction made forgiveness difficult.
+
+When they finally met again, Nico apologized for the title, not the story.
+
+Cassian apologized for believing technical intent protected him from downstream use.
+
+Not for building LOAM. They never fully resolved it.
+
+That was why Cassian trusted him now. Trust did not mean agreement.
+
+It meant knowing exactly where the other person would betray you if their values required it.
+
+On the flight south, Nico handed Cassian a printed copy of Selene’s three questions.
+
+WHAT DO WE KNOW?
+HOW DO WE KNOW IT?
+WHAT WOULD CHANGE OUR MINDS?
+
+Cassian read them.
+
+“You are giving me journalism rules.”
+
+“They are evidence rules.”
+
+“I already have those.”
+
+“Yours have more decimals.”
+
+Cassian folded the card into Abena’s notebook.
+
+Later, he would notice that the first two questions protected truth from error.
+
+The third protected truth from becoming belief. At the top:
+
+SOUTHERN VARIANCE WATCH - FIELD INCIDENT 6.
+
+S.V.W.
+
+The letters from the contractor manual.
+
+Cassian read the date. 2041.
+
+The incident summary contained only one unredacted sentence.
+
+Three synchronized events were detected across instruments not sharing a common clock source.
+
+Cassian felt the room tilt by a degree.
+
+“What is this?”
+
+“Declassified by accident in a document release, then removed nine hours later. Mirror survived.”
+
+“You verified provenance?”
+
+“Three ways.”
+
+“Who filed it?”
+
+Nico turned the page. The author field was visible.
+
+MAELIN PIKE.
+
+Cassian sat very still. Nico said, “The person approving your trip has been watching your weird six-coordinate problem for at least eighteen years.”
+
+Cassian reread the sentence. Three synchronized events. Independent clocks.
+
+It was one of the first tests LOAM had proposed.
+
+Not because the machine had seen Pike’s report.
+
+Because it was the correct test.
+
+Cassian looked toward the dark studio window.
+
+For the first time, the expedition stopped feeling like research.
+
+It felt like an answer to a question someone else had been asking much longer than he had. Nico tapped the folder.
+
+“Still think the model is wrong?”
+
+“Yes,” Cassian said.
+
+Nico waited. Cassian hated him for it.
+
+Cassian and Nico had once been friends in the uncomplicated way adults rarely admitted to losing.
+
+Before the podcast. Before LOAM became politically useful. Before Nico discovered that the fastest way to expose institutional dishonesty was to make powerful people speak where everyone could hear them.
+
+They had met during the 2047 heat emergency in a municipal operations center where Cassian was modeling cold-chain failures and Nico was sleeping under a desk between reporting shifts. Nico had stolen Cassian's coffee. Cassian had told him. Nico had apologized and stolen the second cup two hours later.
+
+For six weeks they worked the same disaster from opposite sides. Cassian tried to prevent cascading failure. Nico tried to explain why the failure had not been inevitable.
+
+The friendship broke years later over a story about predictive rationing.
+
+A city pilot had used an early LOAM module to prioritize deliveries during shortages. Nico discovered that officials were quietly allowing the recommendation score to influence enforcement patrols around distribution sites. The model had not been designed for policing. The city had done it anyway. Nico published.
+
+Cassian learned about the misuse from the episode.
+
+His anger had not been that Nico exposed it.
+
+It was that Nico had not warned him first. Nico's answer had been worse.
+
+“You would have fixed the software before the public learned the government broke the rules.”
+
+Cassian had denied it.
+
+Then spent years wondering whether Nico was right.
+
+Now, in the studio, the old argument sat between them beneath the Antarctic files.
+
+“If this turns out to be nothing,” Cassian said, “you do not get to make the nothing sound like something.”
+
+Nico did not joke.
+
+“If it turns out to be something, you do not get to fix it before anyone knows it was broken.”
+
+Cassian looked through the glass.
+
+“That is not the same situation.”
+
+“It is always the same situation with you.”
+
+“Which is?”
+
+“You think responsibility begins when you understand the mechanism.”
+
+Cassian felt the old anger rise.
+
+“And you think responsibility begins when you can publish a headline.”
+
+Nico nodded.
+
+“Sometimes.”
+
+The honesty disarmed him. Nico continued.
+
+“You are better at preventing collapse than anybody I know. But you have this habit of believing people should wait for experts to make truth safe.”
+
+Cassian thought of Pike. Of missing data. Of Mira's warning.
+
+“And you have a habit of believing exposure is the same as accountability.”
+
+“Also fair.”
+
+For a moment they were younger, exhausted in a municipal command room, arguing while the city overheated around them. Nico held out his hand.
+
+“Thirty-six hours. No publication. Provenance on everything. If the state seizes the evidence, hashes go public.”
+
+Cassian looked at the hand.
+
+“And if we are wrong?”
+
+“We say we were wrong.”
+
+“Publicly?”
+
+“Especially publicly.”
+
+Cassian shook it. The friendship did not repair.
+
+Nico’s producer, Selene Marr, refused to let him call the expedition “the Antarctica story.”
+
+“It is not a story yet.”
+
+“Everything is a story.”
+
+“That is why I am employed.”
+
+She sat in the studio control room with three screens full of legal notes.
+
+Selene had been with UNFINISHED EVIDENCE since before it had advertisers, before Nico had a reputation, before audiences learned to treat his curiosity as a brand. She distrusted him professionally.
+
+That was part of why the show worked.
+
+“What are your terms with Cassian?”
+
+“No publication until off ice.”
+
+“Too vague.”
+
+“I know.”
+
+“What counts as publication?”
+
+“Public release.”
+
+“Teasers?”
+
+“No.”
+
+“Metadata?”
+
+“Hash only.”
+
+“Live mention?”
+
+“No.”
+
+“Anonymous sourcing?”
+
+“No.”
+
+Selene nodded.
+
+“Good.”
+
+Nico frowned.
+
+“You expected me to cheat.”
+
+“I expect you to become excited.”
+
+“That is insulting.”
+
+“It is why you are good.”
+
+She opened their old episode about the rationing scandal.
+
+The one that nearly ended Nico and Cassian’s friendship.
+
+“You still think you were right?”
+
+“Yes.”
+
+“About publishing?”
+
+“Yes.”
+
+“About the title?”
+
+Nico looked away.
+
+THE MACHINE THAT KNOWS WHO STARVES.
+
+“No.”
+
+“Good.”
+
+Selene closed it.
+
+“If Antarctica becomes real, you cannot use the audience’s hunger for revelation as an excuse to flatten uncertainty.”
+
+“I know.”
+
+“You know when calm.”
+
+Nico stared through the glass toward Cassian’s empty chair.
+
+“Why are you suddenly defending him?”
+
+“I am defending the work.”
+
+She handed Nico a printed card. On it were three questions.
+
+WHAT DO WE KNOW?
+HOW DO WE KNOW IT?
+WHAT WOULD CHANGE OUR MINDS?
+
+“Read that before every recording.”
+
+Nico laughed.
+
+“You made me a catechism.”
+
+“No.”
+
+Selene looked at him.
+
+“I made you brakes.”
+
+He put the card in his notebook.
+
+Later, at Gate 60, those questions would become part of the project’s formal evidence protocol.
+
+At the time, Nico only thought his producer was being irritating.
+
+But a new contract formed over the ruins.
+
+“Just less comfortably.”

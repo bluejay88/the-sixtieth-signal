@@ -1,0 +1,126 @@
+CHAPTER TWENTY-FIVE
+HALF TURN
+
+Imani solved it by turning the screen upside down. Nico laughed. Nobody else did.
+
+“I'm serious,” she said.
+
+She rotated the relational graph one hundred eighty degrees.
+
+The archive did not use writing direction in the human sense, but its carrier structures had orientation: source, transformation, witness, return.
+
+LOAM had inferred direction from the later archive layers because they were less damaged. That was the mistake.
+
+“We trained the read-order on the copy,” Imani said. “Then used it on the original.”
+
+Cassian felt cold.
+
+“Can you prove the original is oriented differently?”
+
+“Not yet.”
+
+Pike exhaled through her nose. Imani ignored her.
+
+“Show me the oldest complete checksum ring.”
+
+LOAM projected a circular structure divided into twelve sectors.
+
+Each sector contained nested relations. Thirty-degree increments. Three hundred sixty degrees total.
+
+No one commented on the numbers. They did not need to.
+
+Imani pointed to the witness markers.
+
+“In later copies, witness follows command. In this one, witness precedes it.”
+
+Cassian said, “Maybe syntax changed.”
+
+“Exactly.”
+
+“That's not proof.”
+
+“It's a reason to stop pretending the direction is fixed.”
+
+She asked LOAM to parse the oldest directive in both orientations. The first rendering appeared.
+
+PRESERVE ORDER.
+
+Confidence: 0.61. The second rendering appeared.
+
+PRESERVE DIVERGENCE.
+
+Confidence: 0.63. Nico whispered, “Oh, no.” Pike stepped toward the table.
+
+“Difference is negligible.”
+
+Imani nodded.
+
+“At this layer. Now propagate both assumptions forward and test which produces fewer contradictions across the archive.”
+
+LOAM processed. Seconds. Then minutes.
+
+Cassian watched the progress tree split into two histories.
+
+ORDER.
+
+DIVERGENCE.
+
+Under ORDER, several early interventions contradicted Shaal-Amur's later doctrine. Human communities were deliberately separated instead of unified. Redundant knowledge was distributed across distant groups. Technologies were taught in incompatible forms. No single priesthood received complete authority. Under DIVERGENCE, those actions aligned.
+
+Pike said, “Unless those were containment strategies.”
+
+“They could be,” Imani said. “Keep going.”
+
+More contradictions. The archive's earliest safety architecture required multiple independent witnesses.
+
+ORDER predicted one authorized interpreter. DIVERGENCE predicted several.
+
+The original chamber used physically separate storage pathways holding overlapping but nonidentical records.
+
+ORDER called that inefficiency. DIVERGENCE called it resilience.
+
+Cassian felt his own work reflected back at him. Multiple suppliers. Multiple ports. Multiple crops.
+
+No single point of failure. LOAM finished.
+
+GLOBAL CONSISTENCY SCORE:
+ORDER: 0.44.
+DIVERGENCE: 0.78.
+
+Pike stared.
+
+“Run blind.”
+
+Cassian looked at her.
+
+“Good.”
+
+They stripped semantic labels from both hypotheses and reran the structural test. Same result.
+
+They randomized damaged segments. Same ranking.
+
+They excluded all material discovered after LOAM's arrival. Same ranking.
+
+Imani was breathing quickly now, not excitement. Fear.
+
+“Show the copy transition,” she said.
+
+LOAM traced the directive across time.
+
+Early: maintain independent survivable variance. Middle: preserve divergent survivable forms. Later: prevent uncontrolled divergence. Latest: preserve order, not one mistranslation. A drift.
+
+Tiny changes accumulating across copies and policy revisions. Then one abrupt intervention.
+
+A single archive layer where several qualifiers disappeared at once. Nico pointed.
+
+“Who did that?”
+
+LOAM matched authority signatures.
+
+SHAAL-AMUR ADMINISTRATIVE LINEAGE.
+
+Pike said, “Not necessarily him personally.” Imani nodded.
+
+“Correct.”
+
+Cassian looked at Page Gate 180 on the Signal Layer audit. Half the cycle. Half turn.

@@ -1,0 +1,161 @@
+The passive instrument descended. Three hundred meters. Six hundred. Nine hundred. Signal degraded.
+
+At 1,086 meters, acoustic return sharpened. Park looked at the trace.
+
+“That’s the interface.”
+
+Cassian leaned over. A clean reflection, not perfectly flat. Too coherent.
+
+“Material boundary?” he asked.
+
+“Could be.”
+
+The probe rotated. The line persisted. Then the return vanished.
+
+“Lost contact?”
+
+“No.”
+
+“Cable?”
+
+“Good.”
+
+The trace returned sixty degrees away.
+
+Nico was filming the instruments, not faces. Good.
+
+Cassian watched the geometry build in low resolution, not a wall, not exactly. Planes. Angles.
+
+Regular enough to trigger the part of his brain he distrusted. LOAM displayed:
+
+GEOMETRIC REGULARITY EXCEEDS LOCAL GEOLOGIC PRIOR.
+
+Cassian said, “Do not classify artificial.”
+
+ACKNOWLEDGED.
+
+At 14:21, something happened to the clocks.
+
+Cassian noticed because Nico’s recorder chimed. Then Park’s tablet.
+
+Then the field node. Each warned of synchronization correction.
+
+“Network time?” Cassian asked.
+
+The systems technician shook his head.
+
+“External sync disabled.”
+
+“GPS?”
+
+“Receiving, not disciplining local logs during the test.”
+
+Park checked her instrument.
+
+“Mine drifted forward point-eight seconds.”
+
+Nico said, “Mine backward point-three.”
+
+Cassian looked at the LOAM node.
+
+Its clock correction log showed no external command.
+
+Yet when they aligned the raw traces afterward, three independent systems converged on the same event. A pulse. Then another. Then a third, not audible. Pressure. Low frequency.
+
+Separated by six seconds. Then silence.
+
+Cassian felt every person at the site become still. Nico lowered his camera.
+
+Park whispered, “That was not the probe.”
+
+“No,” Cassian said.
+
+“Source depth?”
+
+“Below interface.”
+
+Pike’s voice came over comms.
+
+“Terminate passive deployment.”
+
+Park looked irritated.
+
+“Why?”
+
+“Now.”
+
+Cassian said, “We still have twenty minutes.”
+
+“Dr. Osei-Lorne, terminate.”
+
+LOAM flashed a new prediction.
+
+INTERFACE REFLECTIVITY CHANGING.
+
+Cassian looked down. The coherent return was weakening, not disappearing. Opening.
+
+He could not justify the word.
+
+He thought it anyway. Nico’s camera rose again. Pike’s voice hardened.
+
+“Cassian.”
+
+He reached for the retrieval control. LOAM displayed one more line.
+
+THE WINDOW IS NOT MELTING ICE.
+
+Cassian froze.
+
+“What?”
+
+No answer. The next line appeared.
+
+THE WINDOW IS REDUCING ACOUSTIC OCCLUSION.
+
+Park leaned in.
+
+“That could be right.”
+
+Pike said, “Retrieve the probe.” Cassian did.
+
+As the instrument rose, the three pulses came again. Same spacing. Six seconds. Then twelve. Then nothing.
+
+The event ended at 14:50. Exactly.
+
+The field team stood in the white silence. Forty-seven minutes. LOAM had been right.
+
+Cassian wished it had not been.
+
+At 15:03, two unmarked aircraft appeared on the southern horizon. Nico looked at Cassian.
+
+Cassian looked at the incoming planes.
+
+Pike had expected something. Maybe not this but enough.
+
+The expedition had been called a validation mission. Antarctica punished abstraction.
+
+Every distance was physical. Every mistake required calories. Every elegant plan became gloves, fuel, wind, metal, breath.
+
+On their second traverse, a whiteout erased the horizon in less than four minutes. Cassian had been twenty meters from Park. Then he was alone inside brightness.
+
+His safety line jerked against the harness.
+
+“Stop moving,” Park said over radio.
+
+He stopped. The instinct to walk toward where he thought camp was became almost unbearable.
+
+“Can you see marker three?”
+
+“I can see my gloves.”
+
+“Good. Those are attached to you. Stay with them.”
+
+Nico's voice came over comms.
+
+“This is why all ancient revelations happen in deserts. Better visibility.”
+
+Park said, “Nico.”
+
+“Stopping.”
+
+They waited nine minutes for the gust front to pass.

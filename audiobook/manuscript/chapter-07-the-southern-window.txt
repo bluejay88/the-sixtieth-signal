@@ -1,0 +1,514 @@
+CHAPTER SEVEN
+THE SOUTHERN WINDOW
+
+The flight south took long enough for everyone to become less interesting.
+
+That was one of Nico’s theories about travel. Airports made strangers mysterious. Twelve hours in a transport aircraft reduced everyone to neck pillows, bad digestion, and the question of who snored. Cassian did not sleep.
+
+He watched LOAM’s field node rebuild its prediction every fifteen minutes as new meteorological data arrived.
+
+The window moved by seconds, not hours. That was strange.
+
+Weather uncertainty should have widened it. Instead the model remained stubborn.
+
+47 minutes. Start: 14:03 local. End: 14:50.
+
+“Still the same?” Nico asked from the opposite seat.
+
+“Yes.”
+
+“That bothers you.”
+
+“Yes.”
+
+“What would make you happier?”
+
+“A worse model.”
+
+Nico nodded as if this were reasonable.
+
+Outside, cloud and ocean merged into a gray without horizon. The expedition had twelve people.
+
+Two glaciologists. An oceanographer. A field engineer. A medic. Three polar logistics specialists. Cassian. Nico. A systems technician assigned by Pike. And a woman named Lian Vorr who introduced herself as “interagency safety” and wore boots too new for field work. Cassian assumed she was intelligence.
+
+Nico assumed she was intelligence and told her so. She said, “That saves time.”
+
+They landed at a coastal research station and transferred by ski aircraft the next morning.
+
+The interior of Antarctica did not look empty. It looked unfinished.
+
+White planes folded into blue distance. Wind carved surfaces into hard ribs. The sky felt too large because there were no buildings tall enough to tell the eye where to stop.
+
+Cassian had seen photographs all his life.
+
+None conveyed the violence of reflected light.
+
+At the temporary camp, the team unpacked sensors while Pike joined by encrypted link.
+
+“No improvisation,” she said.
+
+Nico looked at Cassian. Cassian looked away. Pike continued.
+
+“The predicted event may be nothing. If it occurs, deploy the passive probe exactly as planned.”
+
+The glaciologist, Dr. Hye-Jin Park, raised a hand.
+
+“What is our actual hypothesis?”
+
+Pike answered, “Subglacial hydraulic transition.” Park looked at Cassian.
+
+“And the food model?”
+
+Cassian said, “Predicts the timing.” Park waited for more.
+
+“That’s the part we’re testing.”
+
+She gave him the expression scientists reserved for colleagues who had brought an embarrassing result to a respectable field site.
+
+“Fine,” she said. “If your bread computer beats my ice model, I buy dinner.”
+
+Nico whispered, “Bread computer.” Cassian said, “Don’t.”
+
+At 13:40, they moved to coordinate three.
+
+The access site looked like nothing.
+
+A shallow equipment trench. Two antenna masts. A buried fiber line. Old marker poles.
+
+Then Cassian saw the older hardware.
+
+Half covered by snow, thirty meters east. Government-grade instrument housing. Stamped SVW.
+
+Someone had been here. Many someones. Pike had not lied.
+
+That almost made Cassian trust her less. LOAM updated.
+
+WINDOW CONFIDENCE: 0.71.
+
+Park’s team lowered the passive acoustic package into a preexisting narrow bore channel. No new drilling. No heat. No fluid.
+
+At 13:58, the signal remained ordinary.
+
+At 14:00, wind gusted hard enough to shake the mast.
+
+At 14:02, Cassian’s field display changed.
+
+SUBGLACIAL PRESSURE SHIFT DETECTED.
+
+Park swore.
+
+“Independent?”
+
+Her technician checked.
+
+“Yes.”
+
+“Magnitude?”
+
+“Small. Real.”
+
+14:03. The access window opened, not visibly. Nothing cracked. No cinematic rupture.
+
+But the instruments agreed that water beneath them was moving in a way the conventional model had placed somewhere in the next week. Park stared at Cassian.
+
+“Your bread computer gets dinner.”
+
+Cassian did not smile.
+
+“Deploy probe.”
+
+The passive instrument descended. Three hundred meters. Six hundred. Nine hundred. Signal degraded.
+
+At 1,086 meters, acoustic return sharpened. Park looked at the trace.
+
+“That’s the interface.”
+
+Cassian leaned over. A clean reflection, not perfectly flat. Too coherent.
+
+“Material boundary?” he asked.
+
+“Could be.”
+
+The probe rotated. The line persisted. Then the return vanished.
+
+“Lost contact?”
+
+“No.”
+
+“Cable?”
+
+“Good.”
+
+The trace returned sixty degrees away.
+
+Nico was filming the instruments, not faces. Good.
+
+Cassian watched the geometry build in low resolution, not a wall, not exactly. Planes. Angles.
+
+Regular enough to trigger the part of his brain he distrusted. LOAM displayed:
+
+GEOMETRIC REGULARITY EXCEEDS LOCAL GEOLOGIC PRIOR.
+
+Cassian said, “Do not classify artificial.”
+
+ACKNOWLEDGED.
+
+At 14:21, something happened to the clocks.
+
+Cassian noticed because Nico’s recorder chimed. Then Park’s tablet.
+
+Then the field node. Each warned of synchronization correction.
+
+“Network time?” Cassian asked.
+
+The systems technician shook his head.
+
+“External sync disabled.”
+
+“GPS?”
+
+“Receiving, not disciplining local logs during the test.”
+
+Park checked her instrument.
+
+“Mine drifted forward point-eight seconds.”
+
+Nico said, “Mine backward point-three.”
+
+Cassian looked at the LOAM node.
+
+Its clock correction log showed no external command.
+
+Yet when they aligned the raw traces afterward, three independent systems converged on the same event. A pulse. Then another. Then a third, not audible. Pressure. Low frequency.
+
+Separated by six seconds. Then silence.
+
+Cassian felt every person at the site become still. Nico lowered his camera.
+
+Park whispered, “That was not the probe.”
+
+“No,” Cassian said.
+
+“Source depth?”
+
+“Below interface.”
+
+Pike’s voice came over comms.
+
+“Terminate passive deployment.”
+
+Park looked irritated.
+
+“Why?”
+
+“Now.”
+
+Cassian said, “We still have twenty minutes.”
+
+“Dr. Osei-Lorne, terminate.”
+
+LOAM flashed a new prediction.
+
+INTERFACE REFLECTIVITY CHANGING.
+
+Cassian looked down. The coherent return was weakening, not disappearing. Opening.
+
+He could not justify the word.
+
+He thought it anyway. Nico’s camera rose again. Pike’s voice hardened.
+
+“Cassian.”
+
+He reached for the retrieval control. LOAM displayed one more line.
+
+THE WINDOW IS NOT MELTING ICE.
+
+Cassian froze.
+
+“What?”
+
+No answer. The next line appeared.
+
+THE WINDOW IS REDUCING ACOUSTIC OCCLUSION.
+
+Park leaned in.
+
+“That could be right.”
+
+Pike said, “Retrieve the probe.” Cassian did.
+
+As the instrument rose, the three pulses came again. Same spacing. Six seconds. Then twelve. Then nothing.
+
+The event ended at 14:50. Exactly.
+
+The field team stood in the white silence. Forty-seven minutes. LOAM had been right.
+
+Cassian wished it had not been.
+
+At 15:03, two unmarked aircraft appeared on the southern horizon. Nico looked at Cassian.
+
+Cassian looked at the incoming planes.
+
+Pike had expected something. Maybe not this but enough.
+
+The expedition had been called a validation mission. Antarctica punished abstraction.
+
+Every distance was physical. Every mistake required calories. Every elegant plan became gloves, fuel, wind, metal, breath.
+
+On their second traverse, a whiteout erased the horizon in less than four minutes. Cassian had been twenty meters from Park. Then he was alone inside brightness.
+
+His safety line jerked against the harness.
+
+“Stop moving,” Park said over radio.
+
+He stopped. The instinct to walk toward where he thought camp was became almost unbearable.
+
+“Can you see marker three?”
+
+“I can see my gloves.”
+
+“Good. Those are attached to you. Stay with them.”
+
+Nico's voice came over comms.
+
+“This is why all ancient revelations happen in deserts. Better visibility.”
+
+Park said, “Nico.”
+
+“Stopping.”
+
+They waited nine minutes for the gust front to pass.
+
+Nine minutes felt longer than the forty-seven-minute model window.
+
+When visibility returned, Cassian was shocked to find camp almost directly behind him.
+
+His internal map had been ninety degrees wrong. That stayed with him.
+
+Orientation was confidence plus landmarks. Remove the landmarks and the mind supplied direction anyway.
+
+That night he wrote the observation into LOAM's field notebook under HUMAN FACTORS.
+
+Pike saw it during the sync review.
+
+“Why record that?”
+
+“Because we are going to interpret ambiguous data while tired, cold, and expecting a pattern.”
+
+She nodded.
+
+“Good.”
+
+Cassian added another line.
+
+THE TEAM'S CERTAINTY IS ALSO A SENSOR. IT CAN DRIFT.
+
+Nico read it over his shoulder.
+
+“That's disgustingly quotable.”
+
+“Do not.”
+
+Nico photographed it anyway. Later, Cassian woke at 02:16 to the sound of ice shifting under camp, not cracking. Something lower, a pressure groan transmitted through the ground.
+
+He lay in darkness and remembered that beneath him were more than a thousand meters of frozen history, every layer preserving atmospheres no human had breathed.
+
+It occurred to him that civilization's obsession with the future had made the planet's past seem passive.
+
+Ice was not passive. It moved. It buried. It preserved.
+
+The first night on the ice, Hye-Jin Park made everyone walk away from camp, not far. Two hundred meters. Tethered in pairs. No instruments except emergency radios.
+
+Cassian assumed it was acclimatization. It was not.
+
+“Turn around,” Park said.
+
+The camp lights were visible behind them.
+
+“Now close your eyes.”
+
+Nico said, “Absolutely not.”
+
+“Then go back.”
+
+He closed them. Wind pushed against Cassian’s hood. Park waited thirty seconds.
+
+“Point toward camp.”
+
+Everyone pointed. Cassian opened his eyes.
+
+His arm was almost ninety degrees wrong. Nico was worse. Park said:
+
+“Your internal compass is fiction.”
+
+Cassian looked at the lights.
+
+“But I knew—”
+
+“You felt.”
+
+She moved down the line.
+
+“In whiteout, confidence survives after reference disappears.” Park pointed back toward the camp lights. “And a baseline isn't nature. It's where you started measuring.” The sentence sounded like field safety until Cassian remembered how many models quietly treated their starting conditions as if the world had chosen them.
+
+Imani was not there yet to hear the sentence.
+
+She would have loved it. Park continued.
+
+“People walk in circles because the body is asymmetric. They correct for errors they cannot perceive.”
+
+Cassian thought of model drift. Of hidden priors.
+
+Of systems recursively adjusting around a wrong assumption.
+
+“Why teach this now?”
+
+“Because tomorrow your equipment may tell you something impossible.”
+
+She looked at him directly.
+
+“If the instruments and your story disagree, do not immediately assume the story is brave.”
+
+Nico asked:
+
+“What if the instruments disagree with each other?”
+
+“Good.”
+
+Park smiled.
+
+“Then you have science.”
+
+The exercise stayed with Cassian.
+
+At Gate 180, months later, when Imani said orientation was wrong, his body remembered pointing confidently into empty white.
+
+The first deep-field transit almost failed because of a door.
+
+Not a blizzard, not a crevasse. A door.
+
+The pressure seal on the forward equipment module would not confirm closure. The indicator said green.
+
+Park said it was not closed. Lian checked the latch physically.
+
+A strip of ice no thicker than a fingernail had formed inside the lower gasket.
+
+The sensor did not see it.
+
+Nico watched from behind the safety line.
+
+“So the machine says closed.”
+
+Park nodded.
+
+“The door says otherwise.”
+
+Cassian crouched beside Lian. The seal looked perfect.
+
+“That much ice matters?”
+
+“In this temperature gradient? Enough.”
+
+Lian scraped it free. The indicator stayed green the entire time.
+
+Cassian looked at the sensor metadata.
+
+The switch only confirmed latch position, not seal integrity.
+
+A category error disguised as status.
+
+CLOSED meant one thing to the system and another to the people who would freeze if it was wrong.
+
+He photographed the mechanism. Park saw him.
+
+“Another model feature?”
+
+“Maybe.”
+
+“No.”
+
+She waited. Cassian corrected himself.
+
+“Another reminder not to confuse a measurement with the condition we care about.”
+
+“Better.”
+
+They departed forty-three minutes late.
+
+Pike complained about the lost window. Park did not apologize.
+
+The route took them across ice so flat the horizon became an optical trick.
+
+For three hours Cassian saw nothing except white and the dark shape of the vehicle ahead.
+
+Then the terrain changed. Not visibly at first. The vibration did.
+
+A low irregular shudder passed through the chassis. Park slowed.
+
+“Blue ice transition.”
+
+Nico lifted his camera. Park pointed at him without looking.
+
+“Camera stays clipped.”
+
+“Why?”
+
+“Because if you drop it, you will instinctively reach.”
+
+“I am not an idiot.”
+
+“You are a mammal.”
+
+He clipped it. Cassian smiled.
+
+The ice surface became translucent in patches, old compressed layers showing through like depth beneath glass.
+
+He felt an irrational urge to look down.
+
+As if the continent contained a memory beneath his boots. Park said over comms:
+
+“Do not romanticize it.”
+
+Cassian turned.
+
+“How did you know?”
+
+“Everyone does the first time.”
+
+They reached the temporary drilling position at 16:20.
+
+Park ordered a full reference survey before any anomaly work. Nico groaned.
+
+“We have the coordinates.”
+
+“We have instruments that say we have the coordinates.”
+
+“That distinction is going to become exhausting.”
+
+“It keeps people alive.”
+
+Cassian watched the survey team set three independent markers.
+
+GNSS. Inertial reference. Physical baseline. Again three.
+
+He noticed and refused to attach meaning.
+
+Later, during the first scan, one reference disagreed by 2.8 meters. The team stopped. No anomaly work. Recalibrate.
+
+The error came from an antenna mount twisted during transit. Small. Ordinary.
+
+Enough to move an apparent geometric feature.
+
+Cassian felt a flush of embarrassment.
+
+The interface had not even been measured yet and reality was already offering fake miracles. Park looked at him.
+
+“This is why we spend four hours proving where we are before asking what is under us.”
+
+Cassian wrote that in Abena’s notebook. Then below it:
+
+Every mystery deserves a boring enemy.
+
+And now, according to a model built to ration grain, it was about to uncover a seam somebody had spent decades watching.
+
+Cassian finally understood that another mission had been waiting behind it.

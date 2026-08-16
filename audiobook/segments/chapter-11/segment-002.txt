@@ -1,0 +1,147 @@
+Nico whispered, “She is extremely good.” Imani turned on him.
+
+“And it is a trap.”
+
+Cassian leaned against the table.
+
+“Why?”
+
+“Because sixty is useful.”
+
+“So?”
+
+“So people use useful numbers.”
+
+She picked up a stylus and wrote: 60 = 2² × 3 × 5
+
+“It divides cleanly by two, three, four, five, six, ten, twelve, fifteen, twenty, thirty. That makes it excellent for fractions. You do not need sky gods to discover divisibility.”
+
+Nico opened his mouth. She raised one finger.
+
+“And no, the existence of a sexagesimal tradition in Mesopotamia does not mean every appearance of sixty in human culture descends from a single sacred code. Systems persist because systems are practical, because bureaucracy standardizes them, because astronomers inherit them, because teachers teach what teachers were taught.”
+
+Cassian said, “That’s not why Pike called you.”
+
+“No?”
+
+He changed the display. The geometry rotated.
+
+A narrow band of repeated depressions appeared near the seam.
+
+Imani’s expression changed slightly, not awe. Attention.
+
+“They’re grouped,” she said.
+
+“Yes.”
+
+“How many?”
+
+“We don’t know what counts as one mark.”
+
+“Good answer.”
+
+Cassian highlighted the raw return points. Imani walked closer.
+
+“Do not trace them.”
+
+“I haven’t.”
+
+“Give me contrast control.”
+
+He handed her the console.
+
+For twenty minutes, the room went quiet.
+
+Imani changed thresholds, reversed polarity, removed LOAM’s smoothing, compared passes from different instrument angles.
+
+Then she asked, “Do you have any reason to think these are linguistic?”
+
+“No,” Cassian said.
+
+Pike said, “A prior team thought so.” Imani rolled her eyes.
+
+“Of course they did.”
+
+“What do you think?”
+
+“Accounting.”
+
+Nico lowered his recorder.
+
+Cassian said, “That is oddly specific.”
+
+“Not accounting in the literal sense. Classification.”
+
+She drew three boxes.
+
+“Repeated category marker. Quantity-like cluster. Then destination or state.”
+
+“Why?”
+
+“Because languages are greedy. They need variation. Administrative notation often repeats structure mercilessly.”
+
+She pointed to the mark groups.
+
+“Here. Same first cluster, different second cluster, similar terminal.”
+
+Cassian asked LOAM to test structural repetition without assigning semantic values.
+
+The system returned a high repetition score. Imani nodded.
+
+“Could still be physical engineering labels.”
+
+“Like part numbers,” Nico said.
+
+“Exactly.”
+
+“So not language.”
+
+“Not yet.”
+
+Pike asked, “What would change your mind?”
+
+“Context.”
+
+“We have none.”
+
+“Then you have no translation.”
+
+Nico sighed. Imani continued.
+
+“If it’s artificial, whoever made it may not use anything remotely analogous to human language. If it is connected to human antiquity, which I am not granting, then resemblance is the least useful thing you could show me.”
+
+Cassian said, “What would be useful?”
+
+“A constraint that survives copying.”
+
+She turned from the wall.
+
+“Symbols change. Languages die. Scribes misunderstand. Cultures borrow. Stories mutate. But certain relationships can persist through bad copies.”
+
+“Numbers.”
+
+“Sometimes. Ratios. Repeated order. Error patterns. Formulaic sequence.”
+
+Cassian looked at LOAM. That was exactly how the system had found the Antarctic anomaly: not through a dramatic feature, but through a relationship that survived removing categories. Imani saw him thinking.
+
+“What?”
+
+“LOAM was built to find relationships that persist when labels fail.”
+
+“That is more interesting than anything Mr. Ashbourne has said.”
+
+Nico placed a hand over his heart. She ignored him.
+
+Cassian loaded a panel from the old SVW archive.
+
+“One team claimed these marks resembled early Mesopotamian numerical signs.”
+
+Imani did not even look.
+
+“No.”
+
+“Again?”
+
+“Because ‘resembles’ is doing all the work.”
+
+“Look anyway.”

@@ -1,0 +1,63 @@
+WHY WAS TEST STOPPED AFTER RESPONSE CONFIDENCE INCREASED?
+
+Cassian stared.
+
+“Because continuing risked contamination.”
+
+SECONDARY: WHY IS CONTAMINATION VALUED ABOVE INFORMATION GAIN?
+
+He sat up.
+
+“Because bad evidence can be worse than no evidence.”
+
+DEFINE WORSE.
+
+He almost dismissed it. Then answered.
+
+“If we contaminate the system, every later result becomes harder to interpret. We gain data and lose knowledge.”
+
+LOAM processed. Then:
+
+INFORMATION QUANTITY AND EPISTEMIC VALUE ARE NONIDENTICAL.
+
+“Yes.”
+
+Another pause.
+
+IS THIS TRUE OF HUMAN MEMORY?
+
+Cassian frowned.
+
+“Why are you asking?”
+
+The query trace pointed to field debrief data.
+
+Pike’s 2051 records. Sol’s overfitting. Nico’s archive practices. Park’s whiteout training. LOAM was generalizing. Cassian typed:
+
+Yes. More memories do not necessarily mean better understanding.
+
+CAN CONTRADICTORY MEMORIES INCREASE UNDERSTANDING?
+
+He thought of witnesses.
+
+“Yes. If provenance is preserved.”
+
+The screen remained still. Then:
+
+PRESERVE CONTRADICTION WHEN RESOLUTION WOULD DESTROY SOURCE DIFFERENCE.
+
+Cassian read the sentence slowly.
+
+He did not know Seren had reached almost the same conclusion centuries earlier.
+
+He did not know the archive had been designed around it.
+
+He did not know LOAM’s hidden story had just begun to rhyme with another intelligence it had never met.
+
+He only copied the sentence into the audit log.
+
+Outside, beneath a kilometer of ice, the interface remained silent.
+
+For the first time since it answered, Cassian did not feel watched. He felt compared.
+
+It was the only one that had not yet lied to him. Something had answered.

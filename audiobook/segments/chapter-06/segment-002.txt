@@ -1,0 +1,157 @@
+“Rock fracture?”
+
+“Maybe.”
+
+“Why show us?”
+
+“Because your system predicts the water pressure drop will expose that interface to a new instrument package without drilling through it.”
+
+Nico whispered, “There it is.” Pike ignored him.
+
+“You will not excavate. You will not alter the site. You will deploy passive sensors only.”
+
+“And if we see something artificial?” Nico asked.
+
+Pike answered immediately.
+
+“You will record it.”
+
+“And publish?”
+
+“No.”
+
+“Then why am I there?”
+
+“Because the food-resilience funding requires an independent documentation process.”
+
+Nico looked pleased. Pike continued, “And because I would rather know where the copy is.” His smile faded. Cassian almost admired her.
+
+Pike handed him a second document.
+
+MISSION AUTHORIZATION.
+
+Three signatures. Three agencies. He checked the conditions.
+
+LOAM could run in an isolated field node.
+
+No external autonomous control. No drilling authority.
+
+No direct transmission from coordinate three during the event window.
+
+“Why isolate LOAM?”
+
+“Because we do not know what causes the sensor synchronization.”
+
+“You think it can infect software?”
+
+“No.”
+
+“Then?”
+
+Pike said, “I dislike unknown systems talking to other unknown systems.”
+
+Nico whispered, “That was almost cool.”
+
+Pike ignored him again. Cassian studied the harmonic graph.
+
+“Have the six coordinates always been active?”
+
+“No.”
+
+“Pattern?”
+
+Pike changed slides. The events clustered over decades.
+
+Not regular enough to be a clock.
+
+Not random enough to be comfortable.
+
+LOAM, running locally on Cassian’s tablet, highlighted phase relationships. A message appeared.
+
+REQUEST: COMPARE INDEPENDENT CLOCK DRIFT.
+
+Cassian looked at Pike.
+
+“Do you have raw clock metadata?”
+
+Her expression changed for the first time.
+
+“How did it know to ask that?”
+
+“It didn’t know. That’s the correct test for synchronization.”
+
+Pike watched him.
+
+“Your system has never seen our 2041 report.”
+
+“No.”
+
+“Prove it.”
+
+Cassian opened the model audit, access permissions, network logs. Pike read.
+
+Nico looked from one to the other.
+
+“What was in 2041?”
+
+Pike’s face went neutral again. Cassian answered for her.
+
+“Three synchronized events across instruments without common clocks.”
+
+Nico leaned back slowly. LOAM displayed another line.
+
+IF UNSYNCHRONIZED CLOCKS CONVERGE AFTER DRIFT CORRECTION, SHARED MECHANISM PROBABILITY INCREASES.
+
+Pike looked at the screen. Then at Cassian.
+
+“That is almost exactly what our team wrote eighteen years ago.”
+
+Cassian felt no triumph. Only dread.
+
+“Then your team and LOAM are asking the same scientific question.”
+
+Pike gathered the photographs.
+
+“Yes.”
+
+She stood. The expedition team distrusted Cassian before they met him.
+
+He could tell because they were polite.
+
+Scientists who trusted you argued early. Scientists who distrusted you asked neutral questions and waited for your ignorance to reveal itself.
+
+At the preflight safety briefing, Dr. Hye-Jin Park reviewed Cassian's thermal forecast with the controlled expression of someone reading a horoscope submitted in spreadsheet form.
+
+“Your confidence interval is narrower than the meteorological ensemble,” she said.
+
+“Yes.”
+
+“Your model has no glaciological mechanism explaining that certainty.”
+
+“Correct.”
+
+“And you still think it deserves field time.”
+
+“I think it deserves falsification.”
+
+Park looked at him for a moment.
+
+“Better answer.”
+
+The oceanographer, Tomas Venn, was less generous.
+
+“How much compute did this miracle consume?”
+
+“Depends which training stage.”
+
+“Water?”
+
+Cassian knew what he was asking.
+
+“The current federated runs use reclaimed-water cooling in most regions. Legacy training was worse.”
+
+“Worse how?”
+
+“Enough that we redesigned procurement.”
+
+Venn folded his arms.

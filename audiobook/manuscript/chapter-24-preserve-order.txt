@@ -1,0 +1,167 @@
+CHAPTER TWENTY-FOUR
+PRESERVE ORDER
+
+The phrase appeared in six archive regions before Imani allowed anyone to call it a command.
+
+PRESERVE ORDER.
+
+LOAM gave the rendering a confidence score of 0.84.
+
+Nico leaned over the table. “That is annoyingly villain-shaped.”
+
+“It is annoyingly English-shaped,” Imani said.
+
+Pike looked at the alternatives.
+
+MAINTAIN AUTHORIZED CONFIGURATION.
+PREVENT UNCONTROLLED DIVERGENCE.
+
+“I prefer preserve order.”
+
+“Of course you do,” Nico said.
+
+Pike turned. “Do you have a methodological objection?”
+
+“No. A personality-based one.”
+
+Cassian almost smiled. Imani did not. “Words are not decorations. 'Order' tells the reader the state is legitimate before we know what the state is.”
+
+Pike tapped the screen. “And 'authorized configuration' tells them the same thing with worse rhythm.”
+
+“Correct.”
+
+“So?”
+
+“So we keep all three until context selects.”
+
+LOAM retained the translations side by side.
+
+That should have ended the argument.
+
+Cassian's wrist display vibrated. He ignored it.
+
+It vibrated again. Mira's priority code. He opened the message.
+
+LOAM's famine model had upgraded two West African coastal zones and one inland corridor from watch to intervention threshold. A fertilizer shipment delayed in the Atlantic, combined with a cooling failure at three storage hubs and a week of heat beyond forecast, had shifted expected food access sharply.
+
+Pike noticed his face.
+
+“What?”
+
+“Food.”
+
+That ended the room faster than any alien law.
+
+Cassian opened the live resource map.
+
+The Antarctic work vanished behind warehouses, roads, heat indexes, grain stocks, fuel availability, and people whose meals depended on ordinary systems functioning tomorrow. Mira joined by video.
+
+“You have fourteen minutes before the allocation call.”
+
+Cassian stood. “Why fourteen?”
+
+“Because the ministers already spent twenty arguing over who gets blamed.”
+
+Nico said, “Comforting.” Mira finally noticed the archive projection.
+
+“What is that?”
+
+“Possible alien constitutional law.”
+
+“Fine. Hunger first.”
+
+Cassian muted the room feed and joined the allocation channel.
+
+The model recommended diverting refrigerated transport from one protein-distribution program toward insulin and seed storage, then moving shelf-stable food by rail into two urban districts.
+
+The choice would reduce projected severe food insecurity overall.
+
+It would also cut a school meal program for four days.
+
+A minister said, “The model says diversion is optimal.”
+
+Cassian hated the sentence immediately.
+
+“The model says it minimizes the defined loss function.”
+
+“Which is?”
+
+“Severe health outcome, household food access, and spoilage risk.”
+
+“So optimal.”
+
+“No.”
+
+The minister frowned. Cassian pulled up the assumptions.
+
+“It does not include school attendance effects. It does not include the local kitchen network Mira flagged this morning. And this rail corridor has a labor dispute the model is treating as a fixed delay.”
+
+Mira said, “Not fixed. Union agreed to emergency movement if the government puts the fuel guarantee in writing. Also, your backup rail route drinks from the same diesel terminal.” She rubbed her forehead. “A backup that shares the failure isn't a backup. It's a second receipt for the same problem.” The delay disappeared.
+
+LOAM recalculated.
+
+The school meal diversion was no longer necessary.
+
+Cassian exhaled. Nico, still in the room, had stopped joking.
+
+The decision went out. People would eat because somebody had refused to treat a model output as a verdict.
+
+When the call ended, Cassian returned to the archive table.
+
+PRESERVE ORDER was still there.
+
+Pike said, “You made your point.”
+
+“I was not making one.”
+
+“That is why it worked.”
+
+Imani looked at the three translations.
+
+“Authorized by whom?”
+
+Nobody answered. She pointed at the famine map still open on Cassian's screen.
+
+“That is the question we keep avoiding because the archive makes it sound ancient.”
+
+Cassian sat.
+
+“The food model had authority to recommend. The ministers had authority to allocate. The union had authority over labor. Mira had information neither of them had.”
+
+Nico said, “And the school kids had the authority to be hungry, apparently.”
+
+“Not authority,” Imani said.
+
+“Consequence.”
+
+The word stayed.
+
+LOAM posted:
+
+ORDER IS NOT A MEASURABLE STATE WITHOUT A DEFINITION OF WHOSE LOSSES COUNT.
+
+Pike read it twice.
+
+“That is not a translation.”
+
+NO.
+
+“What is it?”
+
+INFERENCE.
+
+Imani nodded. “Label it.”
+
+LOAM did.
+
+The archive phrase remained unresolved.
+
+That was more useful than certainty.
+
+Hours later, Cassian reviewed the allocation outcome. The rail agreement held. The food diversion was smaller than predicted. One storage hub still lost power, but local kitchens absorbed more volume than the formal inventory model had expected.
+
+The model updated so did the people.
+
+Cassian returned to the archive and wrote beside PRESERVE ORDER:
+
+DO NOT LET A CLEAN NOUN HIDE THE COST FUNCTION.

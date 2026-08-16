@@ -1,0 +1,63 @@
+PART I
+THE HUNGER MAP
+
+CHAPTER ONE
+THE HUNGER MAP
+
+The map did not show hunger.
+
+It showed everything that would become hunger before anyone admitted the connection.
+
+A port strike in Santos. A fertilizer plant running nine percent below capacity outside Jorf Lasfar. River draft restrictions on the lower Mississippi. A heat dome over Punjab. Two insurance syndicates quietly repricing refrigerated cargo through the Red Sea. A fungal outbreak in Argentine soybean fields still described in public reports as “localized.” Three reservoirs in southern Spain falling in nearly identical curves.
+
+On the wall of Cassian Osei-Lorne’s laboratory, none of those things were red yet.
+
+The red came later. He stood barefoot on the polished concrete, coffee cooling between both hands, while LOAM revised the world.
+
+The system’s name had once been an acronym long enough to embarrass everyone involved: Logistics Optimization and Allocation Mesh. Cassian had shortened it during the first grant presentation because funders remembered words better than architecture diagrams. The joke was that loam was what civilization forgot it depended on. Soil. Moisture. Rot. Time.
+
+Ten years later the acronym had survived three governments, four corporate partnerships, two congressional investigations, and a wave of public hatred directed at anything that made decisions faster than people could understand them.
+
+LOAM was not supposed to make decisions.
+
+Cassian had repeated that sentence so often it had become a superstition.
+
+It predicted. It ranked. It exposed dependencies. It said, in effect, if this bridge closes, these insulin deliveries fail; if this river drops twelve centimeters, these grain elevators miss their barge windows; if this nitrogen price rises eighteen percent, these farmers cut application, which becomes these yields, which becomes these import bids, which becomes this price shock, which becomes this school meal program dropping protein twice a week.
+
+No single person saw all of it because no single institution owned all of it. LOAM did.
+
+That was why Cassian had built it.
+
+His mother still told the story differently. According to her, he built it because at fourteen he had watched a supermarket in South London throw away strawberries behind locked gates while his aunt in Accra sent photographs of market shelves where flour had tripled in price. That was family mythology, neat enough to fit over dinner. The truth was less cinematic.
+
+He had spent his twenties modeling failures nobody considered dramatic until they arrived together. Crop yields. Cold chains. Fuel rationing. Water rights. Municipal power. Trade sanctions. Machine-learning workloads competing with industrial cooling during summer peaks. Data centers buying long-term water contracts from the same aquifers feeding farms. Every system had a team. Nobody had the seams.
+
+The seams killed people. At 05:13, LOAM painted the first red region. Northern Nigeria.
+
+At 05:14, two more appeared. Bangladesh. The western Sahel. Cassian set down the coffee.
+
+“Reason.”
+
+The wall shifted from map to causal tree.
+
+The system did not speak unless asked. Cassian had rejected the fashion for warm voices and carefully engineered personality. A logistics engine that sounded empathetic made people trust things they should inspect. Text appeared.
+
+PRIMARY RISK DRIVER: MULTI-REGION SHIPPING AND INPUT VOLATILITY.
+
+“Expected.”
+
+SECONDARY DRIVER: SOUTHERN OCEAN SALINITY ANOMALY.
+
+Cassian frowned.
+
+“Remove non-agricultural features.”
+
+The model recalculated. The red spread, not by much. Enough.
+
+“Explain.”
+
+ERROR INCREASE AFTER FEATURE REMOVAL: 11.8%.
+
+“That’s impossible.”
+
+The wall did not answer because impossibility was not a query.

@@ -1,0 +1,133 @@
+Cassian rubbed his eyes, then walked to the workstation and opened the dependency trace manually. The Antarctic variable sat where no variable like it belonged, upstream of fisheries, freight, atmospheric transport, and something the model had classified as fertilizer energy exposure.
+
+He checked the feature registry. No corruption.
+
+He checked the timestamp alignment. No obvious offset.
+
+He checked whether a new climate dataset had been added during the night. Nothing.
+
+“Run without polar data.”
+
+The system did.
+
+The famine-risk score worsened in three regions. Exactly three.
+
+Cassian stared at them long enough for the screen to dim around the edges.
+
+“Run the last twelve months. Rolling exclusion. All Southern Ocean features.”
+
+Charts bloomed. The relationship survived.
+
+Not cleanly, not beautifully. Real causality never looked like a presentation slide. But the error bars were wrong in the same direction again and again. Cassian’s phone vibrated.
+
+MIRA KESTREL - MINISTRY FOOD RESILIENCE.
+
+He ignored it. Another vibration. Then another.
+
+He had promised a briefing at six.
+
+He called up LOAM’s model audit.
+
+“Show strongest unexplained upstream feature.”
+
+A thin white line appeared through the Antarctic convergence zone.
+
+SUBGLACIAL HEAT FLUX ESTIMATE: SECTOR UNRESOLVED.
+
+Cassian leaned toward the screen.
+
+The estimate was not one measurement. It was stitched from ocean temperatures, ice-penetrating radar archives, autonomous float data, gravimetric surveys, satellite altimetry, and model-imputed gaps where no public source existed.
+
+There should not have been enough data for a line that stable.
+
+“Confidence.”
+
+LOW.
+
+“Then why is it surviving feature pruning?”
+
+PREDICTIVE VALUE IS NOT EQUIVALENT TO MECHANISTIC CONFIDENCE.
+
+Cassian smiled despite himself.
+
+“That sounded like me.”
+
+No response. He ran the test again. The anomaly remained.
+
+His phone buzzed a fourth time. This time he answered.
+
+“Cassian,” Mira said without greeting, “tell me you’re looking at the western Sahel.”
+
+“I’m looking south.”
+
+“South where?”
+
+He hesitated. On the wall, LOAM shifted one dot at the bottom of the world from white to amber.
+
+“Antarctica.”
+
+There was a silence long enough that he could hear someone in her office opening a can.
+
+“Is that a joke?”
+
+“No.”
+
+“Does Antarctica grow wheat now?”
+
+“Apparently it grows model error.”
+
+“Can I use that sentence in front of the minister?”
+
+“Absolutely not.”
+
+“Good. Six minutes.”
+
+The call ended. Cassian opened the anomaly trace one more time.
+
+A number in the margin caught his eye. 60.2 days.
+
+The estimated lag between the Southern Ocean shift and the first measurable disruptions in one of the three crop clusters.
+
+He opened the other two. 59.8. 60.1. Cassian stopped moving.
+
+“LOAM.”
+
+READY.
+
+“Search all retained variables for sixty-day harmonic clustering.”
+
+The system paused, not long. Half a second. For LOAM, that was hesitation.
+
+A second set of lines appeared. Three crop failures. Six port disruptions. Twelve energy-price spikes.
+
+All sitting around multiples or divisors of sixty with more regularity than Cassian expected from messy human systems. He felt annoyance before fear.
+
+Pattern hunger was one of the oldest bugs in the human brain. See three points, invent a constellation. Give that habit enough computation and it became statistics with a costume.
+
+“Control for reporting cycles.”
+
+DONE.
+
+“Control for monthly accounting.”
+
+DONE.
+
+“Shipping schedules.”
+
+DONE.
+
+“Insurance repricing windows.”
+
+DONE.
+
+“Commodity contract rolls.”
+
+DONE.
+
+The structure weakened. It did not disappear.
+
+Cassian looked at the amber point at the bottom of the map.
+
+Then at the three red regions above it.
+
+The most dangerous thing about a wrong model was not that it failed.

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "provider": "ElevenLabs",
+  "model_id": "eleven_multilingual_v2",
+  "commercial_rights_required": true,
+  "roles": {
+    "narrator": {"role":"narrator","voice_id":"","direction":"Intimate documentary thriller; mid-low register; precise and restrained.","settings":{"stability":0.74,"similarity_boost":0.76,"style":0.12,"use_speaker_boost":true}},
+    "cassian": {"role":"cassian","voice_id":"","direction":"Warm analytical baritone; clipped under pressure; dry humor; no accent caricature.","settings":{"stability":0.70,"similarity_boost":0.78,"style":0.18,"use_speaker_boost":true}},
+    "imani": {"role":"imani","voice_id":"","direction":"Low composed mezzo; exact consonants; surgical dry humor.","settings":{"stability":0.82,"similarity_boost":0.75,"style":0.10,"use_speaker_boost":true}},
+    "nico": {"role":"nico","voice_id":"","direction":"Agile charismatic tenor; broadcast polish; slows markedly when listening.","settings":{"stability":0.55,"similarity_boost":0.80,"style":0.32,"use_speaker_boost":true}},
+    "pike": {"role":"pike","voice_id":"","direction":"Firm low alto; measured command; rare cracks in control carry weight.","settings":{"stability":0.86,"similarity_boost":0.76,"style":0.08,"use_speaker_boost":true}},
+    "loam": {"role":"loam","voice_id":"","direction":"Androgynous synthetic clarity; narrow pitch; no fake empathy; microscopic agency over time.","settings":{"stability":0.96,"similarity_boost":0.82,"style":0.00,"use_speaker_boost":true}},
+    "seren": {"role":"seren","voice_id":"","direction":"Female or androgynous contralto; patient testimony; burdened, never mystical cliché.","settings":{"stability":0.78,"similarity_boost":0.80,"style":0.16,"use_speaker_boost":true}},
+    "shaal": {"role":"shaal","voice_id":"","direction":"Alien masculine bass-baritone; immaculate calm; compelling, not monstrous.","settings":{"stability":0.90,"similarity_boost":0.84,"style":0.08,"use_speaker_boost":true}},
+    "nara": {"role":"nara","voice_id":"","direction":"Grounded alto or mezzo; tactile and ordinary; moral specificity without mysticism.","settings":{"stability":0.70,"similarity_boost":0.75,"style":0.20,"use_speaker_boost":true}},
+    "abena": {"role":"abena","voice_id":"","direction":"Mature warmth without sentimentality; deliberate comic timing; culturally authentic casting.","settings":{"stability":0.66,"similarity_boost":0.78,"style":0.25,"use_speaker_boost":true}}
+  }
+}

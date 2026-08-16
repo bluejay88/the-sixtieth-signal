@@ -31,14 +31,16 @@ const episodes = [
 ];
 const products = [
   ["ebook","Digital Edition","EPUB + reader guide","A clean, portable edition for immediate reading."],
-  ["audiobook","Dramatized Audiobook","50 chapters + optional pauses","The locked novel performed with a distinct voice ensemble."],
+  ["audiobook","Audiobook In Production","50 scripts locked · casting pending","The locked novel is prepared for a distinct voice ensemble; release opens only after generation, mastering, and listening QA."],
   ["bundle","Signal Bundle","Ebook + audiobook + dossier","The complete story and companion listening path."],
   ["collector","Collector Edition","Premium print + archive access","Join the interest list for the physical artifact."]
 ];
 
 const tabs = document.querySelector('.part-tabs'), chapters = document.querySelector('.chapters');
-function showPart(i){ tabs.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-selected',j===i)); chapters.innerHTML=parts[i][1].map((t,j)=>`<div><span>${String(i*10+j+1).padStart(2,'0')}</span><strong>${t}</strong><button aria-label="Preview ${t}">Preview soon</button></div>`).join(''); }
+let productionChapters=[];
+function showPart(i){ tabs.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-selected',j===i)); chapters.innerHTML=parts[i][1].map((t,j)=>{const n=i*10+j+1,p=productionChapters.find(x=>x.number===n);return `<div><span>${String(n).padStart(2,'0')}</span><strong>${t}</strong><button disabled aria-label="${t} production status">${p?`Script locked · ${p.segments} segments · ~${Math.round(p.estimated_minutes)} min`:'Production audit pending'}</button></div>`}).join(''); }
 parts.forEach((p,i)=>{ const b=document.createElement('button'); b.textContent=`PART ${p[0]}`; b.setAttribute('role','tab'); b.onclick=()=>showPart(i); tabs.appendChild(b); }); showPart(0);
+fetch('/data/audiobook-production.json').then(r=>r.ok?r.json():Promise.reject()).then(data=>{productionChapters=data.chapters||[];const selected=[...tabs.querySelectorAll('button')].findIndex(b=>b.getAttribute('aria-selected')==='true');showPart(Math.max(0,selected))}).catch(()=>{});
 document.querySelector('.cast-list').innerHTML=cast.map((c,i)=>`<article class="cast-row reveal"><span>${String(i+1).padStart(2,'0')}</span><div><h3>${c[0]}</h3><small>${c[1]}</small></div><p>${c[2]}</p><button class="mini-play" data-voice="${c[3]}" data-preview="${c[4]}" aria-label="Play ${c[0]} voice preview">▶ Preview</button></article>`).join('');
 document.querySelector('.episode-list').innerHTML=episodes.map(e=>`<article class="episode reveal"><span>${e[0]}</span><div><h3>${e[1]}</h3><small>${e[2]}</small></div><p>${e[3]}</p><button aria-label="Episode ${e[0]} coming soon">COMING SOON</button></article>`).join('');
 document.querySelector('.products').innerHTML=products.map(p=>`<article class="product reveal"><div><small>${p[1]}</small><h3>${p[2]}</h3><p>${p[3]}</p></div><a class="button ${p[0]==='bundle'?'primary':'ghost'} checkout" data-product="${p[0]}" href="#store">${p[0]==='collector'?'Join interest list':'Buy / preorder'}</a></article>`).join('');

@@ -1,0 +1,162 @@
+CHAPTER TEN
+THE MOUTH IN THE ICE
+
+They did not leave at noon.
+
+The storm pinned them for another day.
+
+By evening, Pike stopped pretending that waiting was safer than deciding.
+
+The experimental protocol arrived on Cassian’s terminal at 19:30.
+
+INFORMATIONAL RESPONSE TEST - PASSIVE INTERFACE.
+STATUS: PROHIBITED.
+ORIGINAL DATE: 2052.
+
+Someone had appended a new line.
+
+CONDITIONAL REVIEW AUTHORIZED.
+
+Cassian looked at Pike across the command tent.
+
+“You’re reopening a prohibited test.”
+
+“I am reviewing one.”
+
+“That is bureaucratic camouflage.”
+
+“Yes.”
+
+Nico sat in the corner with headphones on and no recorder visible.
+
+Cassian knew that meant at least two were running. Pike projected the old experiment.
+
+In 2052, SVW had transmitted acoustic pulses through a bore probe at different energy levels. Nothing.
+
+Then a systems engineer had altered spacing while keeping energy constant. Response, not every time.
+
+Not enough to prove intelligence. Enough to terrify the team.
+
+“What spacing?” Cassian asked.
+
+Pike changed slides. Three. Six. Twelve. Cassian felt sick.
+
+“Why those?”
+
+“Because someone on the team believed the earlier events followed that family.”
+
+“So they were testing their theory.”
+
+“Yes.”
+
+“Contaminating the evidence.”
+
+“Yes.”
+
+“What happened?”
+
+Pike displayed the log.
+
+OUTBOUND: 3-6-12.
+INBOUND: 3-6-12-30.
+
+Nico removed one headphone.
+
+“Thirty.”
+
+Nobody acknowledged him. Cassian stared at the sequence.
+
+“The system supplied the missing term.”
+
+“Or the equipment generated a patterned artifact,” Pike said.
+
+“Did you repeat?”
+
+“Three times.”
+
+“Same response?”
+
+“No.”
+
+“Then why prohibit it?”
+
+“On the third trial, every synchronized instrument at six SVW sites dropped for sixty seconds.”
+
+Cassian understood.
+
+The test had not just produced local response.
+
+It had coincided with network-wide behavior.
+
+“Damage?”
+
+“No.”
+
+“Casualty?”
+
+“No.”
+
+“Then?”
+
+Pike looked toward the tent wall, as if the ice were visible through it.
+
+“One site was twenty-eight kilometers away.”
+
+The 2051 bore. The pulses they heard this morning.
+
+Nico said softly, “You think the interface is one system.”
+
+“We do not know.”
+
+Cassian studied the old test design. It was bad, not incompetent.
+
+Bad in the way first-contact experiments would inevitably be bad: every observation contaminated by hope and fear.
+
+“What does LOAM propose?”
+
+Pike looked at him.
+
+“This is your system.”
+
+“That isn’t what I asked.”
+
+Cassian activated the offline node.
+
+“Design a falsifiable test distinguishing energy response from pattern response. No semantic assumptions. No use of unregistered number systems.”
+
+LOAM processed.
+
+PROTOCOL:
+1. FIX TOTAL ENERGY. 2. RANDOMIZE INTERVAL PATTERNS ACROSS BLINDED SET. 3. INCLUDE MATCHED CONTROLS WITH IDENTICAL SPECTRAL CONTENT. 4. PRECOMMIT RESPONSE METRICS. 5. DO NOT ADAPT MID-TRIAL.
+
+Park, reading over his shoulder, said, “That’s what we should have done in 2052.” Pike nodded. Cassian continued.
+
+“Can we run it without drilling?”
+
+“Yes,” Park said. “Through the existing passive channel, if coupling is sufficient.”
+
+Pike remained still. Nico asked, “What is the downside?” Pike answered him.
+
+“We discover something responds.”
+
+“And the other downside?”
+
+“We convince ourselves it does when it doesn’t.”
+
+Cassian said, “LOAM can blind the sequence generator.” Pike looked at him.
+
+“And if LOAM is part of the system?”
+
+The question landed harder than it should have. Nico stopped moving. Cassian said, “It isn’t.”
+
+“You do not know that.”
+
+“I built it.”
+
+Pike’s expression softened, which angered him more.
+
+“That is not the argument you think it is.”
+
+Cassian looked at LOAM’s silent terminal. Creator and creation.
+
+He hated the framing. LOAM was software. A system.

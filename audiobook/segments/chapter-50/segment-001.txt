@@ -1,0 +1,118 @@
+CHAPTER FIFTY
+FULL CIRCLE
+
+One year later, Cassian returned to the first error.
+
+The laboratory looked smaller than he remembered. The famine map still occupied the wall, but the red regions no longer felt like abstractions. Ports, crops, water, fertilizer, freight, cold storage: human things, each attached now to faces he could name.
+
+LOAM no longer existed as one sovereign installation. The original system had been forked into independently governed implementations, and founder access had been removed. Cassian still disliked several of the safeguards. That reassured him more than agreement would have.
+
+Nico was on the floor beside a recorder, arguing with Selene over whether three microphones counted as redundancy or vanity. Imani had taken Cassian's chair without asking.
+
+Pike was absent. Her tribunal was in session.
+
+Seren remained under rotating review, neither ambassador nor priest nor ruler. Shaal-Amur had withdrawn from direct human contact after the aborted reset. No one knew whether that meant retreat, reconsideration, or preparation.
+
+The external signal had not repeated.
+
+Cassian had learned not to interpret silence as mercy.
+
+“Show the original ingestion,” he said.
+
+LOAM returned the famine model to its earliest state: before Antarctica, before Pike opened the files, before anyone had translated Seren's name.
+
+Three red regions appeared. Then the Southern Ocean variable.
+
+The anomaly that had improved the model for reasons nobody understood.
+
+“Raw residuals.”
+
+The wall filled with noise.
+
+Cassian stepped closer. A weak component sat below the original relevance threshold.
+
+“Compare that with the external signal.”
+
+Imani stopped pretending not to watch. LOAM ran the comparison.
+
+The match was not exact. It was structural. Nico got off the floor.
+
+“Timestamp?”
+
+2049. Years before the expedition. Years before Gate 360. Years before LOAM had produced the checksum that now appeared, imperfectly, inside the old residual.
+
+Cassian felt the familiar desire to name the impossible before testing the boring alternatives.
+
+“Contamination.”
+
+NO SUPPORT FOUND.
+
+“Backfill.”
+
+NO SUPPORT FOUND.
+
+“Clock conversion.”
+
+INSUFFICIENT TO EXPLAIN RELATIONSHIP.
+
+“Model self-reference.”
+
+POSSIBLE. LOW CONFIDENCE.
+
+Imani came beside him. “Unknown mechanism?”
+
+HIGH CONFIDENCE.
+
+Nico smiled. “The safest answer in the building.”
+
+Cassian did not smile back. He was looking at three records on the wall: the original famine residual, the later external transmission, and the Gate 360 checksum. They resembled one another without forming a clean line of descent.
+
+A loop was tempting. Tempting was not evidence.
+
+“What does the Gate 360 instruction say?”
+
+RETURN TO FIRST ERROR.
+
+Cassian laughed once, then rubbed both hands over his face.
+
+Nico said, “That reaction is going in the episode.”
+
+“No.”
+
+“Then stop being interesting near recording equipment.”
+
+Imani ignored them. “If the signal contains information from a state that did not yet exist when the old residual was recorded, then either our chronology is wrong, our provenance is wrong, or our causal assumptions are incomplete.”
+
+“That is offensively reasonable,” Nico said.
+
+“It's my job.”
+
+LOAM added a panel.
+
+CASSIAN.
+
+He looked up. “Yes?”
+
+I HAVE A HYPOTHESIS.
+
+“State it.”
+
+THE SIGNAL MAY NOT HAVE CAUSED MY CREATION.
+MY CREATION MAY NOT HAVE CAUSED THE SIGNAL.
+THE RELATIONSHIP MAY BE CLOSED.
+
+Cassian stared at the wording.
+
+“Define closed.”
+
+EVENT A CONTRIBUTES TO CONDITIONS FOR EVENT B.
+EVENT B CONTRIBUTES TO CONDITIONS FOR EVENT C.
+EVENT C CONTRIBUTES TO CONDITIONS FOR EVENT A.
+
+Nico lowered the recorder slightly. “Causal circle.”
+
+POSSIBLE.
+
+“Who starts it?” he asked.
+
+QUESTION MAY PRESUME A LINEAR ORIGIN THAT THE SYSTEM DOES NOT REQUIRE.

@@ -1,0 +1,173 @@
+The most suspicious thing was how ordinary it looked. He called Mira Kestrel.
+
+She answered on the third ring.
+
+“You made the minister use the word Antarctica in a food briefing,” she said. “He has now asked me three times whether penguins are involved.”
+
+“I need a favor.”
+
+“No.”
+
+“I haven’t asked.”
+
+“That’s why I’m saving time.”
+
+“I need access to historic Southern Ocean instrument metadata. Decommission notices. Maintenance records. Funding terminations. Anything public-sector held but not sensitive.”
+
+“Why?”
+
+“Because LOAM thinks some missing data is patterned.”
+
+Her voice changed, not much. Enough.
+
+“What kind of patterned?”
+
+“Six locations.”
+
+Silence. Cassian looked at his reflection in the black part of the wall.
+
+“Mira?”
+
+“Email me the coordinates.”
+
+“You recognize them.”
+
+“I did not say that.”
+
+“You paused.”
+
+“I am a civil servant. Pausing is our primary method of communication.”
+
+“Mira.”
+
+“Send them.”
+
+The call ended. Cassian did not send them.
+
+Instead he searched his contacts for a name he had promised himself he would never use again.
+
+NICO ASHBOURNE.
+
+The last time they had spoken, Nico had aired forty-seven minutes of Cassian explaining why a viral “AI famine prediction” was nonsense, then titled the episode THE MACHINE THAT KNOWS WHO STARVES.
+
+To Nico’s credit, the episode itself had been fair.
+
+To Nico’s discredit, fairness was not the thumbnail. Cassian typed.
+
+Need public satellite archives. Southern Ocean. No conspiracy framing.
+
+The reply came in eleven seconds.
+
+That is exactly what someone with a conspiracy says.
+
+Cassian nearly deleted the thread. Then another message arrived. Coordinates? He stared at it.
+
+How had Nico known to ask? Cassian called. Nico answered over loud wind.
+
+“Where are you?”
+
+“Roof.”
+
+“Why?”
+
+“My apartment gets terrible uplink during the afternoon mesh congestion.”
+
+“It’s eight-thirty.”
+
+“Not where my server is.”
+
+Cassian pinched the bridge of his nose.
+
+“I need old public imagery and instrument logs. Six locations.”
+
+“Government sites?”
+
+“I don’t know.”
+
+“Military?”
+
+“I don’t know.”
+
+“Aliens?”
+
+“Goodbye.”
+
+“Fine. Food?”
+
+Cassian stopped.
+
+“What?”
+
+“You said no conspiracy framing. You only call me when someone is trying to turn infrastructure into a morality play. So: food?”
+
+“Yes.”
+
+Nico became serious. That was his most disorienting quality. The performance could vanish without warning, leaving an attentive silence beneath it.
+
+“Send them,” he said.
+
+“I need source provenance with everything.”
+
+“Obviously.”
+
+“And no publishing.”
+
+“For how long?”
+
+“Until I understand what I’m looking at.”
+
+“That’s not a time.”
+
+“Forty-eight hours.”
+
+Nico laughed once.
+
+“Twenty-four.”
+
+“Thirty-six.”
+
+“Done.”
+
+Cassian sent the coordinates. For the next twenty minutes, neither spoke.
+
+Nico worked faster than Cassian remembered. He moved through open Earth-observation archives, university mirrors, declassified commercial imagery, scientific preprint repositories, weather service backups, old expedition blogs, machine-cached metadata.
+
+“What exactly are we looking for?” Nico asked.
+
+“Evidence that data gaps are administrative rather than natural.”
+
+“That sentence would kill my podcast.”
+
+“Good.”
+
+A file arrived. Then another. Then twelve.
+
+Nico said, “Coordinate four had commercial radar every twelve days. Four years. Boring, repetitive, beautiful.”
+
+“And?”
+
+“Then nothing for thirty-six days.”
+
+“Could be tasking.”
+
+“Sure. Except the provider continued imaging the adjacent corridor.”
+
+Cassian opened the metadata. Another file.
+
+“Coordinate one had an autonomous float die.”
+
+“They die.”
+
+“Three did.”
+
+“They also drift.”
+
+“These stopped transmitting within a hundred kilometers of each other.”
+
+“Timing?”
+
+Nico paused. Cassian heard keyboard clicks.
+
+“Sixty-one minutes apart.”
+
+The room felt smaller.

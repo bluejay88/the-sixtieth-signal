@@ -1,0 +1,110 @@
+CHAPTER TWO
+A VARIABLE WITH NO CROP
+
+The first rule Cassian had written for LOAM was embarrassingly simple: Categories are conveniences, not laws.
+
+He had written it after an early version of the system missed a food shortage because a steel shortage delayed replacement parts for irrigation pumps. The model had treated steel as industrial. Irrigation as agricultural. The ontology was clean. The world was not.
+
+By eight that morning, Cassian regretted his own philosophy.
+
+He locked the lab door, canceled two meetings, and rebuilt the Antarctic test from scratch.
+
+No pretrained causal graph. No internal feature inheritance. No confidence carried over from the overnight run.
+
+Just raw public feeds and a blank dependency model.
+
+Ocean salinity. Sea-surface temperature. Wind stress. Ice shelf motion. Antarctic Circumpolar Current estimates. Bulk freight rates. Port dwell time. ammonia and urea prices. Fish meal production. Soy crush margins. electrical congestion. desalination demand. cloud cover. drought indexes. rail interruptions.
+
+He deliberately included ridiculous things. Solar flare activity. European football schedules. Lottery draws. Streaming traffic.
+
+If the Antarctic signal was a statistical ghost produced by enough variables, nonsense features might catch the same ghost. They did not.
+
+LOAM returned the same result with different architecture.
+
+Three crop-stress clusters lagged Southern Ocean salinity shifts by roughly sixty days. Cassian enlarged the graph.
+
+“Joint search.”
+
+SEARCHING.
+
+“Shipping first.”
+
+PARTIAL EXPLANATION.
+
+“Fisheries.”
+
+PARTIAL.
+
+“Fertilizer.”
+
+PARTIAL.
+
+“Atmospheric transport.”
+
+PARTIAL.
+
+“Energy.”
+
+PARTIAL.
+
+“Combined.”
+
+The graph changed. The Antarctic variable’s direct importance fell. Cassian exhaled.
+
+Then another node rose beneath it.
+
+SUBGLACIAL THERMAL EVENT - INFERRED.
+
+He stopped.
+
+“Inferred from what?”
+
+A list appeared.
+
+OCEAN BOTTOM TEMPERATURE.
+ICE VELOCITY.
+GRAVITY FIELD RESIDUAL.
+SURFACE ELEVATION CHANGE.
+AUTONOMOUS FLOAT DENSITY.
+REMOTE SEISMIC NOISE.
+MISSING OBSERVATION INTERVALS.
+
+Cassian read the last line twice.
+
+“Explain missing observation intervals.”
+
+Several data feeds disappeared from the map, not blank. Cut. There was a difference.
+
+Public scientific instruments failed all the time. Satellites lost coverage. Floats died. Stations iced over. Data portals changed formats. But LOAM had found gaps that repeated near the same six coordinates.
+
+Every gap looked defensible in isolation. Maintenance. Telemetry loss. Redaction. Instrument retirement. No funding. Weather.
+
+Together they formed a geometry. Cassian sat back.
+
+“Human access boundary?”
+
+PROBABILITY INCREASED.
+
+“What does that mean?”
+
+DATA ABSENCE IS CORRELATED WITH JURISDICTIONAL AND CLASSIFICATION INDICATORS.
+
+He swore softly. The system had not found secret files. It had found the silhouette around them. That was worse.
+
+He opened the legal-access log. LOAM was barred from classified systems by design. No defense networks. No intelligence clouds. No restricted scientific repositories. Cassian had fought for those restrictions after the first consortium proposed a “total planetary model” with defense feeds included.
+
+No model needed that much temptation.
+
+“List the six coordinates.”
+
+LOAM displayed them.
+
+They formed no neat hexagon. Thank God.
+
+Three clustered along a subglacial basin. Two sat farther west. One was isolated near a region whose public mapping resolution was noticeably worse than adjacent sectors.
+
+Cassian searched the coordinates manually. Scientific papers. Old expedition notes. Satellite imagery.
+
+A decommissioned seismic station. Nothing cinematic.
+
+No black triangle on Google Earth. No leaked pyramid. No mysterious no-fly zone.

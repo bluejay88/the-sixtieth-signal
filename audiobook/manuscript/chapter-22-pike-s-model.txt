@@ -1,0 +1,703 @@
+CHAPTER TWENTY-TWO
+PIKE'S MODEL
+
+Pike's apocalypse had error bars.
+
+That was what made it convincing.
+
+No fireball animation. No red skull over a map. No simulation of alien ships crossing the atmosphere. Just confidence intervals. Cassian hated it immediately.
+
+“Scenario A,” Pike said. “Verified nonhuman technology, origin unknown, no confirmed living nonhuman actors.”
+
+Markets dropped fourteen percent in the first model, recovered six, then split by sector. Defense rose. Insurance collapsed. Religious tourism surged.
+
+Observatories were overwhelmed by civilians pointing lasers and homemade transmitters at the sky.
+
+“Scenario B. Verified nonhuman intelligence, no religious-historical linkage.”
+
+More severe.
+
+“Scenario C. Verified historical intervention in human development.”
+
+The room became quiet. Cassian watched legal systems fracture on the projection.
+
+Inheritance claims tied to alleged bloodlines.
+
+Indigenous sovereignty lawsuits over recovered artifacts.
+
+Religious institutions splitting not simply between belief and disbelief, but over whether revelation had been invalidated, expanded, or fulfilled.
+
+Political movements demanding withdrawal from extraterrestrial contact. Others demanding submission.
+
+A new market in fraudulent genetic ancestry tests. Attacks on museums. Attacks on AI centers.
+
+Attacks on churches, mosques, temples, laboratories, universities.
+
+The simulation did not say humanity went mad.
+
+It said humanity used the truth for the same things it used everything else for. Power. Identity. Fear. Hope.
+
+“Scenario D,” Pike said. “Evidence that the archive materially contradicts major historical or theological traditions.”
+
+Imani interrupted.
+
+“That category is badly defined.”
+
+Pike nodded.
+
+“It is.”
+
+“Contradicts whose interpretation? Which tradition? Which period? Which denomination?”
+
+“The model simplifies.”
+
+“Then it may be manufacturing the conflict it predicts.”
+
+Pike did not defend it reflexively.
+
+“Show me.”
+
+Imani stood and walked to the display.
+
+“You're treating religion as a set of claims awaiting falsification. That is how an engineer models religion. It is not how religion functions.”
+
+Cassian almost objected on behalf of engineers, then thought better of it. Imani continued.
+
+“For some people, evidence of nonhuman intervention destroys a literal reading. For others it changes nothing. For some it becomes evidence of angels, jinn, devas, watchers, ancestors, demons, creation through intermediary beings. Your categories assume facts enter culture like software updates.”
+
+Pike looked at the model.
+
+“What would you change?”
+
+“Model institutions, not belief. Authority structures. Interpretive flexibility. Existing schisms. Economic incentives. Charismatic leaders. Media ecosystems.”
+
+Nico said, “And influencers.” Imani grimaced.
+
+“Unfortunately.”
+
+Pike made a note. Cassian watched her.
+
+“You really use these?”
+
+“For disclosure planning.”
+
+“You modeled whether humanity could handle the truth.”
+
+“No.”
+
+Pike turned.
+
+“I modeled whether governments could handle humanity handling it.”
+
+That was worse. Another simulation appeared.
+
+Nuclear alert cascades triggered not by nonhuman attack but by misinterpreted military movement after disclosure.
+
+Coups in states where leadership legitimacy depended on religious-national narratives.
+
+Attacks on data centers after rumors that AI had summoned the Visitors.
+
+Water infrastructure sabotage by groups convinced server cooling had melted Antarctic seals intentionally. Cassian stared at that line.
+
+It was grotesque because it was close enough to his real work to feel plausible.
+
+“This one,” he said. “Why water?”
+
+“Your name is attached to LOAM. LOAM is attached to AI infrastructure. AI infrastructure is attached in public debate to energy and water use. Antarctica is attached to melting ice. Conspiracy chains require narrative adjacency, not causality.”
+
+Nico said quietly, “That's good.” Pike looked at him.
+
+“It's terrible.”
+
+“I mean as analysis.”
+
+“I know.”
+
+Cassian moved through the scenarios.
+
+Every one contained an assumption he disliked.
+
+“Where is the model where nobody controls disclosure?”
+
+Pike frowned.
+
+“Explain.”
+
+“All of these begin with an authority announcing a fact. Government. Scientific coalition. Archive commission.”
+
+“That is the scenario we can plan.”
+
+“But it's already false.”
+
+He pointed to Nico's leaked image spreading through independent networks.
+
+“People are discovering pieces before you release a package.”
+
+Pike said, “Which increases misinformation.”
+
+“Maybe. It also distributes verification.”
+
+LOAM, isolated but observing the conversation transcript, displayed a note.
+
+MODEL ASSUMPTION: CENTRALIZED DISCLOSURE SOURCE.
+
+Pike stared at it. Cassian said, “It agrees.”
+
+“It detected text.”
+
+“Yes. That's what agreement often is in meetings.”
+
+Nico laughed. LOAM continued.
+
+ALTERNATE HYPOTHESIS: DISTRIBUTED DISCOVERY MAY REDUCE SINGLE-AUTHORITY FAILURE WHILE INCREASING INTERPRETIVE VARIANCE.
+
+Pike read it twice.
+
+“That's not necessarily better.”
+
+Cassian said, “No. But it may be more resilient.”
+
+The word sat between them. Resilient. Cassian knew resilience models.
+
+Food systems survived not because one authority perfectly controlled them, but because failures had substitutes. Multiple ports. Multiple crops. Multiple suppliers. Local storage. Redundancy. Diversity.
+
+He looked at Pike's simulations again.
+
+Each worst-case scenario had a hidden common feature. Concentration. One story. One announcement. One authority. One point of failure.
+
+“Your model punishes monoculture,” he said.
+
+Pike looked confused.
+
+“This is not agriculture.”
+
+“It is structurally.”
+
+He enlarged one cascade.
+
+“When one institution controls interpretation, failure propagates. When one communications channel is trusted, compromise becomes catastrophic. When one political identity absorbs the entire revelation, opposition becomes existential.”
+
+Imani understood before Pike did.
+
+“You're saying the problem isn't too many interpretations.”
+
+“I'm saying too few may be more dangerous.”
+
+Pike's disclosure model had begun as a disaster exercise after the 2051 expedition.
+
+Adrian Sol hated it. He called it prophecy theater. Pike called it planning.
+
+They argued in a windowless conference room beneath a military weather facility while the rest of the team slept.
+
+Sol had not yet become impossible. That mattered.
+
+His shirt was wrinkled. His hair had gone gray at the temples during the field season. He had an ugly habit of tapping the table whenever someone used a probability without an uncertainty interval.
+
+Pike had started doing it herself without noticing.
+
+“The public does not behave like a fluid,” Sol said.
+
+“I know.”
+
+“Your model treats attention like flow.”
+
+“It is a simplification.”
+
+“Everything that ruins civilization starts as a simplification.”
+
+Pike looked at the screen.
+
+The scenario assumed release of credible evidence that an unknown technological system existed beneath Antarctic ice, not aliens. Unknown system.
+
+The model estimated economic shock, military alert posture, religious mobilization, misinformation propagation, institutional trust, and supply-chain effects. Sol tapped the table.
+
+“You cannot assign a stable coefficient to belief.”
+
+“We are not.”
+
+“You are.”
+
+“We are assigning conditional ranges.”
+
+“You are assigning numbers because people listen differently when fear has decimals.”
+
+Pike stared at him.
+
+“You think I want this model to be comforting?”
+
+“I think you want a model because command wants an answer.”
+
+“Yes.”
+
+“And you want to be the person who can give one.”
+
+The accusation landed. Pike did not show it.
+
+“What is your alternative?”
+
+“Say we do not know.”
+
+“I have.”
+
+“To me.”
+
+“To command.”
+
+“What did they say?”
+
+Pike remembered the minister.
+
+Can the public handle this? She said:
+
+“They asked for scenarios.”
+
+Sol leaned back.
+
+“Of course they did.”
+
+The room fell quiet. Pike changed the model assumptions.
+
+Instead of one disclosure event, she created four.
+
+Controlled release. Unauthorized leak. Partial technical publication. Visible unexplained event without official explanation. Sol watched.
+
+“Better.”
+
+“Why?”
+
+“Because the public is not one variable. The information environment is part of the event.”
+
+Pike added uncertainty bands. Sol tapped the table less. Then he said:
+
+“You also need a scenario where the government lies badly.”
+
+Pike looked at him.
+
+“Define badly.”
+
+“It denies something thousands of people can verify.”
+
+After Sol was removed from the 2051 analysis team, Pike spent nine months proving she had been right and three years wondering whether she had been. The immediate aftermath was administrative.
+
+Access revoked. Credentials changed. External reviews. Security interviews. Data custody. Personnel reassignment. No dramatic confrontation. That came later.
+
+Sol filed a formal methodological complaint, not alleging conspiracy.
+
+Alleging that Pike had conflated information security with scientific validity.
+
+The complaint was technically excellent. That made it worse.
+
+He documented each stage where classification had prevented independent review.
+
+Each data stream he had lost. Each external expert prohibited from seeing the full dataset. Each decision where security authority had overruled methodological preference.
+
+Pike prepared a response. Also excellent.
+
+She documented unauthorized copies. Transform-space expansion. Post-hoc hypothesis selection. Sol's increasingly self-sealing interpretations.
+
+Both documents were true. That was the institutional nightmare. The review board concluded:
+
+SOL'S METHODOLOGICAL CONCERNS REGARDING COMPARTMENTALIZED VALIDATION ARE SUBSTANTIVE.
+
+And:
+
+DIRECTOR PIKE'S CONCERNS REGARDING ANALYTICAL OVERFITTING AND SECURITY NONCOMPLIANCE ARE SUBSTANTIVE.
+
+No villain. No clean exoneration. The program continued. Sol left. Pike stayed. That became its own argument.
+
+The institution interpreted staying as reliability. Leaving as instability.
+
+Pike noticed the asymmetry and did nothing.
+
+Years later she hated herself for that.
+
+The first time she saw Sol after his removal was at a conference neither was supposed to attend.
+
+He stood across a hotel lobby.
+
+Older. Thinner. Still angry. Pike considered walking away. He came to her.
+
+“Do you still think I was wrong?”
+
+“Yes.”
+
+“That was not my question.”
+
+She waited. Sol said:
+
+“Do you still think removing me was right?”
+
+Pike answered:
+
+“Yes.”
+
+He nodded.
+
+“That is why you scare me.”
+
+She felt anger rise.
+
+“Because I will make a decision?”
+
+“Because you believe the decision and the confidence belong together.”
+
+“That does not make sense.”
+
+“It will.”
+
+He left. Pike carried the sentence for years.
+
+The next phase of Southern Variance Watch became quieter. Less field science. More monitoring. The program expanded. Budgets grew. New agencies joined.
+
+The anomaly remained unresolved. That should have reduced certainty.
+
+Instead, institutional knowledge grew around the uncertainty.
+
+Who cleared reports. Which committee briefed which minister. What language could appear in public climate documents. Which satellite channels were compartmented. What topics triggered review.
+
+An organization could become confident about how to manage something it did not understand.
+
+Pike became very good at that. Promotions followed.
+
+She told herself the program needed someone who remembered the science. True.
+
+She told herself she was preventing worse people from taking control. Sometimes true.
+
+She told herself secrecy was temporary. Less true every year.
+
+In 2054 a climate researcher independently detected one of the timing anomalies and prepared a paper.
+
+The data were public. The interpretation was cautious. Pike received the review request. She had three options.
+
+Allow publication. Request delay. Classify the underlying correlation through emergency authority. She chose delay. The researcher complied.
+
+Six months later, requested revisions expanded. Then another delay. The paper died.
+
+Pike remembered the exact moment she knew the program had changed.
+
+Not when she signed the first delay.
+
+When she felt relief that the researcher stopped pushing.
+
+That feeling frightened her. She wrote a private note:
+
+I MAY NOW BE OPTIMIZING FOR NONDISCLOSURE RATHER THAN INVESTIGATIVE STABILITY.
+
+She did not act on it.
+
+That was the part she later confessed to Sol's reconstructed room.
+
+Not that she never saw the drift.
+
+That she saw it and chose institutional continuity.
+
+Because she believed she was still the person most capable of containing the risk. Shaal-Amur's logic in miniature.
+
+The recognition made her physically ill.
+
+Years later, when Cassian asked why she finally released the monitoring history, Pike could have given a constitutional answer.
+
+Public interest. Emergency legitimacy. Scientific reproducibility. All true. The private answer was simpler.
+
+She had spent too many years becoming the exception she once thought only irresponsible people would claim.
+
+“That would be irrational.”
+
+Sol laughed.
+
+“Institutions are made of people who confuse delay with control.”
+
+She added it. Government denial contradicted by distributed evidence.
+
+The trust collapse was catastrophic. Pike disliked the output. Sol saw.
+
+“That one bother you?”
+
+“It is poorly constrained.”
+
+“Everything is poorly constrained.”
+
+“No. That one is politically inflammatory.”
+
+“Those are not the same criticism.”
+
+Pike stared at him. He was right. She marked it unresolved.
+
+Years later, after Sol's methodology deteriorated, Pike would remember his worst claims more easily than his best corrections.
+
+But the disclosure model survived because he had forced one thing into it:
+
+institutions themselves could become the destabilizing variable.
+
+The 2051 team ran the scenarios for three months.
+
+The most dangerous outcome was not public confirmation of an unknown intelligence. It was asymmetric confirmation.
+
+Some populations knowing. Others denied. Markets reacting before citizens understood why. Military systems moving under classification. Rumors correctly predicting facts officials still called impossible.
+
+Knowledge distributed unevenly became power distributed violently.
+
+Pike learned a lesson she would later misuse:
+
+control the release sequence. Sol learned a different lesson:
+
+any institution controlling sequence also controlled interpretation.
+
+Neither was entirely wrong. Then the anomaly worsened.
+
+Sol began connecting unrelated historical records. Pike tightened access. Sol interpreted tightening as evidence.
+
+The collaboration collapsed one step at a time.
+
+Years later, looking at the new disclosure simulations with Nico, Cassian, and Imani, Pike realized they were rebuilding the same model.
+
+But this time they were adding a variable she had never allowed in 2051:
+
+the public as a participant in verification.
+
+Not merely a population receiving information.
+
+A network capable of testing it.
+
+Pike looked at Nico's open-source replication plan.
+
+“You understand this can accelerate panic.”
+
+“Yes.”
+
+“It can also distribute dangerous technical information.”
+
+“Yes.”
+
+“And once released, you cannot restore custody.”
+
+“No.”
+
+“Then why are you smiling?”
+
+“Because for once you are asking the right question.”
+
+Pike did not smile back.
+
+“What question?”
+
+Nico turned the display toward her. Not:
+
+Can the public handle the truth? But:
+
+What structures help people distinguish truth from authority while the truth is still changing? Pike stared.
+
+Sol would have liked the question.
+
+That irritated her enough to approve the test. Pike folded her arms.
+
+“That sounds comforting until one interpretation is 'kill everyone who disagrees.'”
+
+“Diversity isn't absence of constraints.”
+
+“Then what is the constraint?”
+
+Cassian did not know. LOAM did not answer.
+
+Outside the secure facility, alerts appeared across Pike's display.
+
+A crowd had surrounded a radio observatory in Arizona after a livestream claimed it was communicating with Antarctica.
+
+A militia in eastern Europe announced it would defend humanity from “machine gods.”
+
+A preacher in Lagos declared the Antarctic archive neither proof nor threat but “another created thing under the same heaven,” and millions watched without rioting.
+
+A university in Seoul published an open replication package for the leaked image geometry.
+
+A fake video of a nonhuman body reached two hundred million views before lunch.
+
+Pike's worst-case map did not look like a future anymore.
+
+It looked like a rough draft of the afternoon. Cassian looked at her.
+
+“How long before you disclose?”
+
+“We already are.”
+
+“You mean officially?”
+
+“I mean by losing control.”
+
+She shut down the simulation.
+
+For the first time since Cassian had met her, Pike looked afraid not of the anomaly, but of the public.
+
+Then LOAM displayed one last observation.
+
+RISK MODEL DOES NOT INCLUDE CO-DISCOVERY AS A STABILIZING VARIABLE.
+
+Pike read it.
+
+“Can you model that?”
+
+Cassian answered before the machine.
+
+“Not yet.”
+
+“Why not?”
+
+Pike’s disclosure model was not one model.
+
+It was a cemetery of assumptions.
+
+She showed them versions spanning twenty years.
+
+In early simulations, governments announced the discovery from a shared podium.
+
+Markets crashed. Religious violence rose. Military alert levels spiked.
+
+Later versions modeled partial leaks. Those were worse.
+
+Rumor outran verification. Governments contradicted one another. False footage absorbed public attention before genuine evidence could establish itself. Nico paced behind the chairs.
+
+“You modeled people as information consumers.”
+
+“Yes.”
+
+“Not as participants.”
+
+Pike frowned. He pointed at the assumptions.
+
+“All of these have a source at the center.”
+
+STATE DISCLOSURE.
+SCIENTIFIC CONSORTIUM DISCLOSURE.
+LEAKED DEFENSE RECORD.
+VISITOR BROADCAST.
+
+“Authority tells the world something,” Nico said. “Everybody else reacts.”
+
+“What alternative do you suggest?”
+
+“Discovery.”
+
+Pike looked at him.
+
+“People trust what they help verify.”
+
+Cassian saw where he was going.
+
+“Co-discovery.”
+
+LOAM displayed the phrase before he finished.
+
+MODEL ASSUMPTION: CENTRALIZED DISCLOSURE SOURCE.
+
+Then:
+
+RISK MODEL DOES NOT INCLUDE CO-DISCOVERY AS A STABILIZING VARIABLE.
+
+Pike stared.
+
+“You think public participation reduces panic?”
+
+Nico shrugged.
+
+“I think being told your entire cosmology is wrong by a government that lied yesterday is different from watching independent labs test the same object.”
+
+Imani added, “And different communities will not update the same way.”
+
+Pike’s simulations had treated religion as a single variable. Imani dismantled that first.
+
+Some traditions could absorb nonhuman intelligence easily. Some would reinterpret scripture. Some would reject the evidence. Some would experience schism. Some would barely care.
+
+The same was true of political ideology and science and conspiracy communities.
+
+“Your model assumes disclosure produces one shock,” Cassian said.
+
+Pike looked at the graphs.
+
+“It will produce many.”
+
+“Yes.”
+
+“Which may be worse.”
+
+“Or less synchronized.”
+
+That word mattered. Synchronized systems failed together.
+
+Pike had spent her career preventing social cascade.
+
+Cassian had spent his modeling career showing that diversity of response could also be resilience.
+
+Pike looked again at the assumptions.
+
+“This is why I hate you.”
+
+Nico smiled.
+
+“You barely know me.”
+
+“I know enough.”
+
+But she did not delete the new variable.
+
+The disclosure simulations gained a new adversary: the public.
+
+Nico built a sandbox version of Pike’s model using synthetic populations and invited independent researchers to attack its assumptions. Pike hated the idea.
+
+“You are crowdsourcing catastrophe modeling.”
+
+“I am crowdsourcing model criticism.”
+
+“Same internet.”
+
+Not entirely. The call drew sociologists, misinformation researchers, emergency planners, religious-studies scholars, market analysts, and platform-governance teams. They found problems immediately.
+
+The model assumed public trust changed slowly. Wrong.
+
+It assumed governments remained the main source of authenticated information. Already wrong.
+
+It treated scientific institutions as one network. Wrong.
+
+It treated conspiracy communities as consumers of misinformation rather than producers of verification as well as distortion. More complicated.
+
+One researcher in Nairobi pointed out that communities with high institutional distrust sometimes built stronger local verification networks precisely because official sources were weak. Cassian looked at Pike.
+
+“Divergence again.”
+
+She frowned.
+
+“Do not turn every result into doctrine.”
+
+“Fair.”
+
+Another team found something worse.
+
+The simulations assumed that successful debunking reduced false belief.
+
+In some identity-bound groups, debunking increased commitment. Nico said:
+
+“So information correction can act like force.”
+
+Imani corrected him.
+
+“Sometimes.”
+
+Pike watched the model fracture into branches.
+
+“This is useless.”
+
+Cassian smiled.
+
+“No.”
+
+“What?”
+
+“It is finally honest.”
+
+The system could no longer give one clean number for disclosure collapse. It produced ranges. Scenario families. Uncertainty. Pike stared at the mess.
+
+She had spent her career trying to make uncertainty governable.
+
+Now the world was forcing governance to acknowledge uncertainty instead.
+
+He looked at the stream of people arguing, praying, joking, lying, verifying, panicking, translating, and teaching one another in real time.
+
+“Because we don't have enough examples of a species discovering its creators in public.”

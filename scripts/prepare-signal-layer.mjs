@@ -1,0 +1,30 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import path from 'node:path';
+
+const source=process.argv[2]||'C:/Users/jayla/Downloads/Stage58_360_Signal_Layer_Map.json';
+const root=path.resolve('audiobook');
+const signals=JSON.parse(await readFile(source,'utf8'));
+const production=JSON.parse(await readFile(path.join(root,'production-manifest.json'),'utf8'));
+if(signals.length!==360)throw new Error(`Expected 360 signals; found ${signals.length}`);
+const chapterText=new Map();
+for(const chapter of production.chapters)chapterText.set(chapter.number,await readFile(path.join(root,chapter.file),'utf8'));
+const prepared=signals.map((signal,index)=>{
+  const ordinal=Number(signal.ordinal),chapter=Number(signal.chapter);
+  if(ordinal!==index+1||signal.signal_id!==`S${String(index+1).padStart(3,'0')}`)throw new Error(`Signal sequence failure at ${index+1}`);
+  const text=chapterText.get(chapter);
+  if(!text)throw new Error(`Signal ${signal.signal_id} references missing chapter ${chapter}`);
+  const paragraphNumber=Number(signal.paragraph_in_chapter);
+  const paragraphs=text.trim().split(/\n\s*\n/);
+  const headerBlocks=chapter%10===1?2:1;
+  const paragraph=paragraphs[headerBlocks+paragraphNumber-1]||'';
+  const matches=text.split(signal.anchor_excerpt).length-1;
+  const compact=value=>value.replace(/\s+/g,' ').trim();
+  if(!compact(paragraph).includes(compact(signal.anchor_excerpt)))throw new Error(`Signal ${signal.signal_id} does not resolve in paragraph ${paragraphNumber}`);
+  return {...signal,ordinal,chapter,paragraph_in_chapter:paragraphNumber,anchor_match_count:matches,paragraph_anchor_verified:true,audio_policy:signal.gate?'gate_requires_author_treatment':signal.seren_payload?'optional_seren_payload':signal.loam_payload?'optional_loam_payload':'subtle_signal_marker',retail_inclusion:'pending_author_approval'};
+});
+const gates=prepared.filter(s=>s.gate);
+const output={schema_version:1,edition:'optional_signal_layer',status:'prepared_not_approved',retail_audiobook_injection:false,counts:{signals:prepared.length,ordinary:prepared.filter(s=>!s.gate).length,seren_payloads:prepared.filter(s=>s.seren_payload).length,loam_payloads:prepared.filter(s=>s.loam_payload).length,gates:gates.length},gate_sequence:gates.map(s=>({signal_id:s.signal_id,chapter:s.chapter,gate:s.gate,instruction:s.gate_instruction})),signals:prepared};
+if(output.counts.seren_payloads!==120||output.counts.loam_payloads!==60||output.counts.gates!==6)throw new Error('Signal payload count failure');
+await mkdir(root,{recursive:true});
+await writeFile(path.join(root,'signal-layer-manifest.json'),JSON.stringify(output,null,2)+'\n','utf8');
+console.log(JSON.stringify(output.counts,null,2));

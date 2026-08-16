@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "browser-sync start --config bs-config.cjs",
     "dev:netlify": "netlify dev",
-    "deploy": "netlify deploy --prod"
+    "deploy": "netlify deploy --prod",
+    "audio:prepare": "node scripts/prepare-audiobook.mjs",
+    "audio:signals": "node scripts/prepare-signal-layer.mjs",
+    "audio:plan": "node scripts/generate-elevenlabs.mjs --dry-run"
   },
   "devDependencies": {
     "browser-sync": "^3.0.4"

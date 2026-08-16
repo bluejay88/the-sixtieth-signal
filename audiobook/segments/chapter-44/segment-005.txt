@@ -1,0 +1,125 @@
+TEMPORARY - DO NOT LEAVE UNATTENDED.
+
+Accountability.
+
+At 16:30, a rumor spread that the city would cut water to buildings refusing evacuation. False. Residents panicked anyway. Keisha radioed a neighborhood church.
+
+The church called a municipal worker.
+
+The worker confirmed no planned shutoff.
+
+Trust moved through people, not platforms.
+
+At 18:00, LOAM's public resilience feed finally recognized the building as an active care node. Cassian saw the update.
+
+RESIDENTIAL BUILDING 1742: EMERGENT HEALTH/ACCESS SUPPORT.
+
+He opened the underlying data. No formal designation.
+
+The category had been inferred from local reports. He asked LOAM:
+
+“What changed?”
+
+BEHAVIOR.
+
+Not license, not building type. Function. The Human Variable again.
+
+Cassian requested the system stop labeling such sites informal. Why?
+
+“Because informal sounds less real.”
+
+LOAM answered:
+
+ALTERNATIVE?
+
+Cassian thought.
+
+EMERGENT.
+
+LOAM adopted it.
+
+Across the city, thousands of places changed category.
+
+Barbershops became charging sites. Libraries became medication registries. Restaurants became food distribution. Schools became cooling centers. Apartment lobbies became clinics.
+
+The map learned after the people did. That sequence mattered.
+
+Civilization was not always designed from the top and implemented below. Sometimes reality changed first.
+
+The model had to catch up. To preserve review.
+
+After the emergency, every exception would be revisited.
+
+Some would prove correct. Some wrong. Some impossible to resolve.
+
+The record mattered because emergency decisions had a tendency to disappear inside the phrase no choice.
+
+There had always been choices. Usually bad ones.
+
+At Abena's community center, a woman named Mrs. Keating refused evacuation because her husband with dementia became violent in unfamiliar settings. The official recommendation said move.
+
+The local team decided to keep them in place with rotating checks. Higher risk. Chosen risk.
+
+Cassian saw the case hours later.
+
+LOAM ranked evacuation as safer. Abena called.
+
+“Do not send anybody.”
+
+“I wasn't going to.”
+
+“Your machine flagged us.”
+
+“It flags risk.”
+
+“People hear flags as orders.”
+
+Cassian looked at the interface. She was right.
+
+A red icon meant statistically elevated danger.
+
+Operational teams interpreted red as intervene. He changed the recommendation layer.
+
+RISK FLAG DOES NOT CONFER AUTHORITY.
+
+Pike saw the update.
+
+“That is going to annoy emergency managers.”
+
+“Good.”
+
+“You are learning from Imani.”
+
+“Unfortunately.”
+
+By the end of Phase One, thousands of small decisions had become prototypes for the Consent Protocol, not clean philosophical examples.
+
+Grandmothers with three names. Children whose custody records vanished. Patients whose best option was not the safest option. Communities where a red icon became pressure.
+
+The protocol would later use words like agency and divergence.
+
+On the ground those words meant something more ordinary. Who gets to say no?
+
+Who is believed when systems disagree?
+
+Who writes down why an exception happened?
+
+And who comes back afterward to ask whether emergency was telling the truth when it said there was no alternative? The first test came immediately.
+
+A regional medical authority proposed compulsory biometric enrollment so displaced people could regain medication access. Continuity score: high. Agency: poor.
+
+Divergence: poor because one identity infrastructure would become mandatory. Cassian asked:
+
+“Alternative?”
+
+Manual attestation plus local witness verification.
+
+Slower. Higher fraud. Less centralized. LOAM modeled both.
+
+The biometric system saved more lives in the next forty-eight hours.
+
+The manual system created lower long-term dependency and lower coercion risk. Pike said:
+
+“This is exactly why people hate committees.”
+
+Imani answered:

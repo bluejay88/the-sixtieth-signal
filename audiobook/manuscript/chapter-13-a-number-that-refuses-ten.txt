@@ -1,0 +1,624 @@
+CHAPTER THIRTEEN
+A NUMBER THAT REFUSES TEN
+
+Cassian trusted numbers most when they refused to be impressive.
+
+The Antarctic sequence looked terrible in base ten. That pleased him.
+
+It produced awkward fractions, irregular carries, ugly residuals.
+
+In base twelve it improved. In base twenty it improved differently. In base sixty it became boring. Boring was dangerous.
+
+Boring meant the representation might fit the thing rather than force it.
+
+Imani stood beside him while LOAM displayed the same sequence under four number systems.
+
+Nico had named the visualization THE FOUR GOSPELS.
+
+Imani had threatened to throw him out.
+
+“Why sixty?” Cassian asked.
+
+“Because sixty is divisible.”
+
+“That’s the human explanation.”
+
+“Yes.”
+
+“What’s the system explanation?”
+
+Imani looked at him.
+
+“You’re asking whether a nonhuman engineer would independently choose it.”
+
+“Yes.”
+
+“Maybe. If the problem rewards many clean subdivisions.”
+
+“Angles.”
+
+“Time.”
+
+“Synchronization.”
+
+“Allocation.”
+
+“Fractions.”
+
+Cassian thought of food. A warehouse divided among two regions. Three. Four. Five. Six.
+
+A base that made common sharing easy.
+
+LOAM had originally used binary underneath everything, of course. Machines did not need decimal sentiment. But human-facing optimization frequently represented quantities in whichever units minimized operational error.
+
+“Could sixty be a governance number?” Cassian asked.
+
+Imani laughed once.
+
+“That is a very strange sentence.”
+
+“Think about it. If you need systems divided among many coalition sizes—”
+
+“Two, three, four, five, six.”
+
+“Exactly.”
+
+“You’re turning arithmetic into politics.”
+
+“Humans did first.”
+
+She considered.
+
+“Maybe.”
+
+Nico entered carrying three coffees and a printed image.
+
+“Speaking of humans ruining numbers.”
+
+Imani took the coffee but not the bait.
+
+“What is that?”
+
+“King List.”
+
+She closed her eyes.
+
+“No.”
+
+“You haven’t—”
+
+“No.”
+
+Cassian smiled. Nico placed the image down anyway.
+
+The Weld-Blundell Prism, four-sided, densely inscribed.
+
+“I know what it is,” Imani said.
+
+“I know you know.”
+
+“Then why are you showing me?”
+
+“Because LOAM flagged the reign lengths.”
+
+Imani turned to Cassian.
+
+“You let it search the King List?”
+
+“Not for alien matches.”
+
+“Then for what?”
+
+“Normalization tests.”
+
+She set down the coffee.
+
+“Explain carefully.”
+
+Cassian did. They had asked LOAM to search selected ancient corpora for mathematical structures that remained detectable after language was removed.
+
+Not similarity in gods, not floods, not sky beings, not creation stories. Numerical residue.
+
+The Sumerian King List was an obvious stress test because its earliest reign lengths were famously enormous and often treated as mythic.
+
+LOAM normalized the reign values in several ways. Most produced nothing useful.
+
+One produced repeated residue classes under sexagesimal decomposition. Imani’s expression hardened.
+
+“Which version?”
+
+Cassian named it.
+
+“Variant differences?”
+
+“Not yet fully integrated.”
+
+“Then it means nothing.”
+
+“I know.”
+
+“Copying errors?”
+
+“In progress.”
+
+“Modern editorial reconstruction?”
+
+“In progress.”
+
+“Selection bias?”
+
+“Controlled by applying the same method to other royal lists.”
+
+She relaxed slightly. Nico said, “Do you interrogate everyone like this?”
+
+“Yes.”
+
+“I’m starting to understand academia.”
+
+Imani pulled the King List data closer.
+
+“Before anyone gets excited: this is not a technical document.”
+
+Cassian nodded.
+
+“It is ideological. It organizes kingship. It puts cities and rulers into a sequence, includes impossible reign lengths, and crosses a Flood boundary. Different copies differ. It is not a pristine timestamp from prehistory.”
+
+Nico said, “But the impossible ages—”
+
+“Are not proof of aliens.”
+
+“I know.”
+
+“Say it.”
+
+“The impossible ages are not proof of aliens.”
+
+“Good.”
+
+Cassian watched the numbers.
+
+“What if they are not ages?”
+
+Imani did not answer immediately.
+
+“That question has been asked many times.”
+
+“I don’t mean secretly encoded spacecraft cycles.”
+
+“Thank you.”
+
+“What if a later scribe copied values whose original unit had changed?”
+
+“That is plausible in principle.”
+
+“Or a mathematical relationship survived after semantic meaning failed.”
+
+“That is also plausible in principle.”
+
+Nico looked between them.
+
+“You two are dangerously close to agreeing.”
+
+Imani ignored him.
+
+“Show me the residue.”
+
+LOAM decomposed the pre-Flood reign values.
+
+The exact numbers varied by ruler and copy tradition, but repeated divisibility patterns emerged.
+
+Too many zeros. Too many large round values. Sexagesimal friendliness. Historically unsurprising.
+
+Ancient Mesopotamian numbers often reflected sexagesimal conventions. Imani said so. Cassian nodded.
+
+Then LOAM applied a transformation derived entirely from the Antarctic checksum—not invented from the King List.
+
+The residue pattern tightened. Imani stopped.
+
+“What transformation?”
+
+Cassian showed her. No words. No mythology. No hand-picked ruler names.
+
+A six-stage remainder operation based on the Antarctic damage-recovery model.
+
+The King List produced the same broad residue family as the Antarctic marks.
+
+Not exact, not miraculous. Similar enough to test.
+
+Imani walked away from the table.
+
+Nico whispered, “Is that good?” Cassian said, “It’s interesting.”
+
+“That is scientist for yes.”
+
+“No. It is scientist for keep going.”
+
+Imani returned with a notebook.
+
+“We need controls.”
+
+“Already running.”
+
+“Later Mesopotamian king lists.”
+
+“Yes.”
+
+“Egyptian regnal records.”
+
+“Yes.”
+
+“Chinese dynastic sequences.”
+
+“Yes.”
+
+“Randomized values preserving distribution.”
+
+“Yes.”
+
+“Modern sports statistics.”
+
+Nico laughed. Cassian said, “Why?”
+
+“Because if your transformation can find cosmic truth in basketball seasons, I want to know now.”
+
+Cassian added the control. LOAM processed.
+
+The Antarctic transform produced weak matches in many datasets. Expected.
+
+It produced stronger matches in sexagesimal-heavy Mesopotamian material. Also expected.
+
+The King List sat above most controls, not alone, not decisive. Imani stared.
+
+“Could be number culture.”
+
+Cassian nodded.
+
+“Humans using the same mathematical habits in multiple contexts.”
+
+“Yes.”
+
+“Which would still be interesting.”
+
+“Yes.”
+
+Nico said, “Because?” Imani answered.
+
+“Because if the Antarctic structure is genuinely independent, and if it shares the same arithmetic habits, we need to explain direction.”
+
+Nico’s eyes lit.
+
+“Visitors taught humans.”
+
+“No.”
+
+He groaned.
+
+“Alternative one: coincidence.”
+She raised a finger.
+“Alternative two: similar problems produce similar mathematics.”
+Second finger.
+“Alternative three: humans influenced whatever is under the ice.”
+Third.
+“Alternative four: some older common source influenced both.”
+Fourth.
+“Alternative five: our analysis pipeline is manufacturing convergence.”
+
+Cassian said, “That’s why we need an independent discriminator.” LOAM posted:
+
+CHECKSUM CANDIDATE AVAILABLE.
+
+Vaziri invited Imani to present the Antarctic numerical work to a closed seminar under one condition.
+
+“No images.”
+
+Nico objected.
+
+“Why?”
+
+“Because images seduce.”
+
+Imani smiled. The seminar included mathematicians, Assyriologists, statisticians, and one historian who seemed personally offended by every number. They saw only transformed sequences.
+
+No Antarctica. No archive. No gods.
+
+The critics attacked assumptions one by one.
+
+Base choice. Normalization. Selection effects. Copying bias. Missing values. Retrospective fitting. Imani wrote every objection.
+
+At the end, one statistician said:
+
+“If you told me this came from an ancient manuscript, I would call it interesting but underdetermined.”
+
+Another said:
+
+“If you told me it came from an engineered communication system, I would ask what independent prediction it makes.”
+
+Vaziri looked at Imani.
+
+“Good.”
+
+Nico whispered:
+
+“They just repeated your entire methodology.”
+
+“Exactly.”
+
+The important thing was not that experts agreed.
+
+They disagreed in the correct direction.
+
+They asked what evidence would distinguish explanations.
+
+After the seminar, Imani and Vaziri walked outside.
+
+“You are in trouble,” Vaziri said.
+
+“Why?”
+
+“Because this may be real.”
+
+Imani laughed.
+
+“That is not usually what people mean by trouble.”
+
+“It is if your identity depends on being the person who says no.”
+
+Imani stopped. Vaziri looked at her.
+
+“You built armor against credulity.”
+
+“That is called standards.”
+
+“Sometimes.”
+
+Imani did not answer. Vaziri continued.
+
+“If the evidence crosses your threshold, you have to cross with it.”
+
+That was harder than skepticism.
+
+Skepticism protected Imani from embarrassment. Revision required vulnerability. They turned. Cassian opened it.
+
+The Antarctic sequence contained redundant positions that could predict missing values if the correct grouping was used.
+
+If the sexagesimal parse was right, three damaged sections should reconstruct to specific numbers.
+
+If wrong, they would not. Imani leaned over the console.
+
+“Can we verify?”
+
+“Not from the same scan.”
+
+Pike’s voice came from the door.
+
+“Yes, you can.”
+
+No one had heard her enter. She carried a sealed drive.
+
+“SVW has an older image of the same region.”
+
+Cassian looked at her.
+
+“You held it back.”
+
+“Yes.”
+
+Imani smiled without warmth.
+
+“Excellent. A blind test.”
+
+Pike placed the drive on the table.
+
+“The older image is lower resolution but predates the damage visible in your current scan.”
+
+Cassian felt his heartbeat increase. They had a prediction. And an independent earlier state. No mythology could help now. No resemblance. No interpretation.
+
+Either the missing values matched or they did not. Imani looked at Cassian.
+
+“Freeze the prediction.”
+
+He did. Cryptographic hash. Timestamp. No edits. Pike connected the old image.
+
+LOAM was not allowed to see it yet.
+
+A human technician extracted the relevant values according to a preregistered process. First section. Predicted: 12. Observed: 12. Nico stopped breathing. Second. Predicted: 30. Observed: 30. Imani said nothing. Third. Predicted: 6. The technician zoomed. Noise. Ambiguous.
+
+Cassian felt relief and disappointment at once.
+
+Then a second imaging channel resolved the mark. Observed: 6. Nobody spoke.
+
+LOAM received the values only after verification.
+
+CHECKSUM PARSE SUPPORTED.
+
+Imani sat down. Nico whispered, “So.” She looked at him. He thought better of it.
+
+Cassian stared at the three recovered numbers.
+
+For the first time, sixty was not a coincidence they had found after the fact.
+
+Imani made them convert the numbers by hand. Nico objected on principle.
+
+“We have a machine.”
+
+“We have several,” Imani said. “That is the problem.”
+
+She wrote a sexagesimal value on the transparent wall. 1,24,51,10. Nico stared.
+
+“That looks like four separate numbers.”
+
+“In modern notation, yes. In a place-value sexagesimal system, position matters.”
+
+She walked them through powers of sixty, not because Cassian needed the arithmetic, but because she wanted the room to feel how naturally a base system changes what looks simple.
+
+Cassian saw the design advantage immediately.
+
+Sixty tolerated thirds. Quarters. Fifths. Sixths. Tenths. Twelfths.
+
+A civilization dividing cycles, angles, rations, time intervals, or astronomical observations could do a great deal without recurring fractions.
+
+“So it isn’t mystical,” Nico said.
+
+“Correct.”
+
+“It’s convenient.”
+
+“Extremely.”
+
+“That makes it more likely to be reused.”
+
+“Yes.”
+
+Nico smiled. Imani sighed.
+
+“You are learning in the most dangerous possible direction.”
+
+She then showed them Plimpton 322. Not as a magical artifact.
+
+A damaged Old Babylonian mathematical tablet whose surviving table contained large sexagesimal place-value numbers and relationships associated with right triangles. She emphasized every uncertainty.
+
+Its archaeological context was unknown. Its left portion was missing. Scholars had debated what the table was for. Teaching? Problem generation? A broader mathematical exercise? Something else?
+
+“The uncertainty is useful,” Cassian said.
+
+Imani nodded.
+
+“Exactly. Real scholarship does not become weaker when it says we do not know. It becomes bounded.”
+
+LOAM displayed the Antarctic ratio set beside a mathematical abstraction derived from the tablet. Imani stopped it.
+
+“No visual juxtaposition.”
+
+Cassian raised an eyebrow.
+
+“Why?”
+
+“Because human brains will treat side-by-side images as an argument.”
+
+She had him convert both into anonymous matrices instead.
+
+Then she asked LOAM a narrower question:
+
+Do the Antarctic ratios preserve ordering properties under damage in a way comparable to positional mathematical tables? The system processed.
+
+YES, WITH MODERATE CONFIDENCE.
+
+“Moderate,” Imani said. “Good.”
+
+Cassian asked, “What would increase it?”
+
+INDEPENDENT PREDICTION OF MISSING STRUCTURE.
+
+The room went still. Imani looked at the damaged Antarctic sequence.
+
+Then at the fact that part of Plimpton 322 itself was missing.
+
+“No,” she said quietly.
+
+Nico looked delighted and terrified. Cassian understood her concern. A missing section was temptation.
+
+If they reconstructed it and later found whatever they predicted, that would cross from resemblance into something stronger.
+
+Imani said, “We preregister everything.” Cassian nodded.
+
+“Before looking at any additional archive return.”
+
+“Every expected value. Every alternate model. Every failure condition.”
+
+Nico asked, “And if it predicts the next section?”
+
+Imani turned toward the Antarctic feed.
+
+“Then I stop saying no automatically.”
+
+Dr. Laleh Vaziri joined the mathematical review because she expected to kill the hypothesis. She said so immediately.
+
+“I am here as pest control.”
+
+Nico loved her. Imani did not.
+
+Vaziri was a historian of mathematics with a reputation for publicly dismantling sensational claims about ancient numerical texts.
+
+She looked at the Plimpton comparison.
+
+“First problem: modern readers romanticize elegant mathematics.”
+
+Cassian said, “Meaning?”
+
+“We see a numerical table and assume theorem, astronomy, navigation, secret science. Sometimes a table is a table.”
+
+Imani nodded.
+
+“Agreed.”
+
+“Second: sexagesimal convenience is not a fingerprint.”
+
+“Agreed.”
+
+“Third: if LOAM searches enough mathematical transforms, it will find something impressive.”
+
+Cassian opened the preregistration log. Vaziri read it. Her expression changed slightly.
+
+“You limited the transform family before the comparison.”
+
+“Yes.”
+
+“How many candidate operations?”
+
+“Six.”
+
+“Why six?”
+
+Nico began to smile. Cassian said, “Operational categories justified by the damaged archive, not because six is narratively attractive.” Vaziri looked at Nico.
+
+“Good.”
+
+He stopped smiling. She spent three hours trying to break the ratio model.
+
+Changed normalization. Changed column assumptions. Removed one data region at a time. Injected plausible scribal errors. Tested synthetic tables.
+
+The Antarctic pattern weakened under some perturbations. That was reassuring.
+
+Under others it survived. Also reassuring.
+
+A perfect pattern would have been suspicious. Vaziri finally said:
+
+“This is not evidence of Mesopotamian contact.”
+
+Imani said, “Correct.”
+
+“It is not evidence the tablet encodes your archive.”
+
+“Correct.”
+
+“It is not evidence of aliens.”
+
+Nico sighed.
+
+“Correct.”
+
+Vaziri looked at the blinded prediction setup.
+
+“But the relational method is legitimate enough to test prospectively.”
+
+That was the victory, not belief. Permission to continue. Before disconnecting, Vaziri told Imani:
+
+“If this is real, the worst thing you can do is make ancient mathematics look impressive only because aliens touched it.”
+
+Imani answered:
+
+“I know.”
+
+“No. Make sure the book knows.”
+
+Cassian looked at her.
+
+“What book?”
+
+Nico raised a hand.
+
+“No comment.”
+
+It had made a prediction.
+
+And the prediction had been right.

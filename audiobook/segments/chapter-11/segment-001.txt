@@ -1,0 +1,91 @@
+PART II
+THE LANGUAGE THAT COUNTS
+
+CHAPTER ELEVEN
+IMANI SAYS NO
+
+Dr. Imani Sayegh said no before anyone finished asking the question.
+
+“No.”
+
+Nico looked up from his recorder. “I haven’t said anything yet.”
+
+“You were going to say ancient.”
+
+“Yes.”
+
+“Then alien.”
+
+He smiled. “Eventually.”
+
+“No.”
+
+The temporary analysis room had been assembled inside a logistics module at McMurdo three days after the event. The Antarctic geometry was still buried, still unreachable without a drilling program nobody had authorized, and still producing a low-frequency return that refused to settle comfortably inside any model.
+
+Pike had flown Imani from Oxford under an emergency consulting order broad enough to irritate her before she landed. Cassian had expected someone older.
+
+Not because expertise required age. Because the file Pike sent him contained twenty-two years of field work, dead languages, damaged tablets, disputed readings, museum disputes, and an academic fight over a cylinder seal that had apparently ended three careers and one marriage.
+
+Imani was forty-six, narrow-faced, dark-haired, and dressed for Antarctica as though she had been personally betrayed by every layer of thermal clothing. She had spent the first ten minutes in the room asking who had handled the image files, who had normalized the geometry, who had translated the marks into lines, and whether the original sensor logs still existed.
+
+Then Nico had begun, “So, hypothetically, if an ancient—”
+
+“No.”
+
+Now she stood before the largest wall display and looked at the recovered geometry without reverence. Cassian liked her immediately.
+
+Pike said, “Scope is narrower than the briefing made it sound. We need provenance, structure, and failure modes, not extraterrestrial writing.”.
+
+“Good,” Imani said. “Because it isn’t writing.”
+
+Nico made a small wounded sound. Imani pointed at the image.
+
+“You keep calling these markings.” Imani opened a fresh metadata field and typed UNCLASSIFIED FEATURE instead. “They may be scratches, structural seams, sensor artifacts, mineral boundaries, manufacturing residue if the thing is manufactured, or features your reconstruction algorithm invented while resolving missing returns.” She glanced at Nico. “Labels travel farther than evidence. Once a bad noun gets into the metadata, people start using it as a prior.”
+
+Cassian said, “LOAM does not fill geometry below point-eight confidence.”
+
+Imani looked at him. “A threshold is not modesty, Cassian. It is a rule you wrote about when the machine is allowed to stop admitting uncertainty in public.”
+
+Cassian nodded. “That is fair, but it is still a threshold, not a personality trait.”
+
+That made her glance at him.
+
+Most people argued when challenged on their systems. Cassian had spent too many years auditing models to confuse defense with loyalty. Imani stepped closer.
+
+“Show me raw.”
+
+He did. The elegant black-and-white reconstruction vanished. Noise replaced it.
+
+Incomplete planes. Scatter. Return peaks. Missing wedges. Apparent lines that only became obvious after several rotations. Imani smiled.
+
+“That’s better.”
+
+Nico asked, “You prefer the ugly one?”
+
+“I prefer evidence before interpretation.”
+
+“That is unfortunately our house religion.”
+
+“Good. Then stop saying alien.”
+
+“I said ancient.”
+
+“You were going there.”
+
+Pike interrupted. “Doctor, look at the repetition.”
+
+Cassian overlaid the five response sequences. 3. 6. 12. 30. 60.
+
+Imani looked for less than a second.
+
+“No.”
+
+Nico threw up his hands.
+
+Cassian said, “You haven’t heard the context.”
+
+“I don’t need context to know what you want me to notice.”
+
+“What?”
+
+“Sexagesimal arithmetic. Mesopotamia. Sixty minutes. Three-sixty degrees. Twelve subdivisions. A nice little ladder into Sumerian conspiracy content.”

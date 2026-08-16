@@ -1,0 +1,526 @@
+CHAPTER FIVE
+NICO'S LEAK
+
+The leak was not a document.
+
+It was a wound where documents should have been.
+
+Nico spread the archive across six monitors while Cassian watched from the far side of the studio. Procurement records. Aviation manifests. Contractor invoices. Calibration certificates. Insurance riders. Field-medical claims. Satellite tasking summaries. Nothing classified. A strip of old blue tape was stuck beneath Nico's mixing board in Selene's handwriting: KEEP THE ORIGINAL CLEAN. It was a newsroom rule born after coffee, an overwritten transcript, and an argument neither of them remembered correctly. Nico still duplicated every file before touching it, though he had never decided whether a copy preserved an original or simply created a second thing people could later disagree about.
+
+Nothing that said WE FOUND SOMETHING UNDER THE ICE.
+
+But one organization had spent thirty-one years repeatedly paying to look at the same six places.
+
+“That does not mean they know what’s there,” Cassian said.
+
+Nico swiveled.
+
+“You always defend governments when I’m hoping you’ll accuse them.”
+
+“I’m defending inference.”
+
+“Less fun.”
+
+“More useful.”
+
+Nico pointed to a timeline.
+
+“Fine. Southern Variance Watch begins as a multinational climate anomaly program. Then around 2044, reporting moves from science ministries into security coordination. Funding triples. Public publications stop.”
+
+“Could be dual-use concern.”
+
+“Agreed.”
+
+“Subglacial heat can affect sea-level models. Strategic infrastructure planning. Navigation. Resource claims.”
+
+“Agreed.”
+
+Cassian narrowed his eyes.
+
+“You are being suspiciously reasonable.”
+
+“I’m saving all my unreasonable energy for this.”
+
+He pulled up a map. Six coordinates.
+
+Beside each, a stack of timestamps.
+
+“Sensor outages,” Nico said.
+
+Cassian leaned closer.
+
+“Where did you get these?”
+
+“Public archives plus provider status logs. No secret source.”
+
+The outage intervals clustered around the same local windows, not exactly. Close enough to bother him.
+
+“LOAM.”
+
+The system was connected through a sandboxed terminal on Nico’s local machine.
+
+READY.
+
+“Test whether outage timing is consistent with shared environmental interference.”
+
+PROCESSING.
+
+Nico watched the screen.
+
+“Would that include solar storms?”
+
+“Yes.”
+
+“Satellite geometry?”
+
+“Yes.”
+
+“Ionospheric interference?”
+
+“Yes.”
+
+“Weather?”
+
+“Yes.”
+
+“Secret alien mothership?”
+
+“No.”
+
+“Bias.”
+
+Cassian ignored him. LOAM returned:
+
+KNOWN SHARED ENVIRONMENTAL EXPLANATIONS INSUFFICIENT.
+
+“Insufficient isn’t impossible,” Cassian said immediately.
+
+Nico nodded. The next line appeared.
+
+OUTAGE ONSETS CLUSTER NEAR 60-MINUTE PHASE BOUNDARY.
+
+Cassian’s jaw tightened.
+
+“Reporting timestamp quantization.”
+
+TESTED.
+
+“Provider batch logging.”
+
+TESTED.
+
+“Shift changes.”
+
+TESTED.
+
+“Software cron schedules.”
+
+TESTED WHERE METADATA AVAILABLE.
+
+Nico whispered, “You hear how this sounds.”
+
+“Yes.”
+
+“Like the world’s nerdiest haunting.”
+
+Cassian enlarged the plot.
+
+There was structure, but not perfection. Real data. Drift. Noise. Missingness.
+
+He trusted imperfection more than clean lines.
+
+“Look at coordinate six.”
+
+Nico did. One sensor had not gone offline.
+
+It had continued reporting. The values were flat, not zero. Flat.
+
+“Stuck sensor,” Cassian said.
+
+“Probably.”
+
+LOAM highlighted the calibration flag.
+
+VALID SELF-TESTS DURING FLATLINE.
+
+Cassian frowned.
+
+A stuck sensor often knew it was broken. This one had passed internal checks while returning the same measurement repeatedly.
+
+Nico opened the raw series. Sixty minutes. Exactly. Then normal variation resumed.
+
+“Could be software,” Cassian said.
+
+Nico did not respond.
+
+“Say it.”
+
+“I’m learning restraint.”
+
+“Poorly.”
+
+Nico brought up another station. Same thing. Different manufacturer. Different year.
+
+A sixty-minute interval of impossible stability. Then another. Three instruments. Three different clock systems.
+
+Cassian felt a pulse in his neck. The old Pike report.
+
+Three synchronized events detected across instruments not sharing a common clock source. Nico saw recognition.
+
+“You’ve seen this before.”
+
+“The report.”
+
+“Right.”
+
+They compared the dates. Different by eleven years. Same phase window. Cassian stood.
+
+He needed movement when his mind got crowded.
+
+“This could be a natural periodic process.”
+
+“Absolutely.”
+
+“Subglacial discharge. Tidal forcing.”
+
+“Sure.”
+
+“Instrument response to electromagnetic conditions.”
+
+“Yes.”
+
+“Something geophysical.”
+
+“Probably.”
+
+Nico watched him pace.
+
+“And yet?”
+
+Cassian stopped.
+
+“And yet natural processes do not care whether instruments are self-testing.”
+
+Nico’s expression sharpened. That was the first sentence Cassian had said that crossed from anomaly into something harder.
+
+The phone on the desk rang. Nico looked at the number.
+
+“No caller ID.”
+
+“Don’t answer.”
+
+Nico answered.
+
+“Nico Ashbourne.”
+
+A woman’s voice, calm and low.
+
+“Mr. Ashbourne, this is Director Maelin Pike.”
+
+Nico’s face went blank in the way only practiced broadcasters could manage. Cassian felt cold. Pike continued.
+
+“You are in possession of material from Southern Variance Watch.”
+
+Nico glanced at Cassian.
+
+“I’m in possession of public records.”
+
+“Yes.”
+
+No threat. No accusation. That made it worse.
+
+Pike said, “You will both receive updated expedition conditions within the hour.”
+
+Pike's first year in Southern Variance Watch had been boring enough to make conspiracy impossible.
+
+That was how she remembered it.
+
+Budgets. Instrument maintenance. Satellite leases. Ice-road schedules. Interagency arguments over whose clock standard was authoritative. The anomaly entered slowly.
+
+A station reported a timing discrepancy. Then another, not sixty seconds, not yet. Milliseconds.
+
+The kind of difference nobody writes novels about.
+
+Pike's supervisor called it calibration drift.
+
+Usually he was right. They replaced equipment. The discrepancy returned. They replaced time sources. It returned. They audited firmware. Nothing.
+
+Then Adrian Sol noticed something Pike initially hated because it sounded too elegant.
+
+The discrepancies clustered around periods of subglacial acoustic activity, not after. Around. Sol proposed a blinded test and wrote one sentence across the top of the protocol: A SIGNAL CAN BE REAL BEFORE IT HAS A MEANING. Pike disliked the sentence almost as much as the hypothesis.
+
+Pike approved it because she wanted the idea killed properly. It survived.
+
+That was how Southern Variance Watch became classified. Not because anyone found aliens.
+
+Because an unexplained geophysical system appeared to interact with measurement infrastructure in ways that could not yet be bounded. Military interest followed. Then intelligence. Then political secrecy.
+
+Pike watched the scientific question acquire layers of institutional motive until nobody could say where caution ended and control began.
+
+She had once believed classification preserved uncertainty until experts understood it. Sometimes it did.
+
+Sometimes it preserved the institution that classified it.
+
+The first time a minister asked her:
+
+“Can the public handle this?”
+
+Pike answered:
+
+“We do not know what this is.”
+
+The minister replied:
+
+“That was not my question.”
+
+She remembered that line for thirty years.
+
+Because it revealed the real shift.
+
+The anomaly had stopped being a scientific object.
+
+It had become a governance problem before anyone understood the science.
+
+Pike never forgave that transition. She also never escaped it. Cassian leaned toward the speaker.
+
+“Director Pike.”
+
+“Dr. Osei-Lorne.”
+
+“How do you know I’m here?”
+
+A pause.
+
+“Because you submitted Mr. Ashbourne’s device fingerprint for temporary access to your LOAM sandbox thirty-two minutes ago.”
+
+Cassian looked at Nico. Nico mouthed, Fair.
+
+Pike continued, “Nothing you have found changes the mission.”
+
+“What is the mission?”
+
+“To validate a thermal anomaly relevant to your food-risk model.”
+
+“That’s the public answer.”
+
+“It is also the operational answer.”
+
+“And the six coordinates?”
+
+Silence.
+
+“Director?”
+
+Pike said, “We have observed them.”
+
+“How long?”
+
+“Long enough to know observation is not understanding.”
+
+Cassian looked at the six monitors.
+
+“What causes the sixty-minute flatlines?”
+
+“If I knew, this call would have a different tone.”
+
+Nico asked, “What tone would that be?”
+
+“Less patient.”
+
+Nico smiled despite himself. Cassian said, “Why approve us?”
+
+Pike did not answer immediately. Then:
+
+“Because your system predicted next month’s window without access to our restricted data.”
+
+The room changed. Cassian looked at LOAM’s terminal.
+
+“What window?”
+
+Pike said, “You’ll receive the briefing in person.” The call ended.
+
+Nico stared at the phone. Then at Cassian.
+
+“Next month’s window.”
+
+Cassian nodded.
+
+“Your food model didn’t just find their anomaly.”
+
+Nico’s voice had lost all humor.
+
+Pike called again that night, this time directly to Cassian. No speakerphone. No Nico.
+
+“You should reconsider bringing him,” she said.
+
+“Why?”
+
+“Because Mr. Ashbourne treats custody as suspicion.”
+
+“Sometimes custody deserves suspicion.”
+
+“That answer is why I called you, not him.”
+
+Cassian stood at his apartment window. The city below was running a heat-adaptation drill. Building facades dimmed in coordinated blocks to reduce cooling load. Delivery windows shifted automatically. Public fountains lowered pressure. Every system cooperating. Efficient. Beautiful. Fragile, if the synchronization failed.
+
+“Director, why do you care whether Nico comes?”
+
+Pike did not answer immediately.
+
+“In 2051 we had an incident,” she said. “Nothing fatal. Nothing extraterrestrial. An instrumentation event.”
+
+“The bore attempt.”
+
+Another pause.
+
+“Your journalist has better archives than I would prefer.”
+
+“He found your name.”
+
+“Yes.”
+
+“What happened to the team?”
+
+“Professionally?”
+
+The question chilled him.
+
+“Personally.”
+
+Pike exhaled.
+
+“One became convinced the pattern encoded astronomical coordinates. One believed it was a geophysical feedback system. One believed foreign sabotage. One resigned. One spent five years trying to reproduce a result that may never have existed.”
+
+“And you?”
+
+“I learned that extraordinary evidence does not protect intelligent people from ordinary cognitive failure.”
+
+Cassian looked at the lights below.
+
+“You think Nico will contaminate us with a story.”
+
+“I think stories are compression algorithms for human attention. Once a story explains too much, contrary evidence becomes decoration.”
+
+The phrasing sounded almost like something Imani would later say, though Cassian did not know her yet.
+
+“Then why approve him?”
+
+“Because secrecy is also a story.”
+
+That surprised him. Pike continued.
+
+“Our program spent years protecting uncertain evidence from sensationalism. Eventually the protection became part of the evidence people used to justify sensationalism.”
+
+“So this is your transparency phase?”
+
+“No. This is me choosing a witness I do not control.”
+
+Cassian smiled faintly.
+
+“You hate that.”
+
+“More than you know.”
+
+The call ended. For the first time, Cassian wondered whether Pike's secrecy was not confidence.
+
+The Southern Variance Watch archive contained one name Pike had removed from the public incident summaries. Adrian Sol.
+
+Nico found it in an insurance claim.
+
+That was how hidden history usually surfaced, not through dramatic leaks.
+
+Dental reimbursements. Pension records. Equipment losses. Travel invoices.
+
+Human institutions lied at the top and itemized at the bottom.
+
+“Physicist,” Nico said.
+
+Cassian searched.
+
+“Information theory. Nonlinear systems.”
+
+“Dead.”
+
+“When?”
+
+“2054.”
+
+Cassian read the obituary. No mention of Antarctica. Nico opened a second record.
+
+Sol had taken extended medical leave after the 2051 field season. Cassian closed the search.
+
+“Stop.”
+
+“Why?”
+
+“Because we do not know why.”
+
+“It might matter.”
+
+“It might also be a dead man’s private medical history.”
+
+Nico bristled.
+
+“This is my job.”
+
+“No. Your job is not permission.”
+
+The words landed harder than Cassian intended. Nico stood.
+
+“You think I don’t know that?”
+
+“I think you know it until a pattern gets interesting.”
+
+Nico stared. Old anger returned instantly. The rationing episode.
+
+The source Cassian thought Nico had exposed too aggressively.
+
+The public-interest argument neither had resolved. Nico said:
+
+“You build systems that affect millions and then get offended when people look under the hood.”
+
+“That is not what this is.”
+
+“It is adjacent.”
+
+“Everything is adjacent if you want it badly enough.”
+
+Silence. Selene’s three questions sat in Nico’s notebook. He looked at them.
+
+WHAT DO WE KNOW?
+
+Adrian Sol worked for SVW.
+
+HOW DO WE KNOW IT?
+
+Administrative records.
+
+WHAT WOULD CHANGE OUR MINDS?
+
+Evidence connecting his work to the anomaly.
+
+Nico closed the medical file. Cassian watched him.
+
+“Thank you.”
+
+“Do not make this emotional.”
+
+“It already is.”
+
+Nico hated that Cassian was right.
+
+He created a research note instead:
+
+SOL, ADRIAN - involvement verified; personal circumstances not relevant absent direct evidentiary link.
+
+The note would matter later. Not because restraint guaranteed truth.
+
+Pike kept the earliest anomaly logs because deletion would have made later certainty look cleaner than it was.
+
+No one at Southern Variance Watch called the pattern sacred; most of them called it irritating.
+
+A damaged record can still preserve the shape of the disagreement that produced it.
+
+Because it left room for truth to arrive without having first violated someone to get it. Maybe it was scar tissue.
+
+“It predicted something they were already waiting for.”

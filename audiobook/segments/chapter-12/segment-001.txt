@@ -1,0 +1,122 @@
+CHAPTER TWELVE
+THE LEDGER BEFORE LANGUAGE
+
+Imani did not begin with kings. She began with beer.
+
+Nico called that “historically responsible branding.” Imani called it evidence.
+
+On the analysis wall appeared a Late Uruk clay tablet from more than five thousand years before their Antarctic camp. Small. Brown. Unimpressive at the scale of museum photography.
+
+“This,” she said, “is the kind of object people ignore when they want history to be about gods.”
+
+The tablet recorded beer. Numerical impressions. Commodity. Accounting. No prophecy. No star map. No secret royal genealogy. Cassian leaned forward.
+
+“Why this one?”
+
+“Because you asked where durable information begins.”
+
+“Writing begins earlier and messier than one object.”
+
+“Exactly.”
+
+She moved to another slide: early accounting forms, commodity records, administrative marks, the slow transition from counters and impressions toward systems capable of recording language.
+
+“Writing did not arrive as literature,” she said. “People needed to remember obligations. Grain. Labor. Animals. Rations. Storage.”
+
+Nico said, “So civilization invented spreadsheets before poetry.”
+
+“Civilization invented arguments about who owed whom what.”
+
+“That is even more believable.”
+
+Cassian looked at LOAM’s resource tables on his own screen.
+
+Commodity. Quantity. Location. Time. Risk. He felt a faint discomfort. The visual similarity meant nothing.
+
+Every ledger resembled a ledger because reality gave ledgers similar jobs.
+
+Imani seemed to read his expression.
+
+“Do not romanticize the parallel.”
+
+“I wasn’t.”
+
+“You were.”
+
+“I was noticing it.”
+
+“Notice. Do not conclude.”
+
+Cassian nodded. LOAM posted:
+
+STRUCTURAL SIMILARITY DOES NOT ESTABLISH HISTORICAL RELATION.
+
+Imani pointed at the screen.
+
+“See? Your machine has manners.”
+
+Nico said, “It has been bullied by Cassian for a decade.”
+
+The real reason for the exercise was not thematic.
+
+The Antarctic mark segmentation needed testing.
+
+Imani had selected comparison corpora before looking for a match: early numerical-administrative systems, later Mesopotamian mathematical texts, lexical lists, royal inscriptions, astronomical tables, and unrelated control corpora from Egyptian, Indus, Chinese, and Mesoamerican traditions.
+
+If the Antarctic structure matched everything, it meant nothing.
+
+If it matched only what they wanted, it meant less.
+
+Cassian asked LOAM to compare not symbols, but hierarchy.
+
+Group. Subgroup. Repetition. Boundary. Carry-like behavior.
+
+The first pass produced noise. Good.
+
+The second found statistical similarity with several accounting systems. Expected.
+
+Then a stronger result with later sexagesimal mathematical formatting. Imani frowned.
+
+“Show controls.”
+
+Egyptian fraction texts: moderate structural overlap. Chinese counting-rod representations: lower.
+
+Mayan vigesimal calendrical formatting: moderate in some transformations, low in others.
+
+Babylonian mathematical tablets: high. Nico said, “There.”
+
+“No,” Imani said.
+
+“But—”
+
+“Shared arithmetic constraints can create shared structure.”
+
+Cassian asked, “Can we distinguish convenience from inheritance?”
+
+“Maybe not from layout.”
+
+She sat at the console.
+
+“Try damage.”
+
+“What?”
+
+“Ancient texts survive incomplete. So does the Antarctic image.”
+
+Cassian understood.
+
+“Error recovery.”
+
+“Yes.”
+
+Imani selected a damaged mathematical corpus.
+
+“Hide pieces. See which structural assumptions recover them most accurately.”
+
+LOAM ran cross-validation.
+
+Base-ten positional assumptions performed badly. Additive grouping improved. Sexagesimal place-value performed better on the Mesopotamian set, unsurprisingly.
+
+Then they applied the same classes of recovery to the Antarctic sequence. Several worked. One worked better. Sexagesimal.
+
+Nico said nothing this time. He had learned. Imani leaned closer.

@@ -1,0 +1,162 @@
+CHAPTER FIVE
+NICO'S LEAK
+
+The leak was not a document.
+
+It was a wound where documents should have been.
+
+Nico spread the archive across six monitors while Cassian watched from the far side of the studio. Procurement records. Aviation manifests. Contractor invoices. Calibration certificates. Insurance riders. Field-medical claims. Satellite tasking summaries. Nothing classified. A strip of old blue tape was stuck beneath Nico's mixing board in Selene's handwriting: KEEP THE ORIGINAL CLEAN. It was a newsroom rule born after coffee, an overwritten transcript, and an argument neither of them remembered correctly. Nico still duplicated every file before touching it, though he had never decided whether a copy preserved an original or simply created a second thing people could later disagree about.
+
+Nothing that said WE FOUND SOMETHING UNDER THE ICE.
+
+But one organization had spent thirty-one years repeatedly paying to look at the same six places.
+
+“That does not mean they know what’s there,” Cassian said.
+
+Nico swiveled.
+
+“You always defend governments when I’m hoping you’ll accuse them.”
+
+“I’m defending inference.”
+
+“Less fun.”
+
+“More useful.”
+
+Nico pointed to a timeline.
+
+“Fine. Southern Variance Watch begins as a multinational climate anomaly program. Then around 2044, reporting moves from science ministries into security coordination. Funding triples. Public publications stop.”
+
+“Could be dual-use concern.”
+
+“Agreed.”
+
+“Subglacial heat can affect sea-level models. Strategic infrastructure planning. Navigation. Resource claims.”
+
+“Agreed.”
+
+Cassian narrowed his eyes.
+
+“You are being suspiciously reasonable.”
+
+“I’m saving all my unreasonable energy for this.”
+
+He pulled up a map. Six coordinates.
+
+Beside each, a stack of timestamps.
+
+“Sensor outages,” Nico said.
+
+Cassian leaned closer.
+
+“Where did you get these?”
+
+“Public archives plus provider status logs. No secret source.”
+
+The outage intervals clustered around the same local windows, not exactly. Close enough to bother him.
+
+“LOAM.”
+
+The system was connected through a sandboxed terminal on Nico’s local machine.
+
+READY.
+
+“Test whether outage timing is consistent with shared environmental interference.”
+
+PROCESSING.
+
+Nico watched the screen.
+
+“Would that include solar storms?”
+
+“Yes.”
+
+“Satellite geometry?”
+
+“Yes.”
+
+“Ionospheric interference?”
+
+“Yes.”
+
+“Weather?”
+
+“Yes.”
+
+“Secret alien mothership?”
+
+“No.”
+
+“Bias.”
+
+Cassian ignored him. LOAM returned:
+
+KNOWN SHARED ENVIRONMENTAL EXPLANATIONS INSUFFICIENT.
+
+“Insufficient isn’t impossible,” Cassian said immediately.
+
+Nico nodded. The next line appeared.
+
+OUTAGE ONSETS CLUSTER NEAR 60-MINUTE PHASE BOUNDARY.
+
+Cassian’s jaw tightened.
+
+“Reporting timestamp quantization.”
+
+TESTED.
+
+“Provider batch logging.”
+
+TESTED.
+
+“Shift changes.”
+
+TESTED.
+
+“Software cron schedules.”
+
+TESTED WHERE METADATA AVAILABLE.
+
+Nico whispered, “You hear how this sounds.”
+
+“Yes.”
+
+“Like the world’s nerdiest haunting.”
+
+Cassian enlarged the plot.
+
+There was structure, but not perfection. Real data. Drift. Noise. Missingness.
+
+He trusted imperfection more than clean lines.
+
+“Look at coordinate six.”
+
+Nico did. One sensor had not gone offline.
+
+It had continued reporting. The values were flat, not zero. Flat.
+
+“Stuck sensor,” Cassian said.
+
+“Probably.”
+
+LOAM highlighted the calibration flag.
+
+VALID SELF-TESTS DURING FLATLINE.
+
+Cassian frowned.
+
+A stuck sensor often knew it was broken. This one had passed internal checks while returning the same measurement repeatedly.
+
+Nico opened the raw series. Sixty minutes. Exactly. Then normal variation resumed.
+
+“Could be software,” Cassian said.
+
+Nico did not respond.
+
+“Say it.”
+
+“I’m learning restraint.”
+
+“Poorly.”
+
+Nico brought up another station. Same thing. Different manufacturer. Different year.

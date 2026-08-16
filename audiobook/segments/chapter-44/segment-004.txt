@@ -1,0 +1,103 @@
+During Phase One, the reconciliation service failed. The pharmacy rejected the prescription.
+
+Her granddaughter Priya - not the quorum member, another Priya among millions - argued with an automated service for forty minutes.
+
+Then with a human representative who could see all three records and was not authorized to merge them. Meera needed anticoagulants.
+
+The local clinic had stock. No valid identity path. Priya drove there.
+
+The clinic had moved to manual attestation. Two witnesses required. Priya counted as one.
+
+They needed another person who knew Meera. Her neighbor, Mr. Alvarez, came.
+
+He had known her for eleven years.
+
+The nurse recorded his statement on paper. Meera received the medication.
+
+Then the clinic discovered the paper form had no recognized code for transliteration mismatch.
+
+The nurse wrote it in the margin.
+
+Someone would later have to decide whether that counted.
+
+Across the city, similar improvisations accumulated.
+
+Human beings became temporary adapters between databases that no longer trusted each other. Names. Relationships. Memory.
+
+At an emergency shelter, a father could not prove custody of his daughter because school records were offline. A teacher recognized them.
+
+At another shelter, an abusive partner falsely claimed relation. Manual trust failed.
+
+Staff learned quickly that human testimony was not automatically safer than digital identity. They built layered verification.
+
+Two people. Independent details. School contacts. Paper records if available. Local discretion with written reasoning. Slow. Imperfect.
+
+Better than one broken database or one confident liar.
+
+In Lagos, Temi Adebayo's hospital created a whiteboard listing every medication release made under fallback authority, not to shame staff.
+
+In St. Louis, Phase One turned an apartment building into a clinic by noon.
+
+The building manager, Keisha Rowan, had no medical training beyond first aid.
+
+She had a master key. A paper tenant list. Two battery radios. And the only working elevator because she knew where the manual controller was.
+
+The official emergency map classified the building as residential capacity. That was useless. By 09:00, residents had identified:
+
+three nurses,
+one retired respiratory therapist,
+two people with insulin requiring refrigeration,
+one dialysis patient,
+four infants,
+seven residents who could not use stairs,
+and a teenager whose father repaired generators. Keisha wrote everything on cardboard.
+
+Not because paper was morally superior.
+
+Because the tenant portal was down. One nurse objected.
+
+“Do not put diagnoses on the wall.”
+
+Keisha crossed them out. Privacy. Even now.
+
+They replaced names with apartment numbers and need categories.
+
+REFRIGERATION.
+MOBILITY.
+MEDICATION.
+INFANT.
+CHECK-IN.
+
+The building became a local system. Then the problem arrived.
+
+A city emergency team offered evacuation to a regional shelter. The shelter had stable power.
+
+It also had an automated intake system currently rejecting people with identity mismatches. Several residents had mismatches.
+
+One undocumented tenant would almost certainly be flagged. Keisha asked:
+
+“If we go, can everyone enter?”
+
+The emergency worker hesitated.
+
+“I cannot guarantee that.”
+
+“Then we are not all going.”
+
+A nurse objected.
+
+“The dialysis patient needs higher-level care.”
+
+Keisha looked at her.
+
+“So what do we do?”
+
+They split the decision. The dialysis patient went with two witnesses and paper records. Others stayed, not unity. Coordination. At 14:00, the elevator failed.
+
+The generator teenager found the problem.
+
+A control board needed cooling. No replacement fan.
+
+He zip-tied a household fan to the cabinet and ran it through an extension cord.
+
+The repair violated every equipment standard. It worked. Keisha wrote:

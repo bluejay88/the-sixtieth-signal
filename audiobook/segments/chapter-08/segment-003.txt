@@ -1,0 +1,143 @@
+It was the first point at which the project began preserving the people who helped it survive. Nico’s breathing became audible.
+
+Cassian said, “Why didn’t you tell us?”
+
+“Because pattern-seeking destroyed two teams.”
+
+“What does that mean?”
+
+“It means once people decided the numbers mattered, they found them everywhere.”
+
+Cassian understood immediately. Three bolts on a housing. Six legs on a frame. Twelve screws. Sixty-minute shifts.
+
+Apophenia with a security clearance. Pike continued.
+
+“One physicist argued the anomaly encoded base sixty. Another found prime-number spacing. Another found astronomical constants after enough transformations. Every model could be made persuasive after the fact.”
+
+“So you stopped looking at numbers.”
+
+“We stopped allowing unregistered transformations.”
+
+Cassian looked at LOAM. A conspiracy became unfalsifiable when every failed prediction produced a new code.
+
+“LOAM. Freeze transformation set. No new symbolic mapping without preregistration.”
+
+ACKNOWLEDGED.
+
+Nico looked pained.
+
+“You just regulated the mystery.”
+
+“Yes.”
+
+“Cruel.”
+
+“Necessary.”
+
+Pike almost smiled. Cassian returned to the ratios. 3. 6. 12. 60.
+
+“Where is thirty?” Nico asked.
+
+Cassian looked at him.
+
+“What?”
+
+“You have three, six, twelve, sixty. If this is the same family your model keeps finding, thirty shows up elsewhere.”
+
+Pike said, “Do not force it.”
+
+“I’m not.”
+
+Nico pointed to the event duration. Forty-seven minutes.
+
+“Not there.”
+
+The melt-brine forecast, not thirty. Probe depth, not thirty. Cassian scanned the log.
+
+At 14:30, exactly twenty-seven minutes into the event, one legacy instrument had changed mode. No. Too easy.
+
+Then Park said, “The probe rotation.” Cassian looked.
+
+During geometry mapping, the probe had rotated in thirty-degree increments. Human command, not anomaly. He dismissed it.
+
+“Doesn’t count.”
+
+Nico nodded. Good. They kept looking. Nothing. Cassian felt relief.
+
+A pattern with missing members was less seductive.
+
+At 18:12, the review team finished copying data. Pike ordered camp relocation.
+
+“Why?”
+
+“Because tomorrow the window is closed and weather worsens.”
+
+“And the interface?”
+
+“We wait.”
+
+“For what?”
+
+Pike looked at the ice.
+
+“For the next event.”
+
+Cassian shook his head.
+
+“No.”
+
+Everyone turned.
+
+“We came because LOAM predicted this one.”
+
+“Yes.”
+
+“If the anomaly is connected to the food model, waiting passively wastes the only thing we have that your program didn’t.”
+
+Pike’s face hardened.
+
+“What are you proposing?”
+
+Cassian looked at the frozen transformation set.
+
+At the outbound diagnostic sequence. At the gaps that followed. Then at the field node.
+
+“Nothing yet.”
+
+Nico laughed once. Pike did not. Cassian said, “First we count.”
+
+“Count what?”
+
+He looked at the missing intervals.
+
+“What the system removes.”
+
+LOAM added a line beneath the ratios.
+
+GATE CONDITION SATISFIED: 60.
+
+Cassian stared.
+
+He had not programmed a “gate condition.”
+
+He opened the source trace. It was not mystical. A debugging label.
+
+Gate meant threshold in the model’s internal validation framework.
+
+Condition satisfied: enough independent observations to move an anomaly from provisional to persistent. Still—
+
+The number sat there. 60.
+
+Nico leaned over Cassian’s shoulder. Neither spoke. Pike said, “What?” Cassian closed the display.
+
+“Nothing.”
+
+For the first time, he understood exactly how conspiracies began, not with a lie.
+
+After Pike revealed the 2041 ratios, Cassian forced the team to do something everyone hated.
+
+They wrote down what would make them stop believing the pattern mattered.
+
+Not what would prove it. What would kill it.
+
+Park wrote: if normalized ratios fail to recur on independent instrument classes, abandon shared-structure hypothesis.

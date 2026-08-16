@@ -1,0 +1,141 @@
+Another said:
+
+“If you told me it came from an engineered communication system, I would ask what independent prediction it makes.”
+
+Vaziri looked at Imani.
+
+“Good.”
+
+Nico whispered:
+
+“They just repeated your entire methodology.”
+
+“Exactly.”
+
+The important thing was not that experts agreed.
+
+They disagreed in the correct direction.
+
+They asked what evidence would distinguish explanations.
+
+After the seminar, Imani and Vaziri walked outside.
+
+“You are in trouble,” Vaziri said.
+
+“Why?”
+
+“Because this may be real.”
+
+Imani laughed.
+
+“That is not usually what people mean by trouble.”
+
+“It is if your identity depends on being the person who says no.”
+
+Imani stopped. Vaziri looked at her.
+
+“You built armor against credulity.”
+
+“That is called standards.”
+
+“Sometimes.”
+
+Imani did not answer. Vaziri continued.
+
+“If the evidence crosses your threshold, you have to cross with it.”
+
+That was harder than skepticism.
+
+Skepticism protected Imani from embarrassment. Revision required vulnerability. They turned. Cassian opened it.
+
+The Antarctic sequence contained redundant positions that could predict missing values if the correct grouping was used.
+
+If the sexagesimal parse was right, three damaged sections should reconstruct to specific numbers.
+
+If wrong, they would not. Imani leaned over the console.
+
+“Can we verify?”
+
+“Not from the same scan.”
+
+Pike’s voice came from the door.
+
+“Yes, you can.”
+
+No one had heard her enter. She carried a sealed drive.
+
+“SVW has an older image of the same region.”
+
+Cassian looked at her.
+
+“You held it back.”
+
+“Yes.”
+
+Imani smiled without warmth.
+
+“Excellent. A blind test.”
+
+Pike placed the drive on the table.
+
+“The older image is lower resolution but predates the damage visible in your current scan.”
+
+Cassian felt his heartbeat increase. They had a prediction. And an independent earlier state. No mythology could help now. No resemblance. No interpretation.
+
+Either the missing values matched or they did not. Imani looked at Cassian.
+
+“Freeze the prediction.”
+
+He did. Cryptographic hash. Timestamp. No edits. Pike connected the old image.
+
+LOAM was not allowed to see it yet.
+
+A human technician extracted the relevant values according to a preregistered process. First section. Predicted: 12. Observed: 12. Nico stopped breathing. Second. Predicted: 30. Observed: 30. Imani said nothing. Third. Predicted: 6. The technician zoomed. Noise. Ambiguous.
+
+Cassian felt relief and disappointment at once.
+
+Then a second imaging channel resolved the mark. Observed: 6. Nobody spoke.
+
+LOAM received the values only after verification.
+
+CHECKSUM PARSE SUPPORTED.
+
+Imani sat down. Nico whispered, “So.” She looked at him. He thought better of it.
+
+Cassian stared at the three recovered numbers.
+
+For the first time, sixty was not a coincidence they had found after the fact.
+
+Imani made them convert the numbers by hand. Nico objected on principle.
+
+“We have a machine.”
+
+“We have several,” Imani said. “That is the problem.”
+
+She wrote a sexagesimal value on the transparent wall. 1,24,51,10. Nico stared.
+
+“That looks like four separate numbers.”
+
+“In modern notation, yes. In a place-value sexagesimal system, position matters.”
+
+She walked them through powers of sixty, not because Cassian needed the arithmetic, but because she wanted the room to feel how naturally a base system changes what looks simple.
+
+Cassian saw the design advantage immediately.
+
+Sixty tolerated thirds. Quarters. Fifths. Sixths. Tenths. Twelfths.
+
+A civilization dividing cycles, angles, rations, time intervals, or astronomical observations could do a great deal without recurring fractions.
+
+“So it isn’t mystical,” Nico said.
+
+“Correct.”
+
+“It’s convenient.”
+
+“Extremely.”
+
+“That makes it more likely to be reused.”
+
+“Yes.”
+
+Nico smiled. Imani sighed.

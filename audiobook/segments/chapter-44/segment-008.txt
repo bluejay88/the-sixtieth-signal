@@ -1,0 +1,107 @@
+Abena's community center became one of LOAM's resilience case studies without her permission. She called Cassian furious.
+
+“You put us on a global dashboard?”
+
+“Anonymized.”
+
+“I recognized the map.”
+
+“You live there.”
+
+“That is how maps work.”
+
+The center had become an accidental hub.
+
+People brought insulin that needed refrigeration. Elder residents needed transport. Families needed water. A local mosque offered generator capacity. A church kitchen had propane. A high school gym had cots. A mechanic had two working diesel vans. A teenager had built a neighborhood mesh network.
+
+None of it had been planned as one system.
+
+That was why it worked. No central dependency. Cassian asked:
+
+“What failed first?”
+
+“Payment.”
+
+He blinked.
+
+“Not power?”
+
+“No. Card systems.”
+
+“So how did you buy supplies?”
+
+“We stopped pretending money was the only way to record debt.”
+
+Paper IOUs. Community accounts. Barter. Municipal emergency vouchers. Different systems. Messy. Abena said:
+
+“You keep saying resilience like it is a thing we bought.”
+
+“What is it?”
+
+“People who know who to call.”
+
+Cassian looked at the network graph LOAM had generated.
+
+Informal relationships invisible to official infrastructure models.
+
+“Social capital,” he said.
+
+“Do not turn my neighbors into a variable while I am talking.”
+
+He smiled. She softened.
+
+“Your machine sees systems.”
+
+“Yes.”
+
+“Make sure it sees people making systems.”
+
+LOAM added a new feature:
+
+LOCAL RECIPROCAL KNOWLEDGE.
+
+A proxy for whether people knew where capacity existed and trusted one another enough to use it.
+
+The hospital in Lagos that lost pharmaceutical synchronization recovered because a nurse ignored the protocol. Her name was Temi Adebayo.
+
+Cassian learned it from the resilience reports.
+
+The hospital’s inventory system said a neonatal medication batch could not be released because central authentication failed.
+
+Temi had worked there long enough to know the batch physically.
+
+She knew when it arrived. Who signed for it. Which refrigerator held it. Which pharmacist checked the seal.
+
+The system could not verify. The people could.
+
+Temi assembled three witnesses. Pharmacist. Charge nurse. Receiving clerk. They opened the batch. Three infants received medication. One still died.
+
+The report was not a triumph.
+
+Temi later told the witness quorum:
+
+“We did not replace the system with trust.”
+
+Cassian listened.
+
+“What did you do?”
+
+“We replaced one broken verification path with another verification path.”
+
+Paper log. Physical seal. Independent witnesses.
+
+The Human Variable again, not heroic intuition. Redundant procedure. Temi continued.
+
+“The dangerous part is that after this, everyone will say nurses should just use judgment.”
+
+She shook her head.
+
+“No. We were lucky to have people who knew the chain. Judgment without records is how medication errors happen.”
+
+Cassian wrote the sentence down. Resilience was not abandoning systems.
+
+It was having more than one valid system.
+
+That distinction went into the emergency medical standard. Categories are conveniences, not laws.
+
+“It always was.”

@@ -1,0 +1,459 @@
+PART I
+THE HUNGER MAP
+
+CHAPTER ONE
+THE HUNGER MAP
+
+The map did not show hunger.
+
+It showed everything that would become hunger before anyone admitted the connection.
+
+A port strike in Santos. A fertilizer plant running nine percent below capacity outside Jorf Lasfar. River draft restrictions on the lower Mississippi. A heat dome over Punjab. Two insurance syndicates quietly repricing refrigerated cargo through the Red Sea. A fungal outbreak in Argentine soybean fields still described in public reports as “localized.” Three reservoirs in southern Spain falling in nearly identical curves.
+
+On the wall of Cassian Osei-Lorne’s laboratory, none of those things were red yet.
+
+The red came later. He stood barefoot on the polished concrete, coffee cooling between both hands, while LOAM revised the world.
+
+The system’s name had once been an acronym long enough to embarrass everyone involved: Logistics Optimization and Allocation Mesh. Cassian had shortened it during the first grant presentation because funders remembered words better than architecture diagrams. The joke was that loam was what civilization forgot it depended on. Soil. Moisture. Rot. Time.
+
+Ten years later the acronym had survived three governments, four corporate partnerships, two congressional investigations, and a wave of public hatred directed at anything that made decisions faster than people could understand them.
+
+LOAM was not supposed to make decisions.
+
+Cassian had repeated that sentence so often it had become a superstition.
+
+It predicted. It ranked. It exposed dependencies. It said, in effect, if this bridge closes, these insulin deliveries fail; if this river drops twelve centimeters, these grain elevators miss their barge windows; if this nitrogen price rises eighteen percent, these farmers cut application, which becomes these yields, which becomes these import bids, which becomes this price shock, which becomes this school meal program dropping protein twice a week.
+
+No single person saw all of it because no single institution owned all of it. LOAM did.
+
+That was why Cassian had built it.
+
+His mother still told the story differently. According to her, he built it because at fourteen he had watched a supermarket in South London throw away strawberries behind locked gates while his aunt in Accra sent photographs of market shelves where flour had tripled in price. That was family mythology, neat enough to fit over dinner. The truth was less cinematic.
+
+He had spent his twenties modeling failures nobody considered dramatic until they arrived together. Crop yields. Cold chains. Fuel rationing. Water rights. Municipal power. Trade sanctions. Machine-learning workloads competing with industrial cooling during summer peaks. Data centers buying long-term water contracts from the same aquifers feeding farms. Every system had a team. Nobody had the seams.
+
+The seams killed people. At 05:13, LOAM painted the first red region. Northern Nigeria.
+
+At 05:14, two more appeared. Bangladesh. The western Sahel. Cassian set down the coffee.
+
+“Reason.”
+
+The wall shifted from map to causal tree.
+
+The system did not speak unless asked. Cassian had rejected the fashion for warm voices and carefully engineered personality. A logistics engine that sounded empathetic made people trust things they should inspect. Text appeared.
+
+PRIMARY RISK DRIVER: MULTI-REGION SHIPPING AND INPUT VOLATILITY.
+
+“Expected.”
+
+SECONDARY DRIVER: SOUTHERN OCEAN SALINITY ANOMALY.
+
+Cassian frowned.
+
+“Remove non-agricultural features.”
+
+The model recalculated. The red spread, not by much. Enough.
+
+“Explain.”
+
+ERROR INCREASE AFTER FEATURE REMOVAL: 11.8%.
+
+“That’s impossible.”
+
+The wall did not answer because impossibility was not a query.
+
+Cassian rubbed his eyes, then walked to the workstation and opened the dependency trace manually. The Antarctic variable sat where no variable like it belonged, upstream of fisheries, freight, atmospheric transport, and something the model had classified as fertilizer energy exposure.
+
+He checked the feature registry. No corruption.
+
+He checked the timestamp alignment. No obvious offset.
+
+He checked whether a new climate dataset had been added during the night. Nothing.
+
+“Run without polar data.”
+
+The system did.
+
+The famine-risk score worsened in three regions. Exactly three.
+
+Cassian stared at them long enough for the screen to dim around the edges.
+
+“Run the last twelve months. Rolling exclusion. All Southern Ocean features.”
+
+Charts bloomed. The relationship survived.
+
+Not cleanly, not beautifully. Real causality never looked like a presentation slide. But the error bars were wrong in the same direction again and again. Cassian’s phone vibrated.
+
+MIRA KESTREL - MINISTRY FOOD RESILIENCE.
+
+He ignored it. Another vibration. Then another.
+
+He had promised a briefing at six.
+
+He called up LOAM’s model audit.
+
+“Show strongest unexplained upstream feature.”
+
+A thin white line appeared through the Antarctic convergence zone.
+
+SUBGLACIAL HEAT FLUX ESTIMATE: SECTOR UNRESOLVED.
+
+Cassian leaned toward the screen.
+
+The estimate was not one measurement. It was stitched from ocean temperatures, ice-penetrating radar archives, autonomous float data, gravimetric surveys, satellite altimetry, and model-imputed gaps where no public source existed.
+
+There should not have been enough data for a line that stable.
+
+“Confidence.”
+
+LOW.
+
+“Then why is it surviving feature pruning?”
+
+PREDICTIVE VALUE IS NOT EQUIVALENT TO MECHANISTIC CONFIDENCE.
+
+Cassian smiled despite himself.
+
+“That sounded like me.”
+
+No response. He ran the test again. The anomaly remained.
+
+His phone buzzed a fourth time. This time he answered.
+
+“Cassian,” Mira said without greeting, “tell me you’re looking at the western Sahel.”
+
+“I’m looking south.”
+
+“South where?”
+
+He hesitated. On the wall, LOAM shifted one dot at the bottom of the world from white to amber.
+
+“Antarctica.”
+
+There was a silence long enough that he could hear someone in her office opening a can.
+
+“Is that a joke?”
+
+“No.”
+
+“Does Antarctica grow wheat now?”
+
+“Apparently it grows model error.”
+
+“Can I use that sentence in front of the minister?”
+
+“Absolutely not.”
+
+“Good. Six minutes.”
+
+The call ended. Cassian opened the anomaly trace one more time.
+
+A number in the margin caught his eye. 60.2 days.
+
+The estimated lag between the Southern Ocean shift and the first measurable disruptions in one of the three crop clusters.
+
+He opened the other two. 59.8. 60.1. Cassian stopped moving.
+
+“LOAM.”
+
+READY.
+
+“Search all retained variables for sixty-day harmonic clustering.”
+
+The system paused, not long. Half a second. For LOAM, that was hesitation.
+
+A second set of lines appeared. Three crop failures. Six port disruptions. Twelve energy-price spikes.
+
+All sitting around multiples or divisors of sixty with more regularity than Cassian expected from messy human systems. He felt annoyance before fear.
+
+Pattern hunger was one of the oldest bugs in the human brain. See three points, invent a constellation. Give that habit enough computation and it became statistics with a costume.
+
+“Control for reporting cycles.”
+
+DONE.
+
+“Control for monthly accounting.”
+
+DONE.
+
+“Shipping schedules.”
+
+DONE.
+
+“Insurance repricing windows.”
+
+DONE.
+
+“Commodity contract rolls.”
+
+DONE.
+
+The structure weakened. It did not disappear.
+
+Cassian looked at the amber point at the bottom of the map.
+
+Then at the three red regions above it.
+
+The most dangerous thing about a wrong model was not that it failed.
+
+It was that, sometimes, it was useful for reasons no one understood.
+
+His briefing alarm chimed. Cassian closed the causal tree.
+
+The Antarctic point remained on the black wall after everything else vanished.
+
+He had not told the system to leave it there.
+
+“Clear display.”
+
+The point disappeared. He was halfway to the door when a new message appeared in small text.
+
+RECOMMENDATION: DO NOT EXCLUDE THE VARIABLE.
+
+Cassian stared at it.
+
+“That isn’t a recommendation class.”
+
+The text remained. He walked back to the terminal and opened the generation log.
+
+The sentence had not been generated as advice.
+
+It came from the model’s audit layer. A mechanical warning.
+
+Retain variables whose removal materially damages forecast accuracy.
+
+Nothing mystical. Nothing alive. He knew that. He repeated it to himself.
+
+Then he took a photograph of the screen before clearing it again.
+
+By 05:59, the world map was back. Ports. Crops. Fuel. Water. Freight.
+
+Human things. The amber point did not return. Cassian began the briefing.
+
+But while the minister asked whether school meal contracts could be insulated from the coming price spike, Cassian kept seeing the bottom of the world, not as ice.
+
+The briefing ended at 06:38 with no one asking about Antarctica again. That should have comforted him. Instead it made the amber point feel private.
+
+Cassian stayed in the lab while morning climbed the glass towers across the river. Below him, delivery bicycles moved between autonomous buses. Steam rose from cooling stacks on the east bank, where three hyperscale computing campuses shared a reclaimed-water loop with the city. The campuses had been built during the first great AI expansion, when every government wanted sovereign models and every company wanted its own. They had promised efficiency. They had also promised that the water would come from somewhere else.
+
+Somewhere else had become Cassian's problem.
+
+LOAM's earliest versions had been funded after the 2047 rationing summer, when municipal authorities discovered that data-center cooling contracts had priority clauses written before drought models were updated. Farms lost pumping hours. Hospitals paid emergency prices for cooling. Neighborhoods with old pipes lost pressure because the system was optimized for average demand rather than simultaneous heat stress. Nobody had intended starvation. Nobody had needed to. Intent was a poor predictor of consequence.
+
+His mother called while he was reading the original grant notes. He almost ignored her.
+
+Then remembered she had a rule about ignored calls. If he missed two, she began contacting colleagues.
+
+“You sound tired,” Abena said when he answered.
+
+“Good morning to you too.”
+
+“It is not morning where I am.”
+
+She was in Accra for six weeks, helping his aunt sell a house nobody wanted to admit had become too large for the family. Behind her he could hear market traffic and a radio announcer arguing about fuel prices.
+
+“Have you eaten?” she asked.
+
+“Yes.”
+
+“That pause was the length of a lie.”
+
+Cassian opened a nutrient bar and held it up to the camera.
+
+His mother looked offended on behalf of food.
+
+“You built a machine to feed the world and eat packing material.”
+
+“It has almonds.”
+
+“So does bird feed.”
+
+He smiled despite himself. Then she asked the question he had been avoiding.
+
+“Is the model wrong?”
+
+Abena never asked whether LOAM was right. She had learned from him that models were arguments with numbers attached.
+
+“Maybe.”
+
+“And you are upset because?”
+
+“Because the wrong part is useful.”
+
+She nodded as if that made perfect sense.
+
+“The worst kind.”
+
+Cassian looked at the dark wall.
+
+“It is connecting food risk to something in Antarctica.”
+
+His mother did not laugh.
+
+“Should it?”
+
+“Not like this.”
+
+“Then find out why.”
+
+“That is the plan.”
+
+“No. Your plan is to stay in that room until the computer apologizes.”
+
+He looked away. Abena knew him too well.
+
+“Go see the thing,” she said.
+
+“There may not be a thing.”
+
+“Then go see the nothing.”
+
+The phrasing stayed with him after the call ended. Go see the nothing.
+
+Cassian reopened the Antarctic trace and, for the first time, stopped treating field validation as an absurdity.
+
+The lab's water-use dashboard flickered in the corner: compute load, cooling demand, recycled fraction. LOAM itself was consuming power and water to model a world increasingly strained by power and water. Cassian had spent years defending that contradiction with life-cycle estimates and avoided-loss calculations. Most of the time he believed them.
+
+Mira Kestrel called back after the ministerial briefing, not from her office.
+
+Cassian could tell because the background noise was wrong.
+
+Cutlery. Steam. A child laughing somewhere nearby.
+
+“Where are you?”
+
+“Cafeteria.”
+
+“At this hour?”
+
+“There is a twenty-four-hour cafeteria because governments discovered people make worse decisions hungry and then ignored the discovery for everyone else.”
+
+Cassian smiled.
+
+“What do you want?”
+
+“You.”
+
+“That is ominous.”
+
+“I want to know whether you are going to put the Antarctic variable in the official model card.”
+
+He looked at the map.
+
+The amber point remained hidden behind a diagnostic layer.
+
+“If I include it now, the meeting becomes about Antarctica.”
+
+“Yes.”
+
+“If I exclude it, the forecast gets worse.”
+
+“Yes.”
+
+Mira waited.
+
+Cassian hated questions that contained no technical escape.
+
+“You know what the minister will hear,” she said.
+
+“Anomalous polar variable.”
+
+“No. He’ll hear rogue AI found secret ice problem.”
+
+“That is not what happened.”
+
+“I know. That will not help.”
+
+Cassian leaned against the workstation.
+
+“What would you do?”
+
+“Document it. Bury the drama. Preserve the audit trail.”
+
+“That sounds contradictory.”
+
+“It is civil service.”
+
+She lowered her voice.
+
+“And Cassian?”
+
+“Yes?”
+
+“Do not clean the weirdness out because you are embarrassed by it.”
+
+He looked at the first exclusion test. She continued.
+
+“I have watched analysts massage inconvenient variables until the model looked sensible enough for a meeting.”
+
+“I don’t do that.”
+
+“You are human.”
+
+“That is offensive.”
+
+“It is also my point.”
+
+He opened the model card. Under LIMITATIONS he added:
+
+UNEXPLAINED SOUTHERN OCEAN FEATURE materially affects predictive performance. Mechanism unresolved. Feature retained pending validation.
+
+Mira read it after he sent the draft.
+
+“Good.”
+
+“That sentence will cause questions.”
+
+“Questions are not failure.”
+
+Cassian looked at the three red crop regions.
+
+“Sometimes questions delay action.”
+
+“Then answer the part you can.”
+
+It was almost exactly what LOAM would later learn to do. Separate uncertainty from paralysis.
+
+Cassian did not know that yet.
+
+He only knew that the world was already difficult enough without turning models into performances of certainty.
+
+Before ending the call, Mira said:
+
+“One more thing.”
+
+“What?”
+
+“Your compute budget doubled this quarter.”
+
+Cassian frowned.
+
+“New ensemble training.”
+
+“I know.”
+
+“So?”
+
+“So the water authority noticed.”
+
+He went still. The new cooling contract had been negotiated months earlier.
+
+Closed-loop systems. Reclaimed municipal water. Peak-load restrictions. All technically defensible. Mira said:
+
+“You built LOAM to identify hidden dependencies.”
+
+“Yes.”
+
+“Make sure you are not one.”
+
+The call ended. Cassian stared at the famine map.
+
+AI helping model water scarcity while consuming water to run. A contradiction, not hypocrisy, necessarily but a dependency.
+
+He added LOAM’s own infrastructure footprint to the next model audit.
+
+The machine that counted tomorrow would have to count itself.
+
+Today he wondered whether enlightenment always arrived carrying its own bill.
+
+As a variable that refused to stay irrelevant.

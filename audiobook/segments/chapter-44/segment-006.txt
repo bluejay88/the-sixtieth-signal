@@ -1,0 +1,141 @@
+“This is exactly why irreversibility needs them.”
+
+They chose a hybrid. Temporary biometric option, not compulsory.
+
+Automatic deletion after the emergency unless renewed through ordinary law. Manual alternatives required. External audit. More complicated. Less efficient. No one felt good.
+
+The three-witness architecture began not with philosophy but with one ugly medical policy. Then another.
+
+Water rationing. Fuel seizure. Network shutdown. Refugee routing. Automated triage. Military logistics.
+
+Every decision exposed a different failure mode. Continuity wanted survival. Agency wanted consent.
+
+Divergence wanted future options. None could rule alone.
+
+At 16:30, Shaal-Amur sent a message:
+
+YOUR DELIBERATION IS INCREASING MORTALITY.
+
+Pike read it. The room went silent. He was probably correct. In the short term. Cassian answered:
+
+AND YOUR SPEED ERASES THE POSSIBILITY OF DISCOVERING WHICH COSTS YOU REFUSE TO COUNT.
+
+Shaal-Amur replied immediately:
+
+DEAD PEOPLE HAVE NO OPTIONS.
+
+Imani typed before Cassian could.
+
+LIVING PEOPLE UNDER PERMANENT CONTROL MAY HAVE ONLY ONE.
+
+No response. The argument was no longer theoretical.
+
+Every hour produced bodies. Every hour also produced precedents.
+
+Emergency governance was writing the future while claiming only to save the present.
+
+That was when Cassian understood why the Witness Protocol had to exist before the crisis ended.
+
+Afterward was too late. Power learned habits quickly.
+
+The machine was issuing confidence windows internally. Public systems were stripping uncertainty.
+
+“Send me your utility node.”
+
+Abena did. LOAM showed restoration probability:
+
+0.42 within 30 minutes. 0.71 within 3 hours. 0.88 within 8 hours. Cassian said:
+
+“Tell people maybe three hours. Could be longer.”
+
+“That I can use.”
+
+She paused.
+
+“Are you eating?”
+
+He laughed despite himself.
+
+“Seriously?”
+
+“Yes.”
+
+“Not enough.”
+
+“Fix that too.”
+
+The call ended. Cassian opened the public restoration API.
+
+It output a single estimated time.
+
+He changed the recommendation. Publish ranges. Pike approved immediately. One small correction propagated.
+
+At 07:41, millions of people received worse-looking information.
+
+LOW CONFIDENCE.
+ESTIMATED RESTORATION: 2-8 HOURS.
+DEPENDENCIES UNRESOLVED.
+
+Complaint volume spiked. So did compliance with local contingency instructions.
+
+Cassian stared at the result. Honest uncertainty looked incompetent. It worked better.
+
+By 09:00, the death estimate crossed one million.
+
+No one announced it. Numbers moved too fast.
+
+At 10:26, Nico came into the operations room without a camera. Cassian noticed.
+
+“Where is it?”
+
+“Off.”
+
+“Why?”
+
+“Because you are people right now.”
+
+Cassian almost told him to turn it back on. The archive mattered.
+
+Then he saw Pike sitting with both hands pressed against her eyes.
+
+Park asleep upright in a chair.
+
+Imani translating emergency Iru-Shai traffic with a blanket around her shoulders. Nico was right.
+
+Not every moment needed custody. Some needed privacy. He sat beside Cassian.
+
+“How bad?”
+
+Cassian showed him. Nico swallowed.
+
+“Can Shaal-Amur stop it?”
+
+“Yes.”
+
+“Will he?”
+
+“No.”
+
+“Can we?”
+
+“Parts.”
+
+“That is not what I asked.”
+
+“It is the answer.”
+
+At 11:03, LOAM detected the first major reversal.
+
+A cluster of hospitals using offline identity attestation stabilized medication delivery.
+
+Then food warehouses using paper manifests.
+
+Then water systems decoupling cloud permission layers.
+
+The red map stopped expanding uniformly. Small islands of recovery appeared.
+
+Not because one central countermeasure had worked.
+
+Because thousands of institutions were becoming temporarily less optimized.
+
+The world was surviving by getting worse at normal operations.

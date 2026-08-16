@@ -1,0 +1,648 @@
+PART II
+THE LANGUAGE THAT COUNTS
+
+CHAPTER ELEVEN
+IMANI SAYS NO
+
+Dr. Imani Sayegh said no before anyone finished asking the question.
+
+“No.”
+
+Nico looked up from his recorder. “I haven’t said anything yet.”
+
+“You were going to say ancient.”
+
+“Yes.”
+
+“Then alien.”
+
+He smiled. “Eventually.”
+
+“No.”
+
+The temporary analysis room had been assembled inside a logistics module at McMurdo three days after the event. The Antarctic geometry was still buried, still unreachable without a drilling program nobody had authorized, and still producing a low-frequency return that refused to settle comfortably inside any model.
+
+Pike had flown Imani from Oxford under an emergency consulting order broad enough to irritate her before she landed. Cassian had expected someone older.
+
+Not because expertise required age. Because the file Pike sent him contained twenty-two years of field work, dead languages, damaged tablets, disputed readings, museum disputes, and an academic fight over a cylinder seal that had apparently ended three careers and one marriage.
+
+Imani was forty-six, narrow-faced, dark-haired, and dressed for Antarctica as though she had been personally betrayed by every layer of thermal clothing. She had spent the first ten minutes in the room asking who had handled the image files, who had normalized the geometry, who had translated the marks into lines, and whether the original sensor logs still existed.
+
+Then Nico had begun, “So, hypothetically, if an ancient—”
+
+“No.”
+
+Now she stood before the largest wall display and looked at the recovered geometry without reverence. Cassian liked her immediately.
+
+Pike said, “Scope is narrower than the briefing made it sound. We need provenance, structure, and failure modes, not extraterrestrial writing.”.
+
+“Good,” Imani said. “Because it isn’t writing.”
+
+Nico made a small wounded sound. Imani pointed at the image.
+
+“You keep calling these markings.” Imani opened a fresh metadata field and typed UNCLASSIFIED FEATURE instead. “They may be scratches, structural seams, sensor artifacts, mineral boundaries, manufacturing residue if the thing is manufactured, or features your reconstruction algorithm invented while resolving missing returns.” She glanced at Nico. “Labels travel farther than evidence. Once a bad noun gets into the metadata, people start using it as a prior.”
+
+Cassian said, “LOAM does not fill geometry below point-eight confidence.”
+
+Imani looked at him. “A threshold is not modesty, Cassian. It is a rule you wrote about when the machine is allowed to stop admitting uncertainty in public.”
+
+Cassian nodded. “That is fair, but it is still a threshold, not a personality trait.”
+
+That made her glance at him.
+
+Most people argued when challenged on their systems. Cassian had spent too many years auditing models to confuse defense with loyalty. Imani stepped closer.
+
+“Show me raw.”
+
+He did. The elegant black-and-white reconstruction vanished. Noise replaced it.
+
+Incomplete planes. Scatter. Return peaks. Missing wedges. Apparent lines that only became obvious after several rotations. Imani smiled.
+
+“That’s better.”
+
+Nico asked, “You prefer the ugly one?”
+
+“I prefer evidence before interpretation.”
+
+“That is unfortunately our house religion.”
+
+“Good. Then stop saying alien.”
+
+“I said ancient.”
+
+“You were going there.”
+
+Pike interrupted. “Doctor, look at the repetition.”
+
+Cassian overlaid the five response sequences. 3. 6. 12. 30. 60.
+
+Imani looked for less than a second.
+
+“No.”
+
+Nico threw up his hands.
+
+Cassian said, “You haven’t heard the context.”
+
+“I don’t need context to know what you want me to notice.”
+
+“What?”
+
+“Sexagesimal arithmetic. Mesopotamia. Sixty minutes. Three-sixty degrees. Twelve subdivisions. A nice little ladder into Sumerian conspiracy content.”
+
+Nico whispered, “She is extremely good.” Imani turned on him.
+
+“And it is a trap.”
+
+Cassian leaned against the table.
+
+“Why?”
+
+“Because sixty is useful.”
+
+“So?”
+
+“So people use useful numbers.”
+
+She picked up a stylus and wrote: 60 = 2² × 3 × 5
+
+“It divides cleanly by two, three, four, five, six, ten, twelve, fifteen, twenty, thirty. That makes it excellent for fractions. You do not need sky gods to discover divisibility.”
+
+Nico opened his mouth. She raised one finger.
+
+“And no, the existence of a sexagesimal tradition in Mesopotamia does not mean every appearance of sixty in human culture descends from a single sacred code. Systems persist because systems are practical, because bureaucracy standardizes them, because astronomers inherit them, because teachers teach what teachers were taught.”
+
+Cassian said, “That’s not why Pike called you.”
+
+“No?”
+
+He changed the display. The geometry rotated.
+
+A narrow band of repeated depressions appeared near the seam.
+
+Imani’s expression changed slightly, not awe. Attention.
+
+“They’re grouped,” she said.
+
+“Yes.”
+
+“How many?”
+
+“We don’t know what counts as one mark.”
+
+“Good answer.”
+
+Cassian highlighted the raw return points. Imani walked closer.
+
+“Do not trace them.”
+
+“I haven’t.”
+
+“Give me contrast control.”
+
+He handed her the console.
+
+For twenty minutes, the room went quiet.
+
+Imani changed thresholds, reversed polarity, removed LOAM’s smoothing, compared passes from different instrument angles.
+
+Then she asked, “Do you have any reason to think these are linguistic?”
+
+“No,” Cassian said.
+
+Pike said, “A prior team thought so.” Imani rolled her eyes.
+
+“Of course they did.”
+
+“What do you think?”
+
+“Accounting.”
+
+Nico lowered his recorder.
+
+Cassian said, “That is oddly specific.”
+
+“Not accounting in the literal sense. Classification.”
+
+She drew three boxes.
+
+“Repeated category marker. Quantity-like cluster. Then destination or state.”
+
+“Why?”
+
+“Because languages are greedy. They need variation. Administrative notation often repeats structure mercilessly.”
+
+She pointed to the mark groups.
+
+“Here. Same first cluster, different second cluster, similar terminal.”
+
+Cassian asked LOAM to test structural repetition without assigning semantic values.
+
+The system returned a high repetition score. Imani nodded.
+
+“Could still be physical engineering labels.”
+
+“Like part numbers,” Nico said.
+
+“Exactly.”
+
+“So not language.”
+
+“Not yet.”
+
+Pike asked, “What would change your mind?”
+
+“Context.”
+
+“We have none.”
+
+“Then you have no translation.”
+
+Nico sighed. Imani continued.
+
+“If it’s artificial, whoever made it may not use anything remotely analogous to human language. If it is connected to human antiquity, which I am not granting, then resemblance is the least useful thing you could show me.”
+
+Cassian said, “What would be useful?”
+
+“A constraint that survives copying.”
+
+She turned from the wall.
+
+“Symbols change. Languages die. Scribes misunderstand. Cultures borrow. Stories mutate. But certain relationships can persist through bad copies.”
+
+“Numbers.”
+
+“Sometimes. Ratios. Repeated order. Error patterns. Formulaic sequence.”
+
+Cassian looked at LOAM. That was exactly how the system had found the Antarctic anomaly: not through a dramatic feature, but through a relationship that survived removing categories. Imani saw him thinking.
+
+“What?”
+
+“LOAM was built to find relationships that persist when labels fail.”
+
+“That is more interesting than anything Mr. Ashbourne has said.”
+
+Nico placed a hand over his heart. She ignored him.
+
+Cassian loaded a panel from the old SVW archive.
+
+“One team claimed these marks resembled early Mesopotamian numerical signs.”
+
+Imani did not even look.
+
+“No.”
+
+“Again?”
+
+“Because ‘resembles’ is doing all the work.”
+
+“Look anyway.”
+
+She did. The image showed small repeated impressions in groups.
+
+Imani’s face remained flat. Then she zoomed.
+
+“Where did this come from?”
+
+“2052 probe image.”
+
+“Metadata?”
+
+Pike handed it over. Imani read.
+
+“Original image?”
+
+“Yes.”
+
+“Processing history?”
+
+“Documented.”
+
+She studied the marks again. Nico waited almost visibly. Finally he asked, “Well?”
+
+“They look like count marks.”
+
+His face lit. She added, “Because count marks are not difficult to invent.” His face fell. Cassian almost smiled. Imani enlarged one cluster.
+
+“There’s something else.”
+
+“What?”
+
+“If this is notation, the grouping boundary is wrong for the interpretation your old team made.”
+
+Pike moved closer.
+
+“Explain.”
+
+“They assumed each vertical separation created a new number.”
+
+“Yes.”
+
+“I think some separations are damage.”
+
+Cassian said, “What changes?” Imani resegmented the pattern. LOAM recalculated. Five groups became three. Then one long structure. Cassian stared.
+
+“Base?”
+
+Imani's academic caution had cost her before Antarctica.
+
+Five years earlier, a streaming documentary had used one of her interviews about Mesopotamian administrative texts.
+
+She spent forty minutes explaining how writing emerged through multiple functions, institutions, and local traditions.
+
+The finished episode used nine seconds. Her sentence:
+
+“Administrative accounting is one of the places we can watch writing becoming indispensable.”
+
+was cut immediately before a narrator said:
+
+“But some researchers believe the sudden leap may have required outside intervention.”
+
+Imani had not said that.
+
+The edit did not technically claim she had.
+
+It simply borrowed her authority. She spent months correcting interviews. Nobody remembered the correction.
+
+The episode became one of the platform's most watched pseudo-history specials.
+
+Her inbox filled with people congratulating her for “finally admitting” ancient contact.
+
+Then came abuse when she denied it.
+
+Professor Dalan told her to ignore it. She could not. Not because people were wrong.
+
+Because the wrongness had used her face.
+
+She began requiring editorial review for public media. Producers stopped calling.
+
+Her department chair advised her to be less difficult. Imani became more difficult.
+
+Years later, when Nico first pointed a recorder at the Antarctic archive, she saw the same danger immediately.
+
+Evidence could be distorted without falsifying a single raw fact. Sequence was enough. Context was enough. Omission was enough.
+
+That was why she treated translation as custody.
+
+A translator did not merely convert words.
+
+A translator decided what uncertainty survived the trip.
+
+“Don’t say sixty yet.”
+
+“I wasn’t.”
+
+“You were thinking it.”
+
+“Maybe.”
+
+She pointed.
+
+“The interesting question is not whether it is base sixty. The interesting question is whether the same segmentation predicts structure somewhere else.”
+
+Cassian said, “Independent material.”
+
+“Yes.”
+
+Nico said, “Such as an ancient tablet.” Imani looked at him.
+
+“No.”
+
+He blinked.
+
+“Why not?”
+
+“Because you will search a million tablets until something looks satisfying.”
+
+Cassian nodded.
+
+“Pre-register.”
+
+Imani smiled for the first time.
+
+“There you are.”
+
+Pike asked, “What would you preregister?”
+
+Imani wrote three rules on the wall.
+
+ONE: Define the Antarctic segmentation before choosing comparison material.
+
+TWO: Choose comparison corpora by historical relevance, not visual similarity.
+
+THREE: State what result would count as failure. Nico read them.
+
+“You’ve made conspiracy theory very boring.”
+
+Imani capped the stylus.
+
+“That is how you find out whether it is true.”
+
+LOAM posted a quiet line at the bottom of the screen.
+
+RECOMMENDED: PRESERVE MULTIPLE PARSES UNTIL DISCRIMINATION.
+
+Imani looked at it.
+
+“Your machine and I may get along.”
+
+Cassian said, “It disagrees professionally.”
+
+“Even better.”
+
+Nico raised his recorder.
+
+“Can I quote you?”
+
+“No.”
+
+“On anything?”
+
+“No.”
+
+“Why did you come?”
+
+Imani looked again at the geometry beneath the ice.
+
+For the first time, something like unease crossed her face.
+
+“Because Pike sent me a sequence I could not explain.”
+
+Pike stiffened. Cassian turned.
+
+“What sequence?”
+
+Imani opened her bag and removed a printout.
+
+She laid it on the table.
+
+A column of normalized intervals, not the 3-6-12-30-60 sequence. Something longer.
+
+Copied from the Antarctic interface after the storm. Imani tapped the repeated divisions.
+
+“I don’t think this is Sumerian.”
+
+Nico said, “You keep saying that like bad news.”
+
+“It is.”
+
+“Why?”
+
+“Because I know what human borrowing looks like.”
+
+That evening, after Pike left and Nico finally stopped trying to make the phrase ancient accounting sound sinister, Imani stayed.
+
+Cassian found her at 01:17 with the room lights lowered and the raw reconstruction tiled across four displays.
+
+“You know there are beds,” he said.
+
+“I have met beds.”
+
+“That was not the question.”
+
+“It was not a good question.”
+
+She did not look away from the wall.
+
+Cassian brought her tea from the station galley. She accepted it without thanks, which he liked more than performative gratitude.
+
+“What are you testing?”
+
+“Whether I dislike your evidence because it is bad or because I dislike what everyone wants it to mean.”
+
+Cassian sat.
+
+“That sounds dangerously introspective.”
+
+“It is why academics invented peer review. We outsource self-awareness.”
+
+She zoomed into one cluster.
+
+“My father collected pseudo-history.”
+
+Cassian looked at her.
+
+Not the biographical fact he expected.
+
+“Ancient astronauts. Lost super-civilizations. Maps that supposedly showed Antarctica before it had ice. Every photograph of a carving became a rocket if you drew enough arrows on it.”
+
+“And you became an archaeolinguist.”
+
+“In part because I got tired of watching people admire ancient cultures only after taking their achievements away from them.”
+
+Cassian understood. Imani continued.
+
+“The ugliest version of the argument is always the same. These people could not have built this. They could not have calculated this. They could not have organized this. Therefore someone superior must have taught them.”
+
+“Aliens.”
+
+“Or Atlanteans. Or vanished Europeans. Or whatever civilization the speaker already imagines as more capable.”
+
+She pointed at the Antarctic geometry.
+
+“If this eventually connects to Mesopotamia, that cannot become an excuse to say Mesopotamians were too primitive to invent useful mathematics. They were not.”
+
+Cassian nodded.
+
+“Agreed.”
+
+“No. Not agreed as a courtesy. It has to be a rule.”
+
+He heard the difference.
+
+“A rule.”
+
+“Every claim must preserve human competence unless the evidence specifically removes it.”
+
+Cassian opened a new project note.
+
+EVIDENCE RULE - HUMAN CAPABILITY IS THE DEFAULT.
+
+Imani saw him type it.
+
+“Good.”
+
+“Anything else?”
+
+“Yes. Separate resemblance from inheritance.”
+
+She wrote three headings.
+
+VISUAL.
+STRUCTURAL.
+PREDICTIVE.
+
+“Visual resemblance is cheap. Humans see faces in rock.”
+
+Cassian nodded.
+
+“Structural?”
+
+“More useful. If two systems independently use the same unusual ordering constraints, error behavior, or ratio grammar, we pay attention.”
+
+“And predictive?”
+
+Her expression sharpened.
+
+“If a model derived from one source correctly predicts a feature in another source that nobody used to build the model, then I stop sleeping.”
+
+Cassian looked at the Antarctic wall.
+
+“That is basically how LOAM works.”
+
+“I know.”
+
+It was the first time she had said anything about LOAM without irritation. He smiled.
+
+“Careful.”
+
+“Do not enjoy this.”
+
+She returned to the image.
+
+Outside, wind pushed loose ice grains against the logistics module like dry sand. Cassian watched her work.
+
+For the first time since the response beneath the ice, he felt the investigation acquire a shape he trusted. Not belief.
+
+Rules for how belief would be earned.
+
+Imani's first argument was not with Nico.
+
+It was with Professor Rafi Dalan.
+
+He appeared on a secure call from Leiden wearing an old sweater and the expression of a man whose former student had just sent him something professionally dangerous.
+
+“You are pattern-matching,” he said.
+
+Imani did not flinch.
+
+“Possibly.”
+
+Cassian watched from the corner. Dalan enlarged the Antarctic marks.
+
+“You have damaged material, unknown orientation, unknown sign inventory, unknown medium conventions, unknown chronology, and a machine capable of exploring transformation space faster than any human scholar can audit.”
+
+“Yes.”
+
+“And you are excited.”
+
+“No.”
+
+“You are lying.”
+
+Imani smiled despite herself. Dalan had supervised her doctoral work on administrative sign systems.
+
+He knew exactly how she looked when frightened by something interesting.
+
+“What would satisfy you?” she asked.
+
+“Not resemblance.”
+
+“Agreed.”
+
+“Not base sixty by itself. Mesopotamia used sexagesimal mathematics. That does not make every sixty a telegram.”
+
+“Agreed.”
+
+“Not flood stories.”
+
+“Agreed.”
+
+“Not one spectacular translation.”
+
+“Especially agreed.”
+
+Dalan leaned closer to the camera.
+
+“Prediction.”
+
+Cassian looked up. Imani said, “Independent.”
+
+“Yes. Something derived from the Antarctic material that predicts a feature in an unopened source or unmeasured section.”
+
+“That is already our threshold.”
+
+Dalan's face softened.
+
+“Good.”
+
+Then hardened again.
+
+“And publish your failures.”
+
+Pike, listening remotely, said:
+
+“Absolutely not.”
+
+Dalan looked toward the source of the voice.
+
+“Then you do not want scholarship. You want confidence.”
+
+Pike replied, “I want operational security.”
+
+“Those are not mutually exclusive until someone makes them so.”
+
+The call became an argument about embargoed replication, redacted methods, and whether a classified discovery could survive ordinary peer criticism. Imani listened.
+
+Cassian realized the real institutional conflict had arrived.
+
+Not scientist versus conspiracy theorist. Science versus secrecy. Dalan finally said:
+
+“If you cannot show the world every result yet, then at minimum preserve the negative results with the same care as the positive ones.”
+
+Imani looked at Pike. Pike looked at Cassian. LOAM added:
+
+RECOMMENDATION: FAILURE ARCHIVE.
+
+Nico whispered, “That is a terrible podcast name.” Imani opened a new repository.
+
+FAILED PARSES.
+FAILED ALIGNMENTS.
+FAILED HISTORICAL MATCHES.
+FAILED BIOLOGICAL CORRELATIONS.
+
+Every dead end received provenance.
+
+If the conspiracy was real, it would have to survive a record of all the ways it failed to become one. She looked at Cassian.
+
+“This looks like something humans might have borrowed from.”

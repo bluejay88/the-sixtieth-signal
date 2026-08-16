@@ -1,0 +1,621 @@
+CHAPTER THREE
+MISSING WATER
+
+The problem with water was that everybody owned it after someone else had already used it.
+
+Cassian had learned that during the heat emergency of 2047, when cloud campuses, hospitals, farms, semiconductor plants, apartment towers, and municipal cooling systems all produced legally valid contracts for the same shrinking reservoirs.
+
+Nothing in the law required the water to exist six times.
+
+By noon, the Antarctic anomaly had become a water problem.
+
+LOAM found the path while Cassian was trying to prove the opposite.
+
+Southern Ocean circulation influenced fisheries. Fisheries affected protein substitution. Shipping delays altered fertilizer deliveries. Cooling demand changed energy prices. Energy prices changed desalination output. Desalination output changed agricultural water allocation in coastal regions already operating near threshold.
+
+No single link was extraordinary. The chain was.
+
+Cassian projected the causal path across the lab wall and watched it bridge half the planet.
+
+“Confidence at each edge.”
+
+Values appeared. Messy. Human.
+
+“Drop all edges below point six.”
+
+Half the graph vanished. The path remained.
+
+“Point seven.”
+
+More vanished. The path broke, reformed through a different branch, and still connected the Antarctic variable to two of the three food-risk clusters. Cassian hated that.
+
+Real systems possessed redundancy. If one path vanished, another often existed. That was why supply chains survived ordinary failure and collapsed spectacularly when enough ordinary failures aligned.
+
+He asked LOAM for the narrowest intervention that reduced projected famine risk. The answer was familiar.
+
+Fertilizer reserves.
+Port labor agreements.
+Cold-chain power guarantees.
+Emergency grain releases. Then a fifth item appeared.
+
+VALIDATE SOUTHERN OCEAN THERMAL FORECAST.
+
+He stared at it. Not “go to Antarctica.” Better. Less dramatic. More dangerous.
+
+A field validation could be legitimate.
+
+Oceanographic institutions already deployed autonomous vehicles and serviced long-duration sensors. Food resilience agencies funded climate observations because fisheries and shipping were part of food systems. Cassian did not need a secret mission. He needed bureaucracy. He called Mira again.
+
+She answered with, “I hate your coordinates.”
+
+“So you recognized them.”
+
+“I recognize the paperwork they triggered.”
+
+Cassian stood very still.
+
+“What paperwork?”
+
+“Old intergovernmental monitoring agreements. Mostly environmental. Some security classification layered on later.”
+
+“What are they monitoring?”
+
+“Anomalous heat flux. Brine movement. Seismic irregularity. Pick a decade, pick a theory.”
+
+“And the data gaps?”
+
+“Some are instrument loss. Some are access restrictions. Some are because agencies stopped sharing raw resolution after a series of disputes.”
+
+“Why?”
+
+Mira sighed.
+
+“Because every government on Earth eventually looks at an unusual physical phenomenon and asks whether someone else can weaponize it.”
+
+“That’s not an answer.”
+
+“It’s the most reliable answer in geopolitics.”
+
+Cassian paced.
+
+“Has anyone found a structure?”
+
+“No.”
+
+“Artificial signals?”
+
+“Not in anything I can see.”
+
+“Excavations?”
+
+“Cassian.”
+
+“I’m asking because the gaps look deliberate.”
+
+“Some are.”
+
+That chilled him more than denial would have.
+
+“What is classified?”
+
+“I don’t have clearance for all of it.”
+
+“You work for food resilience.”
+
+“Exactly. I can tell you that the anomaly has been watched. I cannot tell you that anyone understands it.”
+
+“So governments know.”
+
+“Governments know lots of things badly.”
+
+Cassian almost smiled.
+
+“Can we field-validate the thermal model?”
+
+“You?”
+
+“A joint food-climate expedition. Southern Ocean sensor service. Validate LOAM’s forecast chain.”
+
+“Your model found one of the most politically irritating places on Earth while looking for fertilizer exposure.”
+
+“Yes.”
+
+“You understand how that sounds.”
+
+“Yes.”
+
+“And you want me to put you on a plane.”
+
+“Yes.”
+
+Mira was silent. Then: “Send the model card.” Cassian did. He expected days.
+
+At 15:42, the authorization pipeline changed status.
+
+REVIEW EXPEDITED.
+
+That frightened him. No government moved quickly because a request was ordinary.
+
+Nico called while Cassian was reading the notice.
+
+“I found an old contractor archive.”
+
+“Legally?”
+
+“Publicly misconfigured.”
+
+“That is not the same thing.”
+
+“It is if you’re my lawyer.”
+
+“I am not your lawyer.”
+
+“Good. You’d be terrible.”
+
+Nico sent a scanned operations manual from a private polar logistics firm acquired and dissolved fifteen years earlier.
+
+Most pages were routine: fuel caches, weather windows, medevac protocols, crevasse procedures. Page sixty was missing.
+
+Cassian noticed before Nico mentioned it.
+
+“So are one-twenty and one-eighty,” Nico said.
+
+Cassian opened the index. The absent pages corresponded to appendices.
+
+“Could be scan corruption.”
+
+“Sure.”
+
+“Could be removed sensitive material.”
+
+“Sure.”
+
+“Could be coincidence.”
+
+“Sure.”
+
+Nico sounded infuriatingly agreeable. Cassian scrolled.
+
+“Why are you showing me this?”
+
+“Because the same scan has handwritten coordinates in the margin on page fifty-nine.”
+
+Cassian zoomed. One of LOAM’s six. His throat tightened.
+
+“Who wrote them?”
+
+“No idea.”
+
+“Date?”
+
+“Document is from 2038. Scan uploaded 2043.”
+
+“Anything else?”
+
+“Three letters. S.V.W.”
+
+“Meaning?”
+
+“No idea.”
+
+Cassian uploaded the page image to LOAM with strict instruction: no semantic speculation, metadata only.
+
+The system returned ink age estimation uncertainty, compression history, likely handwritten overlay, coordinate match. Then:
+
+PAGE SEQUENCE ANOMALY: MISSING PAGES OCCUR AT MULTIPLES OF 60.
+
+Nico whispered, “There it is.”
+
+Cassian hated hearing satisfaction in someone else’s fear.
+
+“Page removal could be based on section breaks.”
+
+“Then why those exact pages?”
+
+“I don’t know.”
+
+“Good.”
+
+“What?”
+
+“That’s the first useful sentence you’ve said all day.”
+
+Cassian closed the file. He checked the expedition status.
+
+APPROVED IN PRINCIPLE.
+
+“Too fast,” he said.
+
+Nico heard him.
+
+“What is?”
+
+“The field validation.”
+
+“How fast?”
+
+“Hours.”
+
+“That’s government fast or rich-person fast?”
+
+“Government fast.”
+
+Nico leaned back.
+
+“Then somebody wants you there.”
+
+Cassian looked again at the authorization chain.
+
+Three agencies had signed. Food Resilience. Polar Science Coordination.
+
+An office whose name he did not recognize: INTERNATIONAL ANOMALOUS ENVIRONMENTS DIRECTORATE.
+
+The approval contact was listed only as:
+
+M. PIKE.
+
+Nico whistled softly.
+
+“That sounds fake.”
+
+“It sounds intentionally boring.”
+
+“Even better.”
+
+Cassian clicked the directorate name. No public site. No press releases. No organizational chart. Only procurement traces.
+
+Satellite leases. Polar aviation. Seismic equipment. Deep-field shelters. Autonomous submersibles. The expenditures went back decades.
+
+“They already know the area,” Cassian said.
+
+“Apparently.”
+
+“No. Not apparently.”
+
+He turned toward the wall where LOAM’s famine map waited.
+
+“The question isn’t whether someone has looked.”
+
+Nico nodded.
+
+“It’s what they were looking for.”
+
+Cassian shook his head.
+
+“No.”
+
+He pointed to the three red crop regions.
+
+Mira's expedited approval arrived with a twelve-page environmental addendum and a one-line personal message.
+
+YOU ARE NOT THE FIRST PERSON TO ASK ABOUT SECTOR THREE.
+
+Cassian called immediately. She declined. He called again. Declined.
+
+On the third attempt she answered without video.
+
+“I am in a meeting.”
+
+“Then why answer?”
+
+“Because you do not understand escalation.”
+
+“Who else asked?”
+
+“Scientists.”
+
+“Which scientists?”
+
+“People with better manners.”
+
+“Mira.”
+
+He heard a door close on her end.
+
+“Listen carefully. There is no public case for anything extraordinary at those coordinates. There are anomalies. Governments monitor anomalies. That is what governments do.”
+
+“You sound rehearsed.”
+
+“I am trying to stop you from becoming the kind of person who mistakes secrecy for proof.”
+
+Cassian went quiet. Mira continued.
+
+“There are reasons raw polar datasets disappear. Sovereignty disputes. Dual-use mapping. Treaty politics. Companies protecting sensor methods. States protecting under-ice navigation knowledge. Climate activists have published more accurate interpretations of some sites than classified analysts, and classified analysts have better raw data than academics with worse models. None of that means a pyramid under Antarctica.”
+
+“I did not say pyramid.”
+
+“Nico will.”
+
+“He won't if he wants to keep his teeth.”
+
+“He already titled an episode 'The Moon Has Terms of Service.'”
+
+Cassian had heard that episode. It was annoyingly good. Mira lowered her voice.
+
+“The reason this moved fast is not that someone wants you to discover a secret. It is that someone wants to compare your prediction against theirs.”
+
+“Whose?”
+
+“I don't know.”
+
+“Pike?”
+
+A pause. There.
+
+“Mira.”
+
+“I did not say a name.”
+
+“You did not have to.”
+
+Cassian looked at the mission authorization again.
+
+“Should I go?”
+
+The question surprised both of them. Mira took a long breath.
+
+“You built LOAM because institutions optimize their own piece and miss the seam. If an institution with thirty years of polar monitoring is inviting the person whose model found their seam independently, I think you should understand why.”
+
+“That was almost encouragement.”
+
+“Do not get used to it.”
+
+Then, softer:
+
+“Cassian, take redundancy.”
+
+“What?”
+
+“Copies. Communications. People. Do not let one office become the only custodian of what you find.”
+
+He thought of Nico. Mira added, “That is not conspiracy advice. That is records management.”
+
+“Of course.”
+
+“And wear the ugly thermal boots. Not the sleek ones.”
+
+“How do you know I own sleek thermal boots?”
+
+“You dress like an architect who wants people to think he hikes.”
+
+The call ended. Cassian looked down at his shoes.
+
+The expedition approval had one condition Cassian had not expected: Psychological screening.
+
+He complained to Mira. She refused to remove it.
+
+“Polar mission.”
+
+“I have been in stressful environments.”
+
+“You once described a conference in Brussels as a hostile environment.”
+
+“It was.”
+
+“You are getting screened.”
+
+The evaluator asked ordinary questions.
+
+Sleep. Claustrophobia. Conflict. Substance use. Risk-taking. How Cassian responded when experts disagreed with his model. That last one took longer.
+
+“What happens if you are convinced you are right and everyone else is convinced you are wrong?”
+
+“I check the evidence.”
+
+“That is the professional answer.”
+
+“It is also what I do.”
+
+“Eventually?”
+
+Cassian smiled despite himself.
+
+“Eventually.”
+
+The evaluator wrote something. Then:
+
+“Do you believe LOAM is conscious?”
+
+“No.”
+
+“Do you believe it understands you?”
+
+“Depends what understand means.”
+
+“Do you talk to it when nobody else is present?”
+
+“Yes.”
+
+“Why?”
+
+“Because voice input is efficient.”
+
+The evaluator waited. Cassian sighed.
+
+“And because externalizing questions changes how I think.”
+
+“Does the system feel like company?”
+
+“No.”
+
+Too fast. He knew it. The evaluator knew it. Neither commented.
+
+Later, Cassian found Hye-Jin Park completing the same screening. She came out furious.
+
+“They asked if ice makes me feel small.”
+
+“What did you say?”
+
+“I said poor spatial reference makes everyone feel small.”
+
+Cassian laughed. She looked at him.
+
+“You are the AI person.”
+
+“Unfortunately.”
+
+“Do you think the thing under the ice is artificial?”
+
+“I think we do not know.”
+
+“Good.”
+
+She stepped closer.
+
+“If you arrive with a story already written, I will send you home.”
+
+“That is not your authority.”
+
+“It is if I stop the field operation for safety.”
+
+He liked her immediately. She continued.
+
+“The ice kills people who become narratively important to themselves.”
+
+“What does that mean?”
+
+“It means Antarctica does not care that your theory is interesting.”
+
+Cassian thought about that long after she left.
+
+A good expedition scientist did not merely understand ice. She resisted plot. That would matter.
+
+Two nights before departure, Cassian had dinner with his mother because Abena had threatened to come to the lab with food if he did not. He believed her. She arrived anyway, not to the lab.
+
+To his apartment, carrying a foil pan of jollof rice and a second bag containing things he had forgotten to buy for Antarctica.
+
+Socks. Hand warmers. Two packets of ginger candy. A small paper notebook. Cassian held up the notebook.
+
+“I have tablets.”
+
+“I know.”
+
+“Several.”
+
+“I know.”
+
+“So why?”
+
+“Because your several tablets require power.”
+
+He looked at her. She smiled.
+
+“Do not look at me like I just invented redundancy.”
+
+The word hit him because Ruth had used it the day before.
+
+Abena began putting food on plates.
+
+“You are going to Antarctica to look at ice because your computer found something in a famine model.”
+
+“That is an irresponsible summary.”
+
+“Is it wrong?”
+
+“No.”
+
+“Good.”
+
+She sat. For a while they ate without talking about the expedition.
+
+Abena told him about a neighbor’s daughter starting nursing school. A grocery store closing. A community garden losing access to a municipal lot because the lease had changed ownership systems and nobody knew which office could approve the renewal.
+
+Cassian listened more carefully than he would have a month earlier.
+
+Ownership system. Food access. Administrative dependency.
+
+His work followed him everywhere because everywhere was systems. Abena noticed his expression.
+
+“You are modeling me.”
+
+“No.”
+
+“You get a face.”
+
+“I do not have a modeling face.”
+
+“You absolutely do.”
+
+He set down his fork.
+
+“Are you worried?”
+
+“Of course.”
+
+“About the ice?”
+
+“About you being certain.”
+
+That surprised him.
+
+“I am not certain.”
+
+“You like being the person who can find the thing everyone else missed.”
+
+“That is not why I do the work.”
+
+“I did not say it was.”
+
+She leaned back.
+
+“You were eleven when the grocery cooperative closed.”
+
+Cassian remembered, not the closure itself. The month afterward.
+
+Long bus trips. Frozen vegetables. His mother learning which stores marked meat down on Thursdays.
+
+“You made charts,” Abena said.
+
+“I was eleven.”
+
+“You made charts of bus times and prices.”
+
+He smiled despite himself.
+
+“I was helping.”
+
+“You were trying to make the problem stop being able to surprise you.”
+
+The sentence landed hard. Cassian looked at his plate. Abena continued.
+
+“That is a useful thing to become.”
+
+“Mostly.”
+
+“Mostly.”
+
+She did not tell him not to go.
+
+That would have been easier. Instead she said:
+
+“Your machine finds things by connecting what other people keep separate.”
+
+“Yes.”
+
+“Then make sure you do not become the kind of person who keeps yourself separate from the cost.”
+
+He knew what she meant.
+
+Water. Power. The people behind infrastructure. Nico. The policies built from models after the modelers went home. Cassian nodded.
+
+Abena reached across the table and tapped the paper notebook.
+
+“Write down what surprises you.”
+
+“I have logs.”
+
+“Not data.”
+
+She looked at him.
+
+“What surprises you.”
+
+Cassian took the notebook. The first thing he wrote after she left was:
+
+I am more worried about being right than I thought.
+
+He stared at the sentence for a full minute. Then turned the page.
+
+Then added a second encrypted storage unit to the expedition request.
+
+“The question is why LOAM found it while trying to keep people fed.”

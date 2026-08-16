@@ -1,0 +1,125 @@
+“You are learning in the most dangerous possible direction.”
+
+She then showed them Plimpton 322. Not as a magical artifact.
+
+A damaged Old Babylonian mathematical tablet whose surviving table contained large sexagesimal place-value numbers and relationships associated with right triangles. She emphasized every uncertainty.
+
+Its archaeological context was unknown. Its left portion was missing. Scholars had debated what the table was for. Teaching? Problem generation? A broader mathematical exercise? Something else?
+
+“The uncertainty is useful,” Cassian said.
+
+Imani nodded.
+
+“Exactly. Real scholarship does not become weaker when it says we do not know. It becomes bounded.”
+
+LOAM displayed the Antarctic ratio set beside a mathematical abstraction derived from the tablet. Imani stopped it.
+
+“No visual juxtaposition.”
+
+Cassian raised an eyebrow.
+
+“Why?”
+
+“Because human brains will treat side-by-side images as an argument.”
+
+She had him convert both into anonymous matrices instead.
+
+Then she asked LOAM a narrower question:
+
+Do the Antarctic ratios preserve ordering properties under damage in a way comparable to positional mathematical tables? The system processed.
+
+YES, WITH MODERATE CONFIDENCE.
+
+“Moderate,” Imani said. “Good.”
+
+Cassian asked, “What would increase it?”
+
+INDEPENDENT PREDICTION OF MISSING STRUCTURE.
+
+The room went still. Imani looked at the damaged Antarctic sequence.
+
+Then at the fact that part of Plimpton 322 itself was missing.
+
+“No,” she said quietly.
+
+Nico looked delighted and terrified. Cassian understood her concern. A missing section was temptation.
+
+If they reconstructed it and later found whatever they predicted, that would cross from resemblance into something stronger.
+
+Imani said, “We preregister everything.” Cassian nodded.
+
+“Before looking at any additional archive return.”
+
+“Every expected value. Every alternate model. Every failure condition.”
+
+Nico asked, “And if it predicts the next section?”
+
+Imani turned toward the Antarctic feed.
+
+“Then I stop saying no automatically.”
+
+Dr. Laleh Vaziri joined the mathematical review because she expected to kill the hypothesis. She said so immediately.
+
+“I am here as pest control.”
+
+Nico loved her. Imani did not.
+
+Vaziri was a historian of mathematics with a reputation for publicly dismantling sensational claims about ancient numerical texts.
+
+She looked at the Plimpton comparison.
+
+“First problem: modern readers romanticize elegant mathematics.”
+
+Cassian said, “Meaning?”
+
+“We see a numerical table and assume theorem, astronomy, navigation, secret science. Sometimes a table is a table.”
+
+Imani nodded.
+
+“Agreed.”
+
+“Second: sexagesimal convenience is not a fingerprint.”
+
+“Agreed.”
+
+“Third: if LOAM searches enough mathematical transforms, it will find something impressive.”
+
+Cassian opened the preregistration log. Vaziri read it. Her expression changed slightly.
+
+“You limited the transform family before the comparison.”
+
+“Yes.”
+
+“How many candidate operations?”
+
+“Six.”
+
+“Why six?”
+
+Nico began to smile. Cassian said, “Operational categories justified by the damaged archive, not because six is narratively attractive.” Vaziri looked at Nico.
+
+“Good.”
+
+He stopped smiling. She spent three hours trying to break the ratio model.
+
+Changed normalization. Changed column assumptions. Removed one data region at a time. Injected plausible scribal errors. Tested synthetic tables.
+
+The Antarctic pattern weakened under some perturbations. That was reassuring.
+
+Under others it survived. Also reassuring.
+
+A perfect pattern would have been suspicious. Vaziri finally said:
+
+“This is not evidence of Mesopotamian contact.”
+
+Imani said, “Correct.”
+
+“It is not evidence the tablet encodes your archive.”
+
+“Correct.”
+
+“It is not evidence of aliens.”
+
+Nico sighed.
+
+“Correct.”

@@ -1,0 +1,446 @@
+CHAPTER SIX
+SIX COORDINATES
+
+The briefing took place in a room designed to make paranoia feel childish. No dark glass. No armed guards. No underground bunker.
+
+Just a government conference suite with bad coffee, soft gray walls, and a projector that took three attempts to connect.
+
+Maelin Pike arrived carrying paper. Cassian distrusted her immediately. Not because of the paper.
+
+Because she seemed like someone who had learned that appearing ordinary was more effective than appearing powerful.
+
+She was in her late fifties, silver beginning at one temple, posture precise without being military. She wore no visible security badge. Nico noticed that too. Pike sat across from them.
+
+“Southern Variance Watch began as a geophysical monitoring collaboration,” she said. “No extraterrestrial mandate. No archaeological mandate. No classified object.”
+
+Nico raised a hand. Pike looked at him.
+
+“Do not.”
+
+He lowered it. She placed six photographs on the table. Ice. More ice. Rock exposures. Instrument housings. Nothing. Cassian waited.
+
+“The coordinates correspond to recurring anomalies in thermal flux, local gravity residuals, acoustic propagation, and sensor behavior,” Pike said. “No single anomaly is unique. The combination is.”
+
+“How deep?” Cassian asked.
+
+“Variable. Our strongest subglacial estimate is beneath more than a kilometer of ice.”
+
+“Estimate of what?”
+
+“An interface.”
+
+Cassian caught the word.
+
+“Not a structure.”
+
+“I did not say structure.”
+
+“What makes it an interface?”
+
+“Signal behavior changes across it.”
+
+“Natural layer boundary?”
+
+“Possible.”
+
+“Material?”
+
+“Unknown.”
+
+“Drilling?”
+
+Pike’s mouth tightened.
+
+“Limited.”
+
+“Results?”
+
+“Contaminated.”
+
+Nico leaned forward.
+
+“By what?”
+
+Pike looked at him.
+
+“Drilling.”
+
+That silenced him. Cassian understood. Heat, vibration, fluid intrusion. You touched a sensitive system and destroyed the state you were trying to measure.
+
+Pike projected a graph. Six traces.
+
+Three broad harmonics stood out. 3. 6. 12. Then a slower sixty-minute recurrence.
+
+Cassian looked at LOAM’s output on his tablet. Same family.
+
+“Why sixty?” Nico asked.
+
+Pike said, “We don’t know.”
+
+“Tides?”
+
+“Partly correlated.”
+
+“Human schedules?”
+
+“No.”
+
+“Instrument design?”
+
+“No.”
+
+“Ancient Sumerians?”
+
+Pike stared at him. Nico smiled apologetically.
+
+“Had to clear it.”
+
+Cassian ignored him.
+
+“What exactly did LOAM predict?”
+
+Pike switched slides. A melt-brine event.
+
+Not surface melting. A transient change in subglacial water pressure and thermal transfer that would alter access near coordinate three.
+
+The predicted window lasted forty-seven minutes.
+
+Cassian felt a strange disappointment, not sixty. Good.
+
+Nature did not owe them numerology.
+
+“The current SVW model predicts this?” he asked.
+
+“No.”
+
+“How far off?”
+
+“Our ensemble gives a broad probability window across eleven days.”
+
+“And LOAM?”
+
+“Forty-seven minutes.”
+
+Cassian looked at the input list.
+
+“Because it includes food-system variables.”
+
+Pike nodded.
+
+“That makes no physical sense.”
+
+“Correct.”
+
+“Then why believe it?”
+
+“We don’t.”
+
+Nico said, “You approved an Antarctic expedition because you don’t believe him.” Pike turned to him.
+
+“We approved a sensor-validation expedition because Dr. Osei-Lorne’s model independently reproduced a timing relationship our own systems detect imperfectly.”
+
+Cassian pointed to the map.
+
+“What’s special about coordinate three?”
+
+“Historically?”
+
+“Yes.”
+
+“Highest rate of anomalous acoustic return.”
+
+“Anything else?”
+
+Pike hesitated. Cassian noticed. Nico noticed Cassian noticing.
+
+“Director.”
+
+Pike slid a paper photograph across the table.
+
+It showed a borehole inspection frame from 2051.
+
+At the bottom of the image, barely visible in the dark, was a straight edge. Too straight. Cassian leaned closer.
+
+“Tool artifact?”
+
+“Maybe.”
+
+“Rock fracture?”
+
+“Maybe.”
+
+“Why show us?”
+
+“Because your system predicts the water pressure drop will expose that interface to a new instrument package without drilling through it.”
+
+Nico whispered, “There it is.” Pike ignored him.
+
+“You will not excavate. You will not alter the site. You will deploy passive sensors only.”
+
+“And if we see something artificial?” Nico asked.
+
+Pike answered immediately.
+
+“You will record it.”
+
+“And publish?”
+
+“No.”
+
+“Then why am I there?”
+
+“Because the food-resilience funding requires an independent documentation process.”
+
+Nico looked pleased. Pike continued, “And because I would rather know where the copy is.” His smile faded. Cassian almost admired her.
+
+Pike handed him a second document.
+
+MISSION AUTHORIZATION.
+
+Three signatures. Three agencies. He checked the conditions.
+
+LOAM could run in an isolated field node.
+
+No external autonomous control. No drilling authority.
+
+No direct transmission from coordinate three during the event window.
+
+“Why isolate LOAM?”
+
+“Because we do not know what causes the sensor synchronization.”
+
+“You think it can infect software?”
+
+“No.”
+
+“Then?”
+
+Pike said, “I dislike unknown systems talking to other unknown systems.”
+
+Nico whispered, “That was almost cool.”
+
+Pike ignored him again. Cassian studied the harmonic graph.
+
+“Have the six coordinates always been active?”
+
+“No.”
+
+“Pattern?”
+
+Pike changed slides. The events clustered over decades.
+
+Not regular enough to be a clock.
+
+Not random enough to be comfortable.
+
+LOAM, running locally on Cassian’s tablet, highlighted phase relationships. A message appeared.
+
+REQUEST: COMPARE INDEPENDENT CLOCK DRIFT.
+
+Cassian looked at Pike.
+
+“Do you have raw clock metadata?”
+
+Her expression changed for the first time.
+
+“How did it know to ask that?”
+
+“It didn’t know. That’s the correct test for synchronization.”
+
+Pike watched him.
+
+“Your system has never seen our 2041 report.”
+
+“No.”
+
+“Prove it.”
+
+Cassian opened the model audit, access permissions, network logs. Pike read.
+
+Nico looked from one to the other.
+
+“What was in 2041?”
+
+Pike’s face went neutral again. Cassian answered for her.
+
+“Three synchronized events across instruments without common clocks.”
+
+Nico leaned back slowly. LOAM displayed another line.
+
+IF UNSYNCHRONIZED CLOCKS CONVERGE AFTER DRIFT CORRECTION, SHARED MECHANISM PROBABILITY INCREASES.
+
+Pike looked at the screen. Then at Cassian.
+
+“That is almost exactly what our team wrote eighteen years ago.”
+
+Cassian felt no triumph. Only dread.
+
+“Then your team and LOAM are asking the same scientific question.”
+
+Pike gathered the photographs.
+
+“Yes.”
+
+She stood. The expedition team distrusted Cassian before they met him.
+
+He could tell because they were polite.
+
+Scientists who trusted you argued early. Scientists who distrusted you asked neutral questions and waited for your ignorance to reveal itself.
+
+At the preflight safety briefing, Dr. Hye-Jin Park reviewed Cassian's thermal forecast with the controlled expression of someone reading a horoscope submitted in spreadsheet form.
+
+“Your confidence interval is narrower than the meteorological ensemble,” she said.
+
+“Yes.”
+
+“Your model has no glaciological mechanism explaining that certainty.”
+
+“Correct.”
+
+“And you still think it deserves field time.”
+
+“I think it deserves falsification.”
+
+Park looked at him for a moment.
+
+“Better answer.”
+
+The oceanographer, Tomas Venn, was less generous.
+
+“How much compute did this miracle consume?”
+
+“Depends which training stage.”
+
+“Water?”
+
+Cassian knew what he was asking.
+
+“The current federated runs use reclaimed-water cooling in most regions. Legacy training was worse.”
+
+“Worse how?”
+
+“Enough that we redesigned procurement.”
+
+Venn folded his arms.
+
+“So an AI system partly responsible for industrial water demand is sending us to Antarctica because it discovered climate risk.”
+
+Nico, two seats away, became very interested in his notebook. Cassian answered carefully.
+
+“LOAM is not responsible for the AI industry's water use.”
+
+“Convenient.”
+
+“And pretending computation is immaterial is also convenient.”
+
+Venn waited. Cassian continued.
+
+“The system exists inside the problem it models. Power, water, mineral supply, labor, networks. That is why its infrastructure is included in its own resource accounting.”
+
+“Does it ever recommend using less of itself?”
+
+“Yes.”
+
+That answer surprised him.
+
+“Often?”
+
+“More than its investors liked.”
+
+A few people laughed. The room relaxed by one degree. Park tapped the forecast.
+
+“If the window fails?”
+
+“I publish the failure.”
+
+Nico looked up. Cassian caught his eye. The old argument again. Park nodded.
+
+“Then we have a scientific mission.”
+
+Later, at equipment checkout, she handed Cassian a pair of ugly insulated boots.
+
+“Your other pair will crack below minus thirty.”
+
+He looked at them. Mira's voice returned in his head. Wear the ugly thermal boots.
+
+Lian Vorr finally explained what “interagency safety” meant after Nico asked for the seventh time.
+
+“It means I keep different agencies from becoming hazards to one another.”
+
+“That sounds made up.”
+
+“It is very real.”
+
+They were reviewing expedition cargo.
+
+Scientific equipment had one chain of custody. Food another. Communications another. Pike’s systems another.
+
+Every organization assumed its own procedures were the procedures.
+
+Lian’s job was to find the gaps between them.
+
+Cassian watched her reject a battery pack because its emergency shutoff required a cloud credential.
+
+“We will have local auth.”
+
+“Until you don’t.”
+
+“The manufacturer certifies offline mode.”
+
+“Show me.”
+
+Cassian opened the manual. The offline mode required a token refreshed every thirty days.
+
+Their deployment would cross the renewal boundary. He stared. Lian smiled without pleasure.
+
+“Seams.”
+
+Cassian looked at her.
+
+“You use that word?”
+
+“Everyone who works disasters eventually does.”
+
+She replaced the battery system with an older model. He objected.
+
+“Lower energy density.”
+
+“Manual serviceable.”
+
+“Heavier.”
+
+“Yes.”
+
+“Less efficient.”
+
+“Yes.”
+
+“Why are you enjoying this?”
+
+“Because efficiency is often a machine for moving risk somewhere nobody is looking.”
+
+Cassian stopped. The sentence belonged in LOAM.
+
+He asked permission to quote her in the model documentation.
+
+“No.”
+
+“Why?”
+
+“Because I do not want to become one of your inspirational anecdotes.”
+
+Nico, nearby, laughed loudly. Lian turned.
+
+“That includes you.”
+
+He stopped. During final manifest review, she required three independent location records for every critical field asset:
+
+digital manifest. printed crate list. physical marking.
+
+Nico noticed the number. He almost said something. Then remembered the rules. Sometimes three meant nothing cosmic.
+
+Sometimes three was simply what people arrived at when one copy felt fragile.
+
+That distinction was becoming important. Cassian took them without argument.
+
+“That is why you’re going south.”

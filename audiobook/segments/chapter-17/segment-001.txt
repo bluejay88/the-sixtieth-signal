@@ -1,0 +1,123 @@
+CHAPTER SEVENTEEN
+COMPARE
+
+Gate 120 did not feel like a gate.
+
+It felt like three arguments losing at once.
+
+The geophysical argument said the Antarctic structure could be natural.
+
+The textual argument said human sexagesimal tradition could explain the numerical similarities.
+
+The biological argument said population history could explain the genomic discontinuities.
+
+Cassian agreed with all three. Separately. The problem was together.
+
+LOAM placed the domains on three isolated machines.
+
+No shared feature engineering. No shared latent representation. No unified scoring pipeline.
+
+Pike hated the redundancy. Cassian insisted.
+
+“If the same architecture analyzes everything, convergence could be an artifact of LOAM itself.”
+
+Imani nodded.
+
+“Your machine likes unified explanations.”
+
+“Every model does.”
+
+Arendt joined remotely.
+
+“So penalize unity.”
+
+Cassian smiled.
+
+“Already planned.”
+
+Nico sat behind them under strict instruction not to narrate. He lasted fourteen minutes.
+
+“Just to be clear,” he said, “we are designing an experiment to prevent the AI from inventing the plot of this book.”
+
+Cassian looked at him.
+
+“Yes.”
+
+“Great.”
+
+Three teams received three problems.
+
+GEOPHYSICS:
+Could the Antarctic response structure arise from known natural or instrumental processes?
+
+TEXT:
+Could the mathematical residue in selected Mesopotamian corpora arise from known sexagesimal number culture and copying behavior without external influence?
+
+BIOLOGY:
+Could the genomic clustering arise from population structure, selection, introgression, and sampling?
+
+Each team was required to produce the strongest ordinary explanation.
+
+Not prove the mystery. Attack it.
+
+Pike said, “If all three ordinary models survive, we stop escalating.” Cassian said, “Agreed.” Nico asked, “Stop what?”
+
+“Claims.”
+
+“Not investigation.”
+
+“No.”
+
+“Fine.”
+
+The geophysics team reported first.
+
+Subglacial water systems could explain some timing. Electromagnetic effects could explain some sensor behavior. Mechanical coupling could explain some pulses.
+
+No single known mechanism explained the information-sensitive response under blinded energy controls.
+
+But a combination might. Ordinary explanation: plausible, incomplete. Text team.
+
+Sexagesimal culture explained most of the King List behavior. Copying and magnitude effects explained more. The Antarctic-derived checksum transform still produced a residual above control corpora, but the confidence interval overlapped with some Mesopotamian mathematical texts.
+
+Ordinary explanation: strong, incomplete. Biology.
+
+Ghost populations and selection explained most discontinuities. Regulatory spacing ratios were vulnerable to multiple-testing effects. The blinded ancient-genome match remained statistically unusual but not singular. Ordinary explanation: strong. Nico leaned back.
+
+“So the conspiracy dies.”
+
+Cassian said, “Maybe.” He felt relief.
+
+Then LOAM—three separate LOAM instances, deliberately stripped of cross-domain context—returned their summaries.
+
+The geophysical instance produced a set of residual positions.
+
+The text instance produced a set of residue classes.
+
+The biological instance produced a set of normalized spacing intervals.
+
+They had not been told about one another.
+
+Cassian had written the comparison script himself, outside LOAM. He ran it. Three plots appeared. Different units. Different domains. Different error bars.
+
+He normalized only scale, not pattern. The same family emerged.
+
+3. 6. 12. 30. 60, not perfectly. Enough. Imani went pale.
+
+Arendt said, “Show code.” Cassian did.
+
+Pike said, “Have someone else run it.” They did. Same result.
+
+“Randomize labels.”
+
+Result vanished.
+
+“Shuffle domains.”
+
+Vanished.
+
+“Change normalization.”
+
+Weakened under some methods, survived others.
+
+“Remove the King List.”

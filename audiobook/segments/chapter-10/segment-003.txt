@@ -1,0 +1,127 @@
+Cassian understood. Those intervals were not one of the transmitted test patterns.
+
+They were the full family everyone had been trying not to force.
+
+Nico said, “Did we send that?”
+
+“No,” Cassian said.
+
+“Did SVW ever send it?”
+
+Pike did not answer. Cassian turned to her.
+
+“Director.”
+
+Her voice was almost inaudible.
+
+“No.”
+
+The seam in the acoustic image widened.
+
+Not physically, perhaps. The return changed.
+
+A new cavity came into view behind it.
+
+LOAM froze the image automatically for comparison.
+
+At the bottom of the screen, its audit layer created a new persistent anomaly record, not a recommendation.
+
+Not a semantic claim. Just the coldest possible description.
+
+COUNTERPART RESPONSE CANNOT BE EXPLAINED BY CURRENT GEOLOGIC MODEL.
+
+Outside, the storm had stopped. The silence was absolute. Nico lowered his camera.
+
+For once, nobody spoke for him to record.
+
+Cassian looked at the impossible geometry under more than a kilometer of Antarctic ice and understood that nothing in his life had prepared him for the most ordinary fact of the night.
+
+They did not celebrate the response.
+
+That was Pike's first order after the three-six-twelve-thirty-sixty sequence ended.
+
+“Nobody uses the word contact,” she said.
+
+Nico lowered his camera.
+
+“What word can we use?”
+
+“Response.”
+
+“Responsive what?”
+
+“Unknown.”
+
+Park was already checking the hardware for hidden failure modes. She swapped cables. Replaced the acquisition board. Ran a known acoustic source through the same chain. The geometry remained.
+
+Cassian sat beside LOAM's field node and opened the provenance record. Every line of data that produced the artificiality estimate had to be reproducible. He forced the system to rebuild the result from raw sensor files, then again with one instrument removed, then again with two. The confidence fell. It did not collapse.
+
+“Good,” he whispered.
+
+Nico heard him.
+
+“Good?”
+
+“If removing sensors did nothing, I'd suspect the model was overdetermined by prior assumptions.”
+
+“You are relieved the miracle got less miraculous.”
+
+“Yes.”
+
+Nico sat beside him. For a while they watched Park's team work.
+
+“You know this changes your life,” Nico said.
+
+“We do not know what it is.”
+
+“That has never stopped history.”
+
+Cassian looked at him.
+
+“Do not make me a character in your story.”
+
+Nico's expression softened.
+
+“You already are.”
+
+Cassian hated the answer because it was true.
+
+The public version of Cassian Osei-Lorne had existed for years: genius, technocrat, climate hypocrite, AI savior, AI villain, depending on who needed him. If the Antarctic evidence became public, every prior argument about him would be recycled into a new mythology.
+
+The man who built the machine that found the gods.
+
+He could already see the headline.
+
+“I did not build it for this,” he said.
+
+Nico looked at the buried geometry.
+
+“Nobody builds the thing for what it eventually becomes.”
+
+That sentence unsettled Cassian more than the pulses.
+
+Behind them, Pike spoke quietly into an encrypted handset. The recovery team changed posture.
+
+Park stopped a calibration halfway through. Cassian stood.
+
+“What?”
+
+Pike ended the call.
+
+“The interface response was detected at four additional SVW sites.”
+
+“Simultaneously?”
+
+“Within clock-correction limits.”
+
+Cassian looked at the map. Six coordinates. One local experiment. Multiple distant responses.
+
+The Antarctic site was not a buried object in the ordinary sense. It was distributed. Or connected.
+
+Or they still understood nothing. Cassian preferred the third answer.
+
+After the first structured response, nobody slept. They pretended to.
+
+Cassian lay in a field bunk listening to the heating system cycle and the wind pick at the exterior panels.
+
+At 03:14, his terminal lit. LOAM had generated no alert. Just a queued audit question.

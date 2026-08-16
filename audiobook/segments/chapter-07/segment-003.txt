@@ -1,0 +1,131 @@
+Nine minutes felt longer than the forty-seven-minute model window.
+
+When visibility returned, Cassian was shocked to find camp almost directly behind him.
+
+His internal map had been ninety degrees wrong. That stayed with him.
+
+Orientation was confidence plus landmarks. Remove the landmarks and the mind supplied direction anyway.
+
+That night he wrote the observation into LOAM's field notebook under HUMAN FACTORS.
+
+Pike saw it during the sync review.
+
+“Why record that?”
+
+“Because we are going to interpret ambiguous data while tired, cold, and expecting a pattern.”
+
+She nodded.
+
+“Good.”
+
+Cassian added another line.
+
+THE TEAM'S CERTAINTY IS ALSO A SENSOR. IT CAN DRIFT.
+
+Nico read it over his shoulder.
+
+“That's disgustingly quotable.”
+
+“Do not.”
+
+Nico photographed it anyway. Later, Cassian woke at 02:16 to the sound of ice shifting under camp, not cracking. Something lower, a pressure groan transmitted through the ground.
+
+He lay in darkness and remembered that beneath him were more than a thousand meters of frozen history, every layer preserving atmospheres no human had breathed.
+
+It occurred to him that civilization's obsession with the future had made the planet's past seem passive.
+
+Ice was not passive. It moved. It buried. It preserved.
+
+The first night on the ice, Hye-Jin Park made everyone walk away from camp, not far. Two hundred meters. Tethered in pairs. No instruments except emergency radios.
+
+Cassian assumed it was acclimatization. It was not.
+
+“Turn around,” Park said.
+
+The camp lights were visible behind them.
+
+“Now close your eyes.”
+
+Nico said, “Absolutely not.”
+
+“Then go back.”
+
+He closed them. Wind pushed against Cassian’s hood. Park waited thirty seconds.
+
+“Point toward camp.”
+
+Everyone pointed. Cassian opened his eyes.
+
+His arm was almost ninety degrees wrong. Nico was worse. Park said:
+
+“Your internal compass is fiction.”
+
+Cassian looked at the lights.
+
+“But I knew—”
+
+“You felt.”
+
+She moved down the line.
+
+“In whiteout, confidence survives after reference disappears.” Park pointed back toward the camp lights. “And a baseline isn't nature. It's where you started measuring.” The sentence sounded like field safety until Cassian remembered how many models quietly treated their starting conditions as if the world had chosen them.
+
+Imani was not there yet to hear the sentence.
+
+She would have loved it. Park continued.
+
+“People walk in circles because the body is asymmetric. They correct for errors they cannot perceive.”
+
+Cassian thought of model drift. Of hidden priors.
+
+Of systems recursively adjusting around a wrong assumption.
+
+“Why teach this now?”
+
+“Because tomorrow your equipment may tell you something impossible.”
+
+She looked at him directly.
+
+“If the instruments and your story disagree, do not immediately assume the story is brave.”
+
+Nico asked:
+
+“What if the instruments disagree with each other?”
+
+“Good.”
+
+Park smiled.
+
+“Then you have science.”
+
+The exercise stayed with Cassian.
+
+At Gate 180, months later, when Imani said orientation was wrong, his body remembered pointing confidently into empty white.
+
+The first deep-field transit almost failed because of a door.
+
+Not a blizzard, not a crevasse. A door.
+
+The pressure seal on the forward equipment module would not confirm closure. The indicator said green.
+
+Park said it was not closed. Lian checked the latch physically.
+
+A strip of ice no thicker than a fingernail had formed inside the lower gasket.
+
+The sensor did not see it.
+
+Nico watched from behind the safety line.
+
+“So the machine says closed.”
+
+Park nodded.
+
+“The door says otherwise.”
+
+Cassian crouched beside Lian. The seal looked perfect.
+
+“That much ice matters?”
+
+“In this temperature gradient? Enough.”
+
+Lian scraped it free. The indicator stayed green the entire time.

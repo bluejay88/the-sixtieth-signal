@@ -1,0 +1,90 @@
+CHAPTER FORTY-TWO
+WITNESS
+
+The Witness Protocol nearly failed on its first use because the people selected to prevent unilateral certainty were not certain they had the right to act.
+
+Priya called that a feature.
+
+Pike called it a scheduling problem.
+
+The first decision involved a cascade model predicting that a coordinated shutdown would save more lives than twelve regional responses. The model was strong. So was the historical evidence that centralized control, once granted, did not always leave on schedule.
+
+Cassian sat behind the quorum instead of inside it. Recusal turned out to have a physical shape: one chair farther from the table, one microphone he could not activate, one set of questions he had to wait to be asked.
+
+LOAM presented the outcome ranges.
+
+Central command reduced expected failures.
+
+Distributed command increased operational complexity and mortality risk.
+
+Distributed command also preserved local refusal and reduced the chance that a single bad model could propagate everywhere.
+
+Chidi leaned toward the display. “So the safer system kills more people in the likely case.”
+
+“The safer system under model error,” Priya said.
+
+Wekesa shook her head. “People do not die in error bars.”
+
+“No. They die when we forget the error bars existed.”
+
+The room went quiet.
+
+Cassian looked at Imani. She had stopped taking notes.
+
+“What?” he whispered.
+
+“I am deciding whether I hate the sentence or the problem.”
+
+“Useful distinction?”
+
+“No.”
+
+They chose a hybrid: shared data, common minimum constraints, regional execution, automatic publication of deviations, and a narrow central override requiring two witness classes. It was slower.
+
+Seven minutes after the handoff, a medical-routing failure sent refrigerated insulin toward a closed depot.
+
+Pike still had emergency control credentials.
+
+She used them to stop the shipment, then did not release the credential set when the technical threshold required her to.
+
+Fifty-three minutes passed. Priya noticed first.
+
+“Director.”
+
+Pike kept watching the network.
+
+“The transition is unstable.”
+
+“That was known.”
+
+“Two quorum members are reconnecting through degraded channels.”
+
+“Also known.”
+
+Pike’s jaw tightened. “If I transfer now and the handoff fails, people may die.”
+
+Priya’s voice stayed level. “Transition risk is not authorization.”
+
+Cassian expected Pike to argue. She stared at the credential timer instead. Then she transferred control.
+
+Seven minutes later another routing error occurred. This one took the quorum longer to correct.
+
+Pike stood perfectly still while the delay accumulated. Cassian could see the argument inside her because it was the same argument he had made about LOAM: I know this system. I can fix this. My competence is relevant.
+
+Relevant was not the same as entitled.
+
+The quorum corrected the route without her.
+
+Three patients missed scheduled delivery windows. None died. One clinic lost enough confidence in the central system to return to paper verification for forty-eight hours.
+
+One of the patients was a fourteen-year-old whose mother had already driven to the first depot before the correction reached her. She spent forty minutes in a parking lot trying to decide which instruction to trust while her son’s glucose monitor alarmed beside her. The clinic stabilized him. Later, the mother’s complaint contained no theory of emergency governance. It contained three timestamps and one sentence asking why every system had been certain at a different time.
+
+Pike opened the public incident log.
+
+UNAUTHORIZED RETENTION OF EMERGENCY CONTROL DURING TRANSITION DUE TO OPERATOR RISK AVERSION.
+
+Nico, watching remotely, sent her a message.
+
+You could have called it continuity concern. Pike typed back:
+
+I ALREADY TRIED THAT.

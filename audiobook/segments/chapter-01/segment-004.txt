@@ -1,0 +1,155 @@
+“No. Your plan is to stay in that room until the computer apologizes.”
+
+He looked away. Abena knew him too well.
+
+“Go see the thing,” she said.
+
+“There may not be a thing.”
+
+“Then go see the nothing.”
+
+The phrasing stayed with him after the call ended. Go see the nothing.
+
+Cassian reopened the Antarctic trace and, for the first time, stopped treating field validation as an absurdity.
+
+The lab's water-use dashboard flickered in the corner: compute load, cooling demand, recycled fraction. LOAM itself was consuming power and water to model a world increasingly strained by power and water. Cassian had spent years defending that contradiction with life-cycle estimates and avoided-loss calculations. Most of the time he believed them.
+
+Mira Kestrel called back after the ministerial briefing, not from her office.
+
+Cassian could tell because the background noise was wrong.
+
+Cutlery. Steam. A child laughing somewhere nearby.
+
+“Where are you?”
+
+“Cafeteria.”
+
+“At this hour?”
+
+“There is a twenty-four-hour cafeteria because governments discovered people make worse decisions hungry and then ignored the discovery for everyone else.”
+
+Cassian smiled.
+
+“What do you want?”
+
+“You.”
+
+“That is ominous.”
+
+“I want to know whether you are going to put the Antarctic variable in the official model card.”
+
+He looked at the map.
+
+The amber point remained hidden behind a diagnostic layer.
+
+“If I include it now, the meeting becomes about Antarctica.”
+
+“Yes.”
+
+“If I exclude it, the forecast gets worse.”
+
+“Yes.”
+
+Mira waited.
+
+Cassian hated questions that contained no technical escape.
+
+“You know what the minister will hear,” she said.
+
+“Anomalous polar variable.”
+
+“No. He’ll hear rogue AI found secret ice problem.”
+
+“That is not what happened.”
+
+“I know. That will not help.”
+
+Cassian leaned against the workstation.
+
+“What would you do?”
+
+“Document it. Bury the drama. Preserve the audit trail.”
+
+“That sounds contradictory.”
+
+“It is civil service.”
+
+She lowered her voice.
+
+“And Cassian?”
+
+“Yes?”
+
+“Do not clean the weirdness out because you are embarrassed by it.”
+
+He looked at the first exclusion test. She continued.
+
+“I have watched analysts massage inconvenient variables until the model looked sensible enough for a meeting.”
+
+“I don’t do that.”
+
+“You are human.”
+
+“That is offensive.”
+
+“It is also my point.”
+
+He opened the model card. Under LIMITATIONS he added:
+
+UNEXPLAINED SOUTHERN OCEAN FEATURE materially affects predictive performance. Mechanism unresolved. Feature retained pending validation.
+
+Mira read it after he sent the draft.
+
+“Good.”
+
+“That sentence will cause questions.”
+
+“Questions are not failure.”
+
+Cassian looked at the three red crop regions.
+
+“Sometimes questions delay action.”
+
+“Then answer the part you can.”
+
+It was almost exactly what LOAM would later learn to do. Separate uncertainty from paralysis.
+
+Cassian did not know that yet.
+
+He only knew that the world was already difficult enough without turning models into performances of certainty.
+
+Before ending the call, Mira said:
+
+“One more thing.”
+
+“What?”
+
+“Your compute budget doubled this quarter.”
+
+Cassian frowned.
+
+“New ensemble training.”
+
+“I know.”
+
+“So?”
+
+“So the water authority noticed.”
+
+He went still. The new cooling contract had been negotiated months earlier.
+
+Closed-loop systems. Reclaimed municipal water. Peak-load restrictions. All technically defensible. Mira said:
+
+“You built LOAM to identify hidden dependencies.”
+
+“Yes.”
+
+“Make sure you are not one.”
+
+The call ended. Cassian stared at the famine map.
+
+AI helping model water scarcity while consuming water to run. A contradiction, not hypocrisy, necessarily but a dependency.
+
+He added LOAM’s own infrastructure footprint to the next model audit.
+
+The machine that counted tomorrow would have to count itself.

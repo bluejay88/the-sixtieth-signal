@@ -1,0 +1,141 @@
+Arendt said, “Correct.” Pike looked irritated.
+
+Nico looked relieved that someone else had said it.
+
+Then LOAM highlighted something not in the timing.
+
+A structural pattern in the genomic regions. Three clusters.
+
+Each contained internal six-part regulatory architecture by one annotation scheme.
+
+Cassian immediately said, “Could be biology’s own structure.” Arendt nodded.
+
+“Almost certainly.”
+
+LOAM continued.
+
+The pattern was not the count. It was spacing ratios.
+
+When normalized, three regions shared a ratio family with the Antarctic checksum. Arendt leaned toward the screen.
+
+“No.”
+
+Cassian felt a chill. Not because she rejected it.
+
+Because she sounded like Imani had on arrival.
+
+“Explain why no,” he said.
+
+“Genomes are full of patterns. Regulatory regions especially. If you mine enough spacing, you can find every number humans care about.”
+
+“Agreed.”
+
+She looked at him, surprised.
+
+“So we pre-register a discrimination test.”
+
+Arendt was quiet. Then:
+
+“Use populations the SVW team never analyzed.”
+
+Pike said, “Which?”
+
+“Newly published ancient genomes. Different region. Similar period if possible. I’ll choose them.”
+
+Cassian nodded.
+
+“Blind.”
+
+“Yes.”
+
+Imani said, “And define failure.” Arendt smiled.
+
+“Now I like this room.”
+
+They designed the test. No searching for exact sequence motifs. No selecting genomes after results. No widening date ranges. No redefining the ratio family. No discarding negative cases. Arendt chose twelve ancient individuals.
+
+LOAM was given the rule. Most showed nothing. Good. Two produced weak partial matches.
+
+One produced a strong match. Cassian felt disappointment.
+
+One out of twelve could be chance.
+
+Arendt ran permutation tests. The result remained unusual, not impossible, not proof.
+
+Then she looked at the individual’s archaeological context. Her face changed.
+
+“What?”
+
+Imani asked. Arendt opened the site report.
+
+The individual came from a floodplain settlement. Nico inhaled. Imani said, “Do not.”
+
+“I didn’t say anything.”
+
+Cassian almost laughed. Arendt scrolled.
+
+No flood myth. No sky cult. No ancient mystery. Just a settlement.
+
+But the burial contained a small carved token.
+
+Three notches. Then six. Nico actually stood.
+
+Imani pointed at him without looking.
+
+“Sit.”
+
+He sat. Cassian said, “Photograph provenance?” Arendt checked.
+
+“Published before SVW had access to the genome.”
+
+“Could be ordinary counting.”
+
+“Almost certainly.”
+
+“Then irrelevant.”
+
+Imani studied the token.
+
+“Maybe.”
+
+Cassian looked at her.
+
+“You’re the one who taught us not to use resemblance.”
+
+“Yes.”
+
+The biological result came back at 04:26 local time.
+
+Cassian knew because Imani called him before the alert reached his terminal. She did not say hello.
+
+“Come downstairs.”
+
+He heard something in her voice, not panic. Restraint under pressure.
+
+Cassian was in the lab three minutes later.
+
+Quispe had the paleogenomics comparison on the wall.
+
+Linh Arendt stood beside her with both hands in her pockets. Nobody looked triumphant. Good.
+
+The result was narrower than the public would eventually make it.
+
+Several ancient human samples preserved genomic signatures inconsistent with known population processes at the confidence levels the team had preregistered, not alien genes.
+
+Not a hidden species marker. Patterns of modification. Targeted.
+
+Heritable in some lineages. Absent in others.
+
+Quispe pointed at the strongest region.
+
+“We have an intervention signature.”
+
+Cassian stared.
+
+“How strong?”
+
+She gave him the full answer instead of a headline.
+
+Coverage quality. Contamination controls. Reference populations. Alternative demographic models. Laboratory replication. Then:
+
+“Strong enough that I am willing to put my name on engineered alteration. Not strong enough to tell you who did it from the genome alone.”

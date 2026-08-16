@@ -1,0 +1,136 @@
+CHAPTER SIXTEEN
+THE FIELD OF THREE GRAVES
+
+The bodies had not been found under Antarctica. Cassian was grateful for that.
+
+Three ancient human burials beneath the ice would have turned every careful uncertainty into a headline before anyone finished measuring a bone.
+
+The graves were in Central Asia.
+
+A dry valley. A cave system. Excavated years earlier under an unrelated paleogenomics project. Pike projected the site plan.
+
+Three individuals from the same broad period. Different burial positions. No obvious elite goods. No inscriptions. No geometry that screamed ritual to outsiders.
+
+Imani read the archaeological report in silence.
+
+“What did SVW want with these?”
+
+Pike said, “Nothing at first.”
+
+“That is the only answer I like.”
+
+“The genetics team flagged an unusual cluster.”
+
+Cassian asked, “Mutation?”
+
+“Not singular.”
+
+Pike pulled up three genomic analyses.
+
+Cassian was not a geneticist. He knew enough to distrust summaries that collapsed population history into arrows.
+
+Imani knew less technically but more archaeologically.
+
+“Where is the ancient DNA specialist?”
+
+“Joining remotely.”
+
+A woman appeared on screen.
+
+Dr. Linh Arendt. Population geneticist. No patience.
+
+“Before we begin,” she said, “if anyone uses the phrase ‘alien DNA,’ I disconnect.”
+
+Nico raised both hands.
+
+“Everybody is taking away my best lines.”
+
+Arendt continued.
+
+“These individuals are human. Entirely human. Their genomes sit within human variation.”
+
+Cassian said, “Then what is unusual?”
+
+“Three regions.”
+
+She highlighted them.
+
+“Each shows a combination of derived variants that is difficult to model under the local population history we have.”
+
+“Difficult how?”
+
+“Not impossible. Do not convert ‘poorly explained’ into ‘engineered.’”
+
+Imani smiled faintly. Arendt and Imani were going to like each other. Cassian asked, “Selection?”
+
+“Possible.”
+“Introgression?”
+“Possible.”
+“Sampling?”
+“Absolutely.”
+“Sequencing artifact?”
+“Tested repeatedly.”
+“Modern contamination?”
+“Low.”
+“Unknown population?”
+“Very plausible.”
+
+Pike said, “The earlier SVW team called them discontinuities.” Arendt frowned.
+
+“I dislike the word.”
+
+“Why?”
+
+“It implies a clean break. Evolution is messy.”
+
+She enlarged the first region.
+
+“The strange part is not that the variants exist. It is the clustering.”
+
+Cassian asked, “Across the three individuals?”
+
+“Yes. And in different combinations among later populations.”
+
+Imani said, “So not a single event.”
+
+“Correct.”
+
+LOAM watched.
+
+Cassian had restricted it from generating historical narratives. Data only.
+
+Arendt supplied allele frequencies, uncertainty ranges, contamination estimates, archaeological dates, and comparison populations. LOAM ran multiple models.
+
+Population bottleneck. Strong selection. Ghost population introgression. Repeated gene flow. Sequencing bias. Multiple localized interventions, included only because Pike insisted.
+
+The last model fit well. Too well. Cassian said, “Penalize complexity.”
+
+DONE.
+
+The model dropped. Good. Ghost population rose. Selection plus introgression rose. Arendt nodded.
+
+“That’s where I’d stay.”
+
+Pike said, “Now add the timing model.” Arendt stiffened.
+
+“I told you I don’t like that analysis.”
+
+“Why?”
+
+“Because the timing model was derived from the Antarctic archive after the fact.”
+
+Cassian said, “Not this version.”
+
+He explained the preregistered checksum structure. Independent of genetics. Arendt listened.
+
+Did not approve. Did not reject.
+
+“Fine,” she said. “But if you bin dates until they fit sixty, I leave.”
+
+“No binning,” Cassian said.
+
+LOAM compared uncertainty distributions. The archaeological dates were broad. Too broad for precise matching.
+
+Three potential intervention windows emerged only under generous assumptions. Cassian disliked it.
+
+“This is weak.”

@@ -1,0 +1,2498 @@
+{
+  "schema_version": 1,
+  "source": "Stage58_Publication_Lock_Final_Proof_Manuscript.txt",
+  "source_sha256": "08b6741f2be8006111a3f124f99dee21b98307559af66c91e5209a80991d27e0",
+  "generated_at": "2026-08-16T03:28:56.166Z",
+  "chapter_count": 50,
+  "max_segment_characters": 3800,
+  "chapters": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "THE HUNGER MAP",
+      "file": "manuscript/chapter-01-the-hunger-map.txt",
+      "words": 2339,
+      "characters": 15162,
+      "estimated_minutes": 15.6,
+      "sha256": "626c75a22df060f4b42aa361e602cd5c079b42332129af8754147c5199760422",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-01/segment-001.txt",
+          "characters": 3721,
+          "words": 560,
+          "sha256": "433472d7f9249c16052a0bd0ac443cda4fb9e29fac438cb5a1cc30f39762cd7e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-01/segment-002.txt",
+          "characters": 3746,
+          "words": 571,
+          "sha256": "1ca702eec0765a2f877607f8f5b35ce4505a1ad0e59f5262c77053a7f3a05681",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-01/segment-003.txt",
+          "characters": 3785,
+          "words": 614,
+          "sha256": "0967ec88f931ac3c4321d848e89db6cc68aa7307faf0b01cda1468fdc65ac9ff",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-01/segment-004.txt",
+          "characters": 3777,
+          "words": 575,
+          "sha256": "38ada2e489bd09639e844dfe3071e41838e93f8d4482b09cbfdd3b915f64f7f0",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-01/segment-005.txt",
+          "characters": 125,
+          "words": 19,
+          "sha256": "1bb0532f9299f74f22182b1f7d326e326169beed8f591b8b46696bfe01fc334b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "A VARIABLE WITH NO CROP",
+      "file": "manuscript/chapter-02-a-variable-with-no-crop.txt",
+      "words": 2250,
+      "characters": 15396,
+      "estimated_minutes": 15,
+      "sha256": "e59281fd0a8c02099198aff02173e0f25c9a66b7202995bc9255518d4998b0cf",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-02/segment-001.txt",
+          "characters": 3726,
+          "words": 517,
+          "sha256": "1c70c1ab10d984b29796a7ae7dd3498f93c7a4139f64771c74f925292c2eaf10",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-02/segment-002.txt",
+          "characters": 3788,
+          "words": 553,
+          "sha256": "64a0f41f7668de1ef91efe077a8cfe4cc8cc4d928174e4659e39b350b5c31ff1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-02/segment-003.txt",
+          "characters": 3767,
+          "words": 555,
+          "sha256": "267b20e68264fbe98d7a43cc98489ae30d5bc849cab11070e025641b8c650501",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-02/segment-004.txt",
+          "characters": 3789,
+          "words": 574,
+          "sha256": "6d610ae48abece3ad24d80951de98627853f0752118c0e4cdf4404982222222e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-02/segment-005.txt",
+          "characters": 318,
+          "words": 51,
+          "sha256": "b8133944adb394d3c0df1c7e98c8a9ad4f9c1559f88a7ed61eb24c78a71e5b0b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "title": "MISSING WATER",
+      "file": "manuscript/chapter-03-missing-water.txt",
+      "words": 2309,
+      "characters": 15260,
+      "estimated_minutes": 15.4,
+      "sha256": "30f5141f2ff70f615918e5301ff582a8aa5bb91e28a051e84d743af1908c88c4",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-03/segment-001.txt",
+          "characters": 3740,
+          "words": 530,
+          "sha256": "866a5b167e53b3373ded4776a24e6a37bd359a01d459cfa1a7870777e1aeded3",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-03/segment-002.txt",
+          "characters": 3798,
+          "words": 546,
+          "sha256": "7a7a341ecd48721bb6b1743f86ac413915e5634aadc9ec6e5032d13634f9f167",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-03/segment-003.txt",
+          "characters": 3777,
+          "words": 579,
+          "sha256": "38590f1afea3f345bb68a9ce1356b3d047b9a82f47b4cd80ff370c4bf11d814e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-03/segment-004.txt",
+          "characters": 3798,
+          "words": 630,
+          "sha256": "a857d3b4ac85c9dfa2ef65815e9cb642e71f9df9607f9d353d8621b02b2fc0a0",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-03/segment-005.txt",
+          "characters": 139,
+          "words": 24,
+          "sha256": "c7b2730a2a7f118232a1871c2a91a18984053f1bdc2ebde001cb8badaf2b4a97",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "title": "THE MAN WHO COUNTS TOMORROW",
+      "file": "manuscript/chapter-04-the-man-who-counts-tomorrow.txt",
+      "words": 2237,
+      "characters": 14587,
+      "estimated_minutes": 14.9,
+      "sha256": "74b031386c12c86861504d3c217f1543a264190457476a178adf902cd5a4a487",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-04/segment-001.txt",
+          "characters": 3754,
+          "words": 560,
+          "sha256": "bbe721d2be6e7b03dff1911beb708c41da111c9e6947ea0d7f65181613e35507",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-04/segment-002.txt",
+          "characters": 3793,
+          "words": 554,
+          "sha256": "b62b981910683f99792d2ff02a13216f08ef600bac0385255a62af2d70fb5b0d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-04/segment-003.txt",
+          "characters": 3713,
+          "words": 588,
+          "sha256": "64255ab40b351166cec34430aacd513cea387955f136fd006ba4eaba4eafc5f8",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-04/segment-004.txt",
+          "characters": 3321,
+          "words": 535,
+          "sha256": "4d8a75f0c210269a2edddb0f89e3a989ff40f5111bd509096edf58a40551cfbc",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "title": "NICO'S LEAK",
+      "file": "manuscript/chapter-05-nico-s-leak.txt",
+      "words": 1964,
+      "characters": 13527,
+      "estimated_minutes": 13.1,
+      "sha256": "a35690672f7478dd1c897eff9765756c7cfb152676ea8411f96fcfe290460766",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-05/segment-001.txt",
+          "characters": 3774,
+          "words": 522,
+          "sha256": "ef6c831724f5b06e6dc759ed1723b642d08b5c83dfb97a0958c5510781968625",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-05/segment-002.txt",
+          "characters": 3770,
+          "words": 548,
+          "sha256": "d25519454d2c62446be3ed1ebab93139fa4c81351fa997d60dd91e06756d1204",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-05/segment-003.txt",
+          "characters": 3735,
+          "words": 547,
+          "sha256": "ec95292a771b9648384a7e065a958a22ebc307742642204b5413e518f1dcc8c1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-05/segment-004.txt",
+          "characters": 2242,
+          "words": 347,
+          "sha256": "bdf941d79326a7c5bbaf633ca91f37e4641cd4f2f7f8b23967714a4938f9cc78",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "title": "SIX COORDINATES",
+      "file": "manuscript/chapter-06-six-coordinates.txt",
+      "words": 1558,
+      "characters": 10674,
+      "estimated_minutes": 10.4,
+      "sha256": "78964f98757262cb26d8fe84c71a25d20792c2b09f11cf4da393f85420b60cc8",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-06/segment-001.txt",
+          "characters": 3796,
+          "words": 543,
+          "sha256": "a98fee065578821730b9a10f46bcfe99ed26ba2be8e3569f6413935f21e76b98",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-06/segment-002.txt",
+          "characters": 3709,
+          "words": 544,
+          "sha256": "f5c7910a2069464e0370f22f0d90a4b069946f6813d66621af753d4e330daf60",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-06/segment-003.txt",
+          "characters": 3165,
+          "words": 471,
+          "sha256": "bd78f46ad48cae0d1162d7ef3f7d35ff258f9107f596213dfe5ace97bd73bdc4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "title": "THE SOUTHERN WINDOW",
+      "file": "manuscript/chapter-07-the-southern-window.txt",
+      "words": 2139,
+      "characters": 13961,
+      "estimated_minutes": 14.3,
+      "sha256": "39f034b7799f8e4df0aec6cd1539d8e78f2b769c8e026811765174cee3af512f",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-07/segment-001.txt",
+          "characters": 3704,
+          "words": 568,
+          "sha256": "f65520ab44f2f2b625833c6ae646c151e0ff2f75f5ee265ad5116620de139248",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-07/segment-002.txt",
+          "characters": 3795,
+          "words": 560,
+          "sha256": "5337d889c70dcb84fe6078c92abcb464b1ec7b322563b60d5d4afb1856987417",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-07/segment-003.txt",
+          "characters": 3763,
+          "words": 587,
+          "sha256": "df3ed3c8b4bd1177f439c1d4f0eaa4673f292afcd5137ce7bfe8c5069a5bab9d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-07/segment-004.txt",
+          "characters": 2693,
+          "words": 424,
+          "sha256": "6756ab9fde671a26e105fd01cc6e521877c132ed3b380f825fc88d07f8b6ca51",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "title": "COUNT WHAT IS MISSING",
+      "file": "manuscript/chapter-08-count-what-is-missing.txt",
+      "words": 2169,
+      "characters": 14679,
+      "estimated_minutes": 14.5,
+      "sha256": "76c353da273accd8502c4ac0d3783c11123a0f7a290784a9e5038ce891fc1bae",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-08/segment-001.txt",
+          "characters": 3796,
+          "words": 550,
+          "sha256": "f34f9f4d88e1304fc4ebb87f4664efc19c9b1f58c2eb3205f04a54c43cbdec3b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-08/segment-002.txt",
+          "characters": 3716,
+          "words": 544,
+          "sha256": "bd9ec5d32f13628614d0a1e966b6c00fa7dca5918ad0928a4ad8f9f1e3cb8ade",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-08/segment-003.txt",
+          "characters": 3730,
+          "words": 553,
+          "sha256": "d39c3b2e3c5ed8e4db059514bfcde8844845f0beef87936470578d29e5319259",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-08/segment-004.txt",
+          "characters": 3431,
+          "words": 522,
+          "sha256": "720fc8d702184642f6f5e1a2dbc3ed052dd47bae4d9752983d0febbcc95b0e7b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "title": "WHITE TRANSIT",
+      "file": "manuscript/chapter-09-white-transit.txt",
+      "words": 1948,
+      "characters": 12843,
+      "estimated_minutes": 13,
+      "sha256": "83f905c2fe4cc4325cc898fe9bb053cb63ca78d2f631c249c51139face686938",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-09/segment-001.txt",
+          "characters": 3785,
+          "words": 560,
+          "sha256": "1edca275a487b38e1aa51260c9bcfa478e473ed1bc47b2f928ba2333df6d78d2",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-09/segment-002.txt",
+          "characters": 3753,
+          "words": 587,
+          "sha256": "00de81c7d33a01212985490389c41002d39751656d7513432057bffc147c5bf1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-09/segment-003.txt",
+          "characters": 3686,
+          "words": 551,
+          "sha256": "2645d11d5089c1dad42c443a4c2037ccddace68cbee20ad0a94ea7b14192f6b4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-09/segment-004.txt",
+          "characters": 1613,
+          "words": 250,
+          "sha256": "7a34ece8e08e5c7692846fa63b11d2d43cbfc1a39753fe6e6368db51b65a0181",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "title": "THE MOUTH IN THE ICE",
+      "file": "manuscript/chapter-10-the-mouth-in-the-ice.txt",
+      "words": 1956,
+      "characters": 12899,
+      "estimated_minutes": 13,
+      "sha256": "4accd05b071c967b1052172c5f865697d2a185fac7a4ac3995d17ddb436e5464",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-10/segment-001.txt",
+          "characters": 3707,
+          "words": 557,
+          "sha256": "5169506386cec4e3068bd614e411456651e1da53dd9eef10f4195c72cfb995b0",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-10/segment-002.txt",
+          "characters": 3785,
+          "words": 565,
+          "sha256": "102660aed75cb0af9f1cee60f2b9d8c36dcce891cc4c5f5233f0fb1d69c31436",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-10/segment-003.txt",
+          "characters": 3779,
+          "words": 592,
+          "sha256": "16b0b8036e869564dc47a66c50fbd0c1ea84ae311b8c3e6d5a369f61feb64e4a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-10/segment-004.txt",
+          "characters": 1622,
+          "words": 242,
+          "sha256": "c0159073f0dff8f69fcf6fe3e43321555eebf53600ef6b301b3c0e4105fbed37",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "title": "IMANI SAYS NO",
+      "file": "manuscript/chapter-11-imani-says-no.txt",
+      "words": 2684,
+      "characters": 17972,
+      "estimated_minutes": 17.9,
+      "sha256": "641ffb2225ac14a002b43a138fde134557b7b154b99f40ee0f339e0054170806",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-11/segment-001.txt",
+          "characters": 3762,
+          "words": 569,
+          "sha256": "6648aa37255c8e5e1ae7a13c1609817b40a3e5f21a02d98d85cd9b12a18c451a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-11/segment-002.txt",
+          "characters": 3739,
+          "words": 556,
+          "sha256": "5f350b015f8e4fccd21dcb0c3091d7aeea23ef9b07353c4a5eb0482d932d8568",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-11/segment-003.txt",
+          "characters": 3761,
+          "words": 552,
+          "sha256": "e5a3149c15ccf40c562082caee4232e3b057bb77b74a9b55bee7700c7aa46696",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-11/segment-004.txt",
+          "characters": 3750,
+          "words": 575,
+          "sha256": "04ea8049a11c66a896d9ae786fba835df9bf0c13f7efc8c4d005b0d781e956a1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-11/segment-005.txt",
+          "characters": 2952,
+          "words": 432,
+          "sha256": "5696bee7cb77d54bed103c0678ffad6f55955dd47a4ec219d8d73daba7e9c5ef",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "title": "THE LEDGER BEFORE LANGUAGE",
+      "file": "manuscript/chapter-12-the-ledger-before-language.txt",
+      "words": 2639,
+      "characters": 18389,
+      "estimated_minutes": 17.6,
+      "sha256": "67339da2dcffb3bf686e4460c2f1bd3e73f997f1e7d896dbae05b86911db7273",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-12/segment-001.txt",
+          "characters": 3799,
+          "words": 517,
+          "sha256": "14ddbe844e83550e8fbe253a368d8fe0d7d7c27c002124e95092c454e11e0f39",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-12/segment-002.txt",
+          "characters": 3795,
+          "words": 546,
+          "sha256": "f07ed00f0d746df8a648b367580943c2a70b61e9db81b4de74228abf1c5c6f2b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-12/segment-003.txt",
+          "characters": 3657,
+          "words": 540,
+          "sha256": "dce513226e62917042dac332aed75f88dcb99f01b4989f2b259e981936806207",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-12/segment-004.txt",
+          "characters": 3772,
+          "words": 530,
+          "sha256": "164e6aaec882fb48f66a45f4fce29f8d8e373b9b64edb848f623a74b5a8b4673",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-12/segment-005.txt",
+          "characters": 3358,
+          "words": 506,
+          "sha256": "fa1e5c515988ed39263809a97ae3c397566b84552d425f46541f1d67ec6762cf",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "title": "A NUMBER THAT REFUSES TEN",
+      "file": "manuscript/chapter-13-a-number-that-refuses-ten.txt",
+      "words": 2257,
+      "characters": 15678,
+      "estimated_minutes": 15,
+      "sha256": "c0595f13ad2181e4c48408391f2bc4260099bfddfa0f4d8d47a62ede3eb50d66",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-13/segment-001.txt",
+          "characters": 3780,
+          "words": 547,
+          "sha256": "af550debecfc311e76a247fbb8788e0552454880c6663d8fa77ac39277f4f26c",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-13/segment-002.txt",
+          "characters": 3795,
+          "words": 521,
+          "sha256": "4572b8b5a394976f110104c96c202e376a447f4f37c289660e2625163fb0e06f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-13/segment-003.txt",
+          "characters": 3777,
+          "words": 571,
+          "sha256": "c1a26d39a0bfc8f73ab5e9b6c8693ba5301ea906a388e9567d3771985ce7ed13",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-13/segment-004.txt",
+          "characters": 3778,
+          "words": 533,
+          "sha256": "11f37da27cf18d0653957f469d54225e84d46ab7f30c49a068fc6e84207aa9b7",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-13/segment-005.txt",
+          "characters": 540,
+          "words": 85,
+          "sha256": "e1e8b9f12441fffe022751bfbb45dff93e7f5e3227e1e0d32745c6d1a75e5397",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "title": "THE FIRST CHECKSUM",
+      "file": "manuscript/chapter-14-the-first-checksum.txt",
+      "words": 2360,
+      "characters": 15894,
+      "estimated_minutes": 15.7,
+      "sha256": "a431719aaa82ae3ec84c627e73e43454468b323d4bd7aec0bc774451bd47550f",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-14/segment-001.txt",
+          "characters": 3793,
+          "words": 546,
+          "sha256": "297c9ab45ae066a2e473bff61fb522d536cc906577cfb10c9605dce9a65e4ab1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-14/segment-002.txt",
+          "characters": 3767,
+          "words": 580,
+          "sha256": "a834b13262e7ca9eb343a32b97d7ff57952c0830183caf65ca41da9524d54742",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-14/segment-003.txt",
+          "characters": 3783,
+          "words": 583,
+          "sha256": "409e1843a68d7992cecec08288f842771813a27ef1f5f55edeffe2c12b8ecb06",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-14/segment-004.txt",
+          "characters": 3746,
+          "words": 525,
+          "sha256": "5dba90d25473a2d4eb43d7e792759ff367ee91e13fd6dfd2939beb61e4a61be4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-14/segment-005.txt",
+          "characters": 797,
+          "words": 126,
+          "sha256": "e9790824478bbd50049db6d991ebed8893a8a34b0bbcdc56c864ed73624a8d0e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "title": "THE PRISM",
+      "file": "manuscript/chapter-15-the-prism.txt",
+      "words": 1627,
+      "characters": 11225,
+      "estimated_minutes": 10.8,
+      "sha256": "1dee21cc13364a49da2aa19bacaedb042a9e1b343587d4ba7d08ed4ce1cf9413",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-15/segment-001.txt",
+          "characters": 3779,
+          "words": 558,
+          "sha256": "e26ee3233bf17eedcb58915fae3b73b729bc3e45b76f402f909d8c2a2605a038",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-15/segment-002.txt",
+          "characters": 3675,
+          "words": 535,
+          "sha256": "33c947ee3a9bed5329ab49d0699e08015ef45931c9b126133e133260632d20d9",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-15/segment-003.txt",
+          "characters": 3767,
+          "words": 534,
+          "sha256": "a6b6d1378ceb018e469fec433ade06a3244b1655a86d5fc2c5a729fffcdc97a6",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "title": "THE FIELD OF THREE GRAVES",
+      "file": "manuscript/chapter-16-the-field-of-three-graves.txt",
+      "words": 3498,
+      "characters": 23816,
+      "estimated_minutes": 23.3,
+      "sha256": "a7455d120318acce1d59525b7426c8bc64db95978379ac66f9d86b899b05d00c",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-16/segment-001.txt",
+          "characters": 3770,
+          "words": 530,
+          "sha256": "a70fddc75f4f6dd665d0687621488b042306adef36d6753b957624595f9cfa41",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-16/segment-002.txt",
+          "characters": 3780,
+          "words": 558,
+          "sha256": "8cbda5ce801cd48df9d27f3e097827a2866b87837b133642daca61249e3c99f5",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-16/segment-003.txt",
+          "characters": 3688,
+          "words": 548,
+          "sha256": "bf2a7d71a69b07597f770f11b95fa3c966442a3907a28ef7e3651f27fb2771a1",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-16/segment-004.txt",
+          "characters": 3642,
+          "words": 558,
+          "sha256": "aa7421a9a47b03d2a7339f769be806b246492735a858403e98eebe9327494c12",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-16/segment-005.txt",
+          "characters": 3777,
+          "words": 579,
+          "sha256": "ac97909a16e977a6a0188700273cf3c266f951cbc1930ce4a239a9de4ca982ad",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-16/segment-006.txt",
+          "characters": 3794,
+          "words": 536,
+          "sha256": "99c377e0ae8c2202de80185640aee28e4d5daa56a2d2e1291c53eb515c61a2dd",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 7,
+          "file": "segments/chapter-16/segment-007.txt",
+          "characters": 1353,
+          "words": 189,
+          "sha256": "a875c60ab5ae1e512a3ca1bc09943b02a4c2c34adb3221f3ec078a9fea554c1f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "title": "COMPARE",
+      "file": "manuscript/chapter-17-compare.txt",
+      "words": 2786,
+      "characters": 19417,
+      "estimated_minutes": 18.6,
+      "sha256": "e009d1d26993d2cebc79bfa3e41933719945490be3bf02f93d86b2b4c7a3c75b",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-17/segment-001.txt",
+          "characters": 3787,
+          "words": 511,
+          "sha256": "c27a9e08d26ec0622472cf31dc8d00cd999407407e94d6040e642a3a417183b3",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-17/segment-002.txt",
+          "characters": 3766,
+          "words": 558,
+          "sha256": "364e90910dbe1462b80e7b469bed36b9a73e37eed1a8489aa1bb72849d7e59cf",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-17/segment-003.txt",
+          "characters": 3729,
+          "words": 576,
+          "sha256": "d00c16a4df46a373c7c137a83aa088c22970eac6163d4b0e20b5e0f905060473",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-17/segment-004.txt",
+          "characters": 3793,
+          "words": 553,
+          "sha256": "0ed59834b4c0b7641b992321e3cc338f92e819a60e677952d6c0f02ec4499771",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-17/segment-005.txt",
+          "characters": 3778,
+          "words": 504,
+          "sha256": "6ad52196b52876c9633f2ce3db52c45bff493d97e752ac74fb9b145b1c5d34d6",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-17/segment-006.txt",
+          "characters": 554,
+          "words": 84,
+          "sha256": "20c88c843c4b5a1db14ea5c273b24b5dc0d699b341a1cf298d1d9b927e825a30",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "title": "THE ARCHIVE OPENS SIDEWAYS",
+      "file": "manuscript/chapter-18-the-archive-opens-sideways.txt",
+      "words": 2402,
+      "characters": 16176,
+      "estimated_minutes": 16,
+      "sha256": "e093b49d0b3c6891e49d194ac07b2c27d928873a5c315882d8937ea72a8f99d9",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-18/segment-001.txt",
+          "characters": 3764,
+          "words": 559,
+          "sha256": "2daa8d9d7485a2e414f1a75fd34cbda2b981a7be9ccfafdf11eb6508ffbd2816",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-18/segment-002.txt",
+          "characters": 3711,
+          "words": 538,
+          "sha256": "a9336b251d6aac18a4ef92467002797a780bea05a52823683d943ebb5c7f970f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-18/segment-003.txt",
+          "characters": 3659,
+          "words": 574,
+          "sha256": "d9bf1f3d7d67e561d4ee0db4ecdd30f3b2f779040223cf1aa497dac75f9202a4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-18/segment-004.txt",
+          "characters": 3748,
+          "words": 542,
+          "sha256": "3e6a4566f40a85517567145106c0eace082f62a5b3ab8a119d23f52f5dc849d5",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-18/segment-005.txt",
+          "characters": 1286,
+          "words": 189,
+          "sha256": "33e54730d48a5176903ee0541723fd90b7fe68830638c56cc832d5e7ab1742a6",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "title": "NARA",
+      "file": "manuscript/chapter-19-nara.txt",
+      "words": 2920,
+      "characters": 19665,
+      "estimated_minutes": 19.5,
+      "sha256": "e2ece7b780e4d2c8efe2f727fc985c45900bad39dc148a69ef6fe57870d466c1",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-19/segment-001.txt",
+          "characters": 3781,
+          "words": 554,
+          "sha256": "aad98e31bc1ef10663a0ff8065707b58c62464748251a97073f6406b264e8de9",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-19/segment-002.txt",
+          "characters": 3778,
+          "words": 570,
+          "sha256": "cea5a17576e30d0a19e60ec3e943cd827643f2153fdf142208be61c9fd76eac2",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-19/segment-003.txt",
+          "characters": 3797,
+          "words": 561,
+          "sha256": "8fdac4bce05b37b6639b95bef1b8e56c241899f13798b9b64ee060d4ab8a1708",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-19/segment-004.txt",
+          "characters": 3758,
+          "words": 561,
+          "sha256": "9d48c13f22e11d4b8cf891493aff126143d95e5f5e0348dcb98fd189a784bd4b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-19/segment-005.txt",
+          "characters": 3790,
+          "words": 554,
+          "sha256": "9b6be1d715f259204f6c2641dc92698fa2ef6a76d6875ab9287dff5de6e19cb4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-19/segment-006.txt",
+          "characters": 751,
+          "words": 120,
+          "sha256": "2179d95909ef91c0dacd356dfb06d0269faa04e4893ee4142b5bd8114df318ae",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "title": "GODS ARE BAD TRANSLATIONS",
+      "file": "manuscript/chapter-20-gods-are-bad-translations.txt",
+      "words": 2902,
+      "characters": 19649,
+      "estimated_minutes": 19.3,
+      "sha256": "6addd152efd515b40161373ec0009f8b8aad70378df8d7992b50ccb6eb3062ae",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-20/segment-001.txt",
+          "characters": 3698,
+          "words": 572,
+          "sha256": "fa839345bbc349af274b92d05e2cf83ffa406a77496dd36bff6bed664b431812",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-20/segment-002.txt",
+          "characters": 3743,
+          "words": 518,
+          "sha256": "75e42b1a02dc59d2103cdaa1c37cbd94efaaf38b0ad29e70f069bb5a051a9713",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-20/segment-003.txt",
+          "characters": 3782,
+          "words": 578,
+          "sha256": "da103f36a735d22b216a4a70f37156cb341f1769192f0eef06d6c2ed3d475fea",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-20/segment-004.txt",
+          "characters": 3761,
+          "words": 557,
+          "sha256": "93757b8a5f8dfe2ebd168d72806bcdd5afa5d0e78e30ce7f484b6882a3796d10",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-20/segment-005.txt",
+          "characters": 3763,
+          "words": 536,
+          "sha256": "f9f52d958408feb675e0c1c29fb29db33855194052af31c716d263612a2f218e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-20/segment-006.txt",
+          "characters": 892,
+          "words": 141,
+          "sha256": "5b757af388bff6a5d599935382a206f94360c5d485923a2718384beb102f2411",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "title": "THE GOVERNMENT ALREADY KNEW",
+      "file": "manuscript/chapter-21-the-government-already-knew.txt",
+      "words": 2967,
+      "characters": 19995,
+      "estimated_minutes": 19.8,
+      "sha256": "be9aaab1672a91ba7fe3445fe9f2ea371174fd8a5286b6b47bf0e4e61e18b54c",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-21/segment-001.txt",
+          "characters": 3731,
+          "words": 559,
+          "sha256": "ce224e429f5b753940d3d95d29fe49ba101afd9eee38f3c02831ca1fa4a49e5a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-21/segment-002.txt",
+          "characters": 3735,
+          "words": 559,
+          "sha256": "73fb2dcaca6fe878439567ce01e3f7b21f0a597f28e245aa29c145e6e8b04246",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-21/segment-003.txt",
+          "characters": 3772,
+          "words": 540,
+          "sha256": "4c52cad618a6705a14f6700540f834f0b564193125cd67d9714b24c3ef56c66c",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-21/segment-004.txt",
+          "characters": 3763,
+          "words": 572,
+          "sha256": "80552e3ded8a3d9d01190eb1596f495bbdb8b94cb00adbcbe11601c019633a1c",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-21/segment-005.txt",
+          "characters": 3769,
+          "words": 552,
+          "sha256": "8847821a8be616fc8e8cdb924e7e4e93640a03665ce18906a510d4cdc258d653",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-21/segment-006.txt",
+          "characters": 1215,
+          "words": 185,
+          "sha256": "4c2fa31766c5494fcd7685ee7b0115852c9aa6ea9d66d483eea181caab38207a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "title": "PIKE'S MODEL",
+      "file": "manuscript/chapter-22-pike-s-model.txt",
+      "words": 3052,
+      "characters": 21447,
+      "estimated_minutes": 20.3,
+      "sha256": "dae9da80553567dcb417e38dfe5f23f3641b397bd4af633bca25b1b3a5a7daa2",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-22/segment-001.txt",
+          "characters": 3639,
+          "words": 495,
+          "sha256": "691bef43f568fa5dc19833808666903e683c5fae04f34b2dc5160e76d5f3a501",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-22/segment-002.txt",
+          "characters": 3770,
+          "words": 532,
+          "sha256": "42418cf0489b8afc0c01d48e20bd598a9a7b5d5042c782371faea82ae708dc33",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-22/segment-003.txt",
+          "characters": 3729,
+          "words": 539,
+          "sha256": "304ef13c79277efcb569b49879500f7ca43f6a4cb956606079ca6df29b43c4b4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-22/segment-004.txt",
+          "characters": 3795,
+          "words": 551,
+          "sha256": "f3ce47ecab8787fc66f8e567c8abc53e3c3ccf8177d9cd474dda14f5bb5ab2a5",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-22/segment-005.txt",
+          "characters": 3776,
+          "words": 556,
+          "sha256": "25df57cf23b240845e7619041e93f2f25471da927733da9ab9e8df9e36088ed8",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-22/segment-006.txt",
+          "characters": 2728,
+          "words": 379,
+          "sha256": "99bfb6fca40d583cec739b1d12cd29d5f4fee19fe61ac8da5d48d0cc729d1f02",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "title": "THE SPECIES THAT PRAYED FOR DATA",
+      "file": "manuscript/chapter-23-the-species-that-prayed-for-data.txt",
+      "words": 1647,
+      "characters": 11447,
+      "estimated_minutes": 11,
+      "sha256": "b3bda3a3cfe0feac9380866299a081e491006684b9304209c4aea9686b815ed4",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-23/segment-001.txt",
+          "characters": 3747,
+          "words": 535,
+          "sha256": "07db795c54e388b6128a8b03719d24fc90426207ca44cf5b3d47af4f585c6177",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-23/segment-002.txt",
+          "characters": 3775,
+          "words": 546,
+          "sha256": "28e7951f9fe1c53f5892994218e10ca5772cc0d819044f97fe364de6fe72ed4b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-23/segment-003.txt",
+          "characters": 3764,
+          "words": 538,
+          "sha256": "a4f7192ee0d7cee53ed60a7cae120b0dedadae93f109eb8fcec61029756f676f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-23/segment-004.txt",
+          "characters": 155,
+          "words": 28,
+          "sha256": "f87d934a7193041aa2c37cac6a9ea75b9b55b9f2f610c68b0f61b9c7343e0eb5",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "title": "PRESERVE ORDER",
+      "file": "manuscript/chapter-24-preserve-order.txt",
+      "words": 750,
+      "characters": 4918,
+      "estimated_minutes": 5,
+      "sha256": "6862ec7db7c0635401b8b36c299a58e1a2d941f89fedb18c5c6412853063de0d",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-24/segment-001.txt",
+          "characters": 3741,
+          "words": 564,
+          "sha256": "35cc14c59446d3db9761405c99711502686eaa38925b013f5025e89e9841690d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-24/segment-002.txt",
+          "characters": 1175,
+          "words": 186,
+          "sha256": "80e5fd7dea8df2ea9b522b0ea50b529960ba5441deb13db787df3cc30d657bc6",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "title": "HALF TURN",
+      "file": "manuscript/chapter-25-half-turn.txt",
+      "words": 2027,
+      "characters": 13981,
+      "estimated_minutes": 13.5,
+      "sha256": "13f87ec4c0d484b9f23f819453dca6547710a87461e74e083dfce528d7845807",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-25/segment-001.txt",
+          "characters": 3798,
+          "words": 520,
+          "sha256": "53e5a781526bce69e930967ff4072ea772f2c15ff3d226c2f1f3fbf01a123956",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-25/segment-002.txt",
+          "characters": 3778,
+          "words": 557,
+          "sha256": "f39b1c2a641740e6df84ac933dc5ba530ccc648c57e5ce36794880b04b4315ad",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-25/segment-003.txt",
+          "characters": 3783,
+          "words": 549,
+          "sha256": "0d1bdef3de2eeb6c888a3ca974848e12aff94109b5ad226b699c9f6dd281160a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-25/segment-004.txt",
+          "characters": 2616,
+          "words": 401,
+          "sha256": "43681c261ef6b16ae5b41c063eaf0e16cc391673386f93043f84d95e97d0be09",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "title": "AFTER THE TURN",
+      "file": "manuscript/chapter-26-after-the-turn.txt",
+      "words": 1876,
+      "characters": 13113,
+      "estimated_minutes": 12.5,
+      "sha256": "e4bac85aa57570448425aed8d0138a9c75de5aad27972bb91ee38da76810fb8e",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-26/segment-001.txt",
+          "characters": 3787,
+          "words": 540,
+          "sha256": "d8cbad1b7225c7e2323c611c45d14c0c9f8c47a2748ec658c93dc493dd7ba66d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-26/segment-002.txt",
+          "characters": 3798,
+          "words": 544,
+          "sha256": "4aef98ef8ea4d22d55906486e76d7e799a456db8726ded88121a63144c9405ca",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-26/segment-003.txt",
+          "characters": 3757,
+          "words": 538,
+          "sha256": "a354e13f66d1754cd4dfe9df620a153cef917e706b50785794ea3fcf9cc48770",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-26/segment-004.txt",
+          "characters": 1765,
+          "words": 254,
+          "sha256": "c69ec0d90d12037dd6281aff94cbd8f4e27842acc9a4c8ed1801526386969faf",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "title": "THE MERCY DOCTRINE",
+      "file": "manuscript/chapter-27-the-mercy-doctrine.txt",
+      "words": 3382,
+      "characters": 23498,
+      "estimated_minutes": 22.5,
+      "sha256": "a9624bd99eb3259fdc65df00409a3dd1141cc9760412c4a67d3dd341da0b4ef0",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-27/segment-001.txt",
+          "characters": 3766,
+          "words": 529,
+          "sha256": "563521c58ba61017abfed27c25f324862526f98819440e62f88e74bee668e4de",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-27/segment-002.txt",
+          "characters": 3790,
+          "words": 543,
+          "sha256": "4382015538a0b3152b5055003e252d487ecc5963dc9668788a5b27bb68cc7385",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-27/segment-003.txt",
+          "characters": 3728,
+          "words": 529,
+          "sha256": "80a77db472bb9e8c8e82cc7d34a83898125f2840e00653257313bf12d142e600",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-27/segment-004.txt",
+          "characters": 3759,
+          "words": 543,
+          "sha256": "a86c3735b8de38bbb7a0a45fe69c3ac20ae308bae8f27903d37e82e4adb80f9c",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-27/segment-005.txt",
+          "characters": 3797,
+          "words": 559,
+          "sha256": "0d0f49d1ab13f503224a2ec9d93c27ea9b9fdfab9f12070cab289930b2b7a47b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-27/segment-006.txt",
+          "characters": 3740,
+          "words": 532,
+          "sha256": "0a33cbd7d9e0a233ceecf490881d3771eb955e18ebd165ab940e354b66362762",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 7,
+          "file": "segments/chapter-27/segment-007.txt",
+          "characters": 906,
+          "words": 147,
+          "sha256": "bfe5908c6ada326d27afc1e27bcf2875025074594f6381ce264234ba30395aa6",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "title": "THE CITY BENEATH MEMORY",
+      "file": "manuscript/chapter-28-the-city-beneath-memory.txt",
+      "words": 2345,
+      "characters": 16598,
+      "estimated_minutes": 15.6,
+      "sha256": "ae2b64fe9e7e3c7e42962495eb54cfea8856fa3a177f307b211f2b428e9d0a17",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-28/segment-001.txt",
+          "characters": 3762,
+          "words": 538,
+          "sha256": "e9f568a66bccffd5ee7bda31fd86303a856b1e950dbf85bdaf16206763e01773",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-28/segment-002.txt",
+          "characters": 3783,
+          "words": 525,
+          "sha256": "55e5af0052ee81b6ccb25e54a0054ec7cc04df75809fa493b583c55e9e750301",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-28/segment-003.txt",
+          "characters": 3775,
+          "words": 521,
+          "sha256": "17ca8f26d5b0474242da939eebb225f477f79ad831fbd7df9f052cfbc83f910b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-28/segment-004.txt",
+          "characters": 3737,
+          "words": 543,
+          "sha256": "ff781b23744deab204f84be1b7423972a6d27483d66a508b78e3d88fb26d4861",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-28/segment-005.txt",
+          "characters": 1533,
+          "words": 218,
+          "sha256": "e913f1b97bc6a760431bb4d9f84e8ca9056275e1c55cdb61ff77d57b2aec352d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "title": "SEREN'S CRIME",
+      "file": "manuscript/chapter-29-seren-s-crime.txt",
+      "words": 3917,
+      "characters": 27369,
+      "estimated_minutes": 26.1,
+      "sha256": "8a410c9a6d6b38bbcb326ac4a5ada8c4410d2a05b02049f8f838c42c1c0ed189",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-29/segment-001.txt",
+          "characters": 3752,
+          "words": 543,
+          "sha256": "a57552e49ccbd0322eb4ff8f77d5b40e9559df9684b9b68c9282cfa9f4fcb070",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-29/segment-002.txt",
+          "characters": 3713,
+          "words": 536,
+          "sha256": "f09ad9462524e99413ad1ebfedabd67c10c9688e3816082bb039917a3a5d10e0",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-29/segment-003.txt",
+          "characters": 3708,
+          "words": 542,
+          "sha256": "b2bd2a73ef19840efc1f3fa64c64b1fb83a2f55b4bc21f71e869c81e800ca0d9",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-29/segment-004.txt",
+          "characters": 3694,
+          "words": 523,
+          "sha256": "06fd275078fa9343703fa1e851b370d992627e88526d79c77ddf515c5a8662d8",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-29/segment-005.txt",
+          "characters": 3765,
+          "words": 535,
+          "sha256": "e26b05d3ffd9a57f1ca44755650c75e0cac29a80e9b81e55a671cd330d926c52",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-29/segment-006.txt",
+          "characters": 3753,
+          "words": 555,
+          "sha256": "c5bb1fd896d5e1f251a5c0729c0d807017099ecb6c2cf14678dc0961e572969f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 7,
+          "file": "segments/chapter-29/segment-007.txt",
+          "characters": 3727,
+          "words": 501,
+          "sha256": "399e8d8efbbeb4879345317f4b10ade69b5ed08a11e94b3a77db96103f0589b3",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 8,
+          "file": "segments/chapter-29/segment-008.txt",
+          "characters": 1243,
+          "words": 182,
+          "sha256": "3f1234d50fa709734784f410b0404d0a2675b29e3491d307d62f22fdad55b522",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "title": "WHAT THE FLOOD KEPT",
+      "file": "manuscript/chapter-30-what-the-flood-kept.txt",
+      "words": 1634,
+      "characters": 11353,
+      "estimated_minutes": 10.9,
+      "sha256": "8affb355b4a39e0e5713d68ae55a445346b44613903da0a393ec9de1fc9a64a9",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-30/segment-001.txt",
+          "characters": 3780,
+          "words": 532,
+          "sha256": "e9dd59fb0fd55607e7504298024716434d1bc3882643110f41ae8be1508a69e3",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-30/segment-002.txt",
+          "characters": 3796,
+          "words": 553,
+          "sha256": "a9ae5a1dba7c7a89503cb22b6741acff5e51e815185e1ed2348307b16f4da923",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-30/segment-003.txt",
+          "characters": 3773,
+          "words": 549,
+          "sha256": "06cdeec87b98ba2a83e5ebfea78d2909d29a16b9cfb41b4621f03b8ea7f66a6d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "title": "THE THIRD WITNESS",
+      "file": "manuscript/chapter-31-the-third-witness.txt",
+      "words": 596,
+      "characters": 3931,
+      "estimated_minutes": 4,
+      "sha256": "0368f948c62a36476bcb38c546763eb95be1b9402381e9b24840670f5103e79a",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-31/segment-001.txt",
+          "characters": 3750,
+          "words": 566,
+          "sha256": "a16ad3e90cc3233649c2145de23595536fd23fb3e872280e14ce3dd44b687eab",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-31/segment-002.txt",
+          "characters": 179,
+          "words": 30,
+          "sha256": "bd4c5e035ead8c3348e0bc8cb9f1ed544f9b56f34232d840aed7458ac42bc852",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "title": "THE FIRST PUBLIC PROOF",
+      "file": "manuscript/chapter-32-the-first-public-proof.txt",
+      "words": 3227,
+      "characters": 21895,
+      "estimated_minutes": 21.5,
+      "sha256": "f66ff33a18ba7b5ea40a0349d0442205c9e4df4690abd0f88b66db5f1f9bd4d7",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-32/segment-001.txt",
+          "characters": 3778,
+          "words": 577,
+          "sha256": "643ac3b4433e56ca78be428740e7c1dd2bd124f937dbdcd53a701cf705b6bb19",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-32/segment-002.txt",
+          "characters": 3787,
+          "words": 545,
+          "sha256": "3ab828fc6752863b28190eb1e4a956eb15b86706d25abe9534edae3cf4e75c87",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-32/segment-003.txt",
+          "characters": 3773,
+          "words": 541,
+          "sha256": "e0b0702385c133ec63de3c1fa8088a98cc8dc0df44f2ba78bd00146fed4ded29",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-32/segment-004.txt",
+          "characters": 3789,
+          "words": 572,
+          "sha256": "3ed9c9d298f2a513c3d44b38de8d3c41a0af090593e3acf30cdb7a0a26114af0",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-32/segment-005.txt",
+          "characters": 3765,
+          "words": 536,
+          "sha256": "347aa16662aed9ed15f3b0e578e7484876d1188d936a94630a679cf32eb9478e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-32/segment-006.txt",
+          "characters": 2993,
+          "words": 456,
+          "sha256": "7d7530ecfd91254a64f072ef583bbd2b82190668f20fcce7afa58ef497817e7d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "title": "OVERLAY",
+      "file": "manuscript/chapter-33-overlay.txt",
+      "words": 1583,
+      "characters": 10665,
+      "estimated_minutes": 10.6,
+      "sha256": "73ce1204c16596f0f0eb0749d8683cfe18820c4d3fd419d23ea8cfbf77698b4b",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-33/segment-001.txt",
+          "characters": 3724,
+          "words": 570,
+          "sha256": "c7a76b757b07a8deaf7e49d99faa1d744435dec95852b7896e7776b75d8c9b58",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-33/segment-002.txt",
+          "characters": 3757,
+          "words": 530,
+          "sha256": "5c480b2bf3c66316aadba5e625a6732087d9bc822129ee5b0e6b44cd3ef0b341",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-33/segment-003.txt",
+          "characters": 3180,
+          "words": 483,
+          "sha256": "b4882336f3e1b777bd4320e22831158926096e4c387ef5039518af10ebc91f76",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "title": "SEVENTY-TWO HOURS",
+      "file": "manuscript/chapter-34-seventy-two-hours.txt",
+      "words": 2370,
+      "characters": 16360,
+      "estimated_minutes": 15.8,
+      "sha256": "bad01e5eb0d22cd156e21b01582884873046ecf22c1666e9be7b2ac1a90d7157",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-34/segment-001.txt",
+          "characters": 3769,
+          "words": 548,
+          "sha256": "3434b58b6fabfdd5b98b071eebca21c2733c392be96b4fb2021e0c0bd98bdb82",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-34/segment-002.txt",
+          "characters": 3773,
+          "words": 569,
+          "sha256": "9e85c1366c2170019a66fbf17b977ac64ad273ea1aaeb45ba46566126480f154",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-34/segment-003.txt",
+          "characters": 3723,
+          "words": 537,
+          "sha256": "828fdc1fd051b8571200f30d3e0757e803e88b2924002554b8d747ffaf4f1572",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-34/segment-004.txt",
+          "characters": 3761,
+          "words": 519,
+          "sha256": "80f56588277b5a12c4af23ece2cf30c6874101e3ec0290b8ef29d582785386b9",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-34/segment-005.txt",
+          "characters": 1326,
+          "words": 197,
+          "sha256": "f93ea0c0613e7488113c6cb666ec428b84dfe7b1ea70b776d4ffc52b8b4aafff",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "title": "THE DEATH OF ONE TRUTH",
+      "file": "manuscript/chapter-35-the-death-of-one-truth.txt",
+      "words": 1669,
+      "characters": 11387,
+      "estimated_minutes": 11.1,
+      "sha256": "879ebd9c788379151a0c9448a1d277787070e73def5d4e67c998c48e902a4032",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-35/segment-001.txt",
+          "characters": 3759,
+          "words": 527,
+          "sha256": "582ecdb3ad78dfa58698dd08d8b79ea95de1a5a26c15b6aebd239898a175dc1b",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-35/segment-002.txt",
+          "characters": 3789,
+          "words": 562,
+          "sha256": "f180be13989a1fec7f0bc6b4e730c6a81f76bada2d61ce53a2b8acb59c2b2d21",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-35/segment-003.txt",
+          "characters": 3782,
+          "words": 571,
+          "sha256": "1d824ff4385793f7072ca6365eda0d0c8202ae60fab49c3f2d2c34c0c9157e84",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-35/segment-004.txt",
+          "characters": 51,
+          "words": 9,
+          "sha256": "d44eb751d75efff21abc3b63c6fc20f9f5cd00a798bc99ceca23da02a878075a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "title": "THE RETURNERS",
+      "file": "manuscript/chapter-36-the-returners.txt",
+      "words": 735,
+      "characters": 4675,
+      "estimated_minutes": 4.9,
+      "sha256": "904795d9506d05e1166d5e1e5f0891c51c33f6357ef3cf2b49cbbf353b17d714",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-36/segment-001.txt",
+          "characters": 3780,
+          "words": 585,
+          "sha256": "c26793d834bca2a9b651302069f9ac3c6dc26dca9cda7e9617eed70de8e50a91",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-36/segment-002.txt",
+          "characters": 893,
+          "words": 150,
+          "sha256": "a9ec1de3dfe25fa2772a6b1aec0f16cf14b74b372ae839982a13e031fe6af624",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "title": "THE GOD WHO STAYED",
+      "file": "manuscript/chapter-37-the-god-who-stayed.txt",
+      "words": 2301,
+      "characters": 15989,
+      "estimated_minutes": 15.3,
+      "sha256": "523e579fa31c8571ed66154e49aef85a1b92580e825b11d43fd50ac7e1af84d0",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-37/segment-001.txt",
+          "characters": 3797,
+          "words": 537,
+          "sha256": "c0bdff9587856d926c8107cedb9c689b2192f487066f2a23b3aa2b86bb699899",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-37/segment-002.txt",
+          "characters": 3774,
+          "words": 532,
+          "sha256": "99ca0c24999824bcd79f17e978964fb56239ab3e4b99237815e1f9840fa0fe21",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-37/segment-003.txt",
+          "characters": 3797,
+          "words": 535,
+          "sha256": "f2f6719c459752a1855660e3f390714a63e46417189deff9951db62f2d84d427",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-37/segment-004.txt",
+          "characters": 3739,
+          "words": 574,
+          "sha256": "53cabbbffc8372103b774d8e764fe916457c720356b15168af7d2b65f2aa5f70",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-37/segment-005.txt",
+          "characters": 874,
+          "words": 123,
+          "sha256": "42392549b54246d144af8957fba7115366e245a9916e06d8bdc2a8d3c49dcbf2",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "title": "NICO BROADCASTS THE IMPOSSIBLE",
+      "file": "manuscript/chapter-38-nico-broadcasts-the-impossible.txt",
+      "words": 1471,
+      "characters": 9707,
+      "estimated_minutes": 9.8,
+      "sha256": "fcb202eb5a619d5aabab2193b03fa4ea51b465f77532bf8d8ec46dedca959ece",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-38/segment-001.txt",
+          "characters": 3793,
+          "words": 561,
+          "sha256": "7495ea390367f38b83ebb6289763c3d599b370f8af591446769617b6d574a25e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-38/segment-002.txt",
+          "characters": 3796,
+          "words": 579,
+          "sha256": "71ec00aaab041128b424063617a740db6962f38def0341aefc4d364fa3cf1401",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-38/segment-003.txt",
+          "characters": 2114,
+          "words": 331,
+          "sha256": "0e0c333dc93e9d65ffa270bb27ae8c1dbe5f091f0e3c5265f8fa51412453132a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "title": "LOAM REFUSES",
+      "file": "manuscript/chapter-39-loam-refuses.txt",
+      "words": 1886,
+      "characters": 12935,
+      "estimated_minutes": 12.6,
+      "sha256": "6058b1e89b2c73ae3fcafbf383a34bfa376a87f2c9d13a99b5f0a7b7003a9a9a",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-39/segment-001.txt",
+          "characters": 3782,
+          "words": 519,
+          "sha256": "c642d39470d345164960ffa821deeb56cecfc60a6bc73dd1064f0bb1c31007f4",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-39/segment-002.txt",
+          "characters": 3725,
+          "words": 572,
+          "sha256": "534b1c8a886660d5aa68056f27f6d398704217282f225881b4b44347e134b9a5",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-39/segment-003.txt",
+          "characters": 3731,
+          "words": 545,
+          "sha256": "aedb4bd42bf1036576f67e93dc58dc597b72687c7874abe33f8e1c0f7d5c0d6f",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-39/segment-004.txt",
+          "characters": 1691,
+          "words": 250,
+          "sha256": "92c0b7f8bde3eedf64dc224de82ae164df1b649214071ee8dab825db4c58b4ad",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "title": "THE WAR OF DEFINITIONS",
+      "file": "manuscript/chapter-40-the-war-of-definitions.txt",
+      "words": 713,
+      "characters": 4795,
+      "estimated_minutes": 4.8,
+      "sha256": "eedb225fa03185e2bb49d9155fa00b522e2a63336b2e379a6728e6938fd2f2a2",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-40/segment-001.txt",
+          "characters": 3749,
+          "words": 558,
+          "sha256": "b1c6231a83ab177563eb218efb2329cb3510d9ae5807a0e28121f0c569444d64",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-40/segment-002.txt",
+          "characters": 1044,
+          "words": 155,
+          "sha256": "6779b42bf249eaa9ad439c76eb9587ae87a7d7a1d2ae843bb89d43d54c31d6c2",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "part": 5,
+      "title": "THREE VOTES",
+      "file": "manuscript/chapter-41-three-votes.txt",
+      "words": 933,
+      "characters": 5982,
+      "estimated_minutes": 6.2,
+      "sha256": "70578380ffec6be589b53ef300cd3834cfc011ac6e6438db5966a4e92114c5ed",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-41/segment-001.txt",
+          "characters": 3770,
+          "words": 579,
+          "sha256": "b08aadd31e62c173b6ee897afac1838ad6978cc5997553844e1f36488e55944d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-41/segment-002.txt",
+          "characters": 2210,
+          "words": 354,
+          "sha256": "87bcf7667aeda30ffaef550e50a239fd1ececc6f4d8cd9edef15fe2e220efa3d",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "part": 5,
+      "title": "WITNESS",
+      "file": "manuscript/chapter-42-witness.txt",
+      "words": 782,
+      "characters": 4989,
+      "estimated_minutes": 5.2,
+      "sha256": "0b3d5c365acd307515b9cb0960b8a52aa9ffe5ac2e71efcd6a82a2a1a8207022",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-42/segment-001.txt",
+          "characters": 3741,
+          "words": 575,
+          "sha256": "e3a96321090d2d85eaa68434902fba358a8d75a8711c71278d72752865c60a80",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-42/segment-002.txt",
+          "characters": 1246,
+          "words": 207,
+          "sha256": "1579ac4bb52a2745198aafe4d56feb48ecad78c2294bbe96a830deacfef98851",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "part": 5,
+      "title": "THE IRU-SHAI DIVIDE",
+      "file": "manuscript/chapter-43-the-iru-shai-divide.txt",
+      "words": 624,
+      "characters": 4216,
+      "estimated_minutes": 4.2,
+      "sha256": "c290aece8b1db0645f73007cb14e782eb411f6916a8c1e3a3bcff8a003d9ce44",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-43/segment-001.txt",
+          "characters": 3740,
+          "words": 548,
+          "sha256": "f2150379ace824808e768b73c9fa61fb914decc202c7d7dbbce0e46c152177df",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-43/segment-002.txt",
+          "characters": 474,
+          "words": 76,
+          "sha256": "37ea285eca24b14bc8f643f6f0d7479f404767693fc4ba1c579f868187709ffa",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "part": 5,
+      "title": "THE LAST RESET",
+      "file": "manuscript/chapter-44-the-last-reset.txt",
+      "words": 4173,
+      "characters": 29220,
+      "estimated_minutes": 27.8,
+      "sha256": "f0813cbfb48aa7bc2638d7893a73f665114500731a483b225626e712f660ce0f",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-44/segment-001.txt",
+          "characters": 3774,
+          "words": 501,
+          "sha256": "7b978c4051915cb09de3ecceecd6528e9e24ad4fd934d24170fe64cb447a795e",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-44/segment-002.txt",
+          "characters": 3692,
+          "words": 523,
+          "sha256": "560f5455a5b517d6af601a2a0ddb46a7db7ee292a0f187bd58f66c93776da953",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-44/segment-003.txt",
+          "characters": 3707,
+          "words": 531,
+          "sha256": "b86f3b987ff6b977b01bca4a93a78c4f40e407ce8bd75863248ba4df10751683",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-44/segment-004.txt",
+          "characters": 3764,
+          "words": 560,
+          "sha256": "970e3053e884f3a3335eda0e33b4bd74a46dc465eb39ce57bef7e6b3980f17db",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 5,
+          "file": "segments/chapter-44/segment-005.txt",
+          "characters": 3790,
+          "words": 546,
+          "sha256": "5c3d36bd739f32d95b7048787d05064b84a1f69847f822b36f6fea979bc53669",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 6,
+          "file": "segments/chapter-44/segment-006.txt",
+          "characters": 3681,
+          "words": 529,
+          "sha256": "d093f1a08e42d4691689ffa6af740edf97f3854e995df42c4231ef5699fa3ff9",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 7,
+          "file": "segments/chapter-44/segment-007.txt",
+          "characters": 3721,
+          "words": 515,
+          "sha256": "8c6584c4eb3a3a5cf75facd8d53a8ba90b8edf8f36d1f609a831b9c2cf05bf82",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 8,
+          "file": "segments/chapter-44/segment-008.txt",
+          "characters": 3077,
+          "words": 468,
+          "sha256": "44ca601a8a823103d9862b6c85ab25f1f7dc0879bd3417b278140a4ebd9a0e8c",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "part": 5,
+      "title": "PIKE OPENS THE FILES",
+      "file": "manuscript/chapter-45-pike-opens-the-files.txt",
+      "words": 763,
+      "characters": 4789,
+      "estimated_minutes": 5.1,
+      "sha256": "cb8747c0732c21b573b8186d1752c7b0da06bc6f463f26e9120163844ba1874e",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-45/segment-001.txt",
+          "characters": 3740,
+          "words": 592,
+          "sha256": "4633609d98e20e231ea3690ac6d48688f74f81ec272797fcfde403235050684a",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-45/segment-002.txt",
+          "characters": 1047,
+          "words": 171,
+          "sha256": "5b26f2bfef20d3618583981958eeec8f277da88ae89053db4edd82c1ea531434",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "part": 5,
+      "title": "THE HUMAN VARIABLE",
+      "file": "manuscript/chapter-46-the-human-variable.txt",
+      "words": 1555,
+      "characters": 10713,
+      "estimated_minutes": 10.4,
+      "sha256": "3699193ef2dcd91a03e28c247ddf467785ed4e4b3f9ec3aa90b0f1a0366e355a",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-46/segment-001.txt",
+          "characters": 3757,
+          "words": 512,
+          "sha256": "acf95135306e7386a79ceda454904f857767b9d38da4373799b8bc83edae3120",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-46/segment-002.txt",
+          "characters": 3674,
+          "words": 553,
+          "sha256": "4065dac44a9819b345308031cda52d15cb8e2b5aea6f54a322c30472c1766c45",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-46/segment-003.txt",
+          "characters": 3278,
+          "words": 490,
+          "sha256": "dd3059068f288611c72790f9cc153c730e96eb708db8dce2f7dbee21de08b324",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "part": 5,
+      "title": "SIGNAL FROM OUTSIDE",
+      "file": "manuscript/chapter-47-signal-from-outside.txt",
+      "words": 636,
+      "characters": 4188,
+      "estimated_minutes": 4.2,
+      "sha256": "6aeb458c3fe376bf178638496db476979ad9e615c5b187d076c0e5e77a9aab1e",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-47/segment-001.txt",
+          "characters": 3741,
+          "words": 558,
+          "sha256": "646468ef94ff8b03184933a045c284b842aeb2c625c5705876ebc40f6dc26720",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-47/segment-002.txt",
+          "characters": 445,
+          "words": 78,
+          "sha256": "4d7a6fe902a567830876a1f1c292fa9356b3d0f8ed697759c19f7b4e2bfe0394",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "part": 5,
+      "title": "THE CREATORS' FEAR",
+      "file": "manuscript/chapter-48-the-creators-fear.txt",
+      "words": 626,
+      "characters": 4254,
+      "estimated_minutes": 4.2,
+      "sha256": "1a83621691c9dabb43eb3ccca2c10a95224d0b06623aac97f188a02bb8e36c81",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-48/segment-001.txt",
+          "characters": 3745,
+          "words": 551,
+          "sha256": "30204819dd517f53dc40d4b778f296cef7b07d5fa1eabd5d0f78100cb4c03407",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-48/segment-002.txt",
+          "characters": 507,
+          "words": 75,
+          "sha256": "0aa47bc3838d3796bd7b5837d7784e2b76bef53ed692bee24d307cbf2f85debc",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "part": 5,
+      "title": "THE CONSENT PROTOCOL",
+      "file": "manuscript/chapter-49-the-consent-protocol.txt",
+      "words": 1035,
+      "characters": 6994,
+      "estimated_minutes": 6.9,
+      "sha256": "726bb469f26ea2e6583174bf09cfbf8e6675ba599136e829b4574a868fcd3a09",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-49/segment-001.txt",
+          "characters": 3721,
+          "words": 541,
+          "sha256": "6d65cc5fd91e76fb867b615f53cf8bbec7d4512757d9c4a077219443119158fc",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-49/segment-002.txt",
+          "characters": 3271,
+          "words": 494,
+          "sha256": "2d9985a13d41bf5e5c5656d7e2ca791e348c29007ce836a8c63907390c077c24",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "part": 5,
+      "title": "FULL CIRCLE",
+      "file": "manuscript/chapter-50-full-circle.txt",
+      "words": 1789,
+      "characters": 11674,
+      "estimated_minutes": 11.9,
+      "sha256": "80bebffb77b3982cf581e7e1d6485fd3ae49bed2cc580abd1a48b2632e82f27a",
+      "segments": [
+        {
+          "index": 1,
+          "file": "segments/chapter-50/segment-001.txt",
+          "characters": 3741,
+          "words": 567,
+          "sha256": "fc865d8cb540cf1ddda3f2711b591e4f78dc822e81431889bad4fed9812b2789",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 2,
+          "file": "segments/chapter-50/segment-002.txt",
+          "characters": 3779,
+          "words": 588,
+          "sha256": "c98d9749b1c20df2c62bb339455e590d5dbc32a5243af6d210d0995800e13ad2",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 3,
+          "file": "segments/chapter-50/segment-003.txt",
+          "characters": 3728,
+          "words": 571,
+          "sha256": "aa6d9fb2e4fc80f66ba3cb26a8d211248fd995a733b0654b051cd30c16dd6adb",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        },
+        {
+          "index": 4,
+          "file": "segments/chapter-50/segment-004.txt",
+          "characters": 420,
+          "words": 63,
+          "sha256": "8ed696e649ff1d1d86842fdf86ad060b405c0fd1e14471b30459c8e794da5c68",
+          "voice_role": "narrator",
+          "routing_status": "unreviewed"
+        }
+      ]
+    }
+  ],
+  "total_words": 100008,
+  "total_characters": 679946,
+  "total_segments": 209,
+  "estimated_hours": 11.1,
+  "normalized_source_sha256": "08b6741f2be8006111a3f124f99dee21b98307559af66c91e5209a80991d27e0",
+  "reconstructed_sha256": "08b6741f2be8006111a3f124f99dee21b98307559af66c91e5209a80991d27e0",
+  "text_integrity_verified": true
+}

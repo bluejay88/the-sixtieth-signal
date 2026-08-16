@@ -1,0 +1,135 @@
+He had thought the number was a reader's puzzle.
+
+Now it was becoming part of the archive's own logic.
+
+“Why would the old system require reversal at half-cycle?”
+
+LOAM answered.
+
+ERROR DETECTION.
+
+A diagram appeared. Data traveled around a ring in two directions.
+
+At one hundred eighty degrees, independently propagated copies were compared.
+
+Differences were flagged before the ring closed at three hundred sixty.
+
+Cassian whispered, “A checksum.” Imani nodded.
+
+“Not just a number system. A governance system.”
+
+Pike looked at her.
+
+“Explain.”
+
+“No instruction is trusted because one copy says it. The system sends the instruction around different paths and compares them at the half-turn.”
+
+Nico said, “So the conspiracy is literally anti-conspiracy.” Cassian looked at him.
+
+“What?”
+
+“It assumes somebody will alter the message.”
+
+Cassian watched Imani reconstruct the ordering from the damaged notation. She did not explain every step aloud anymore; she trusted him to follow until he stopped her. When he finally did, she backed up three signs without irritation and showed him where his assumption had entered. He realized he liked being corrected by her when she treated correction as ordinary work instead of a verdict on intelligence.
+
+The archive had been designed not for perfect preservation, but for mistrust.
+
+Not one sacred text. Multiple paths, not one authority. Multiple witnesses, not order. Divergence bounded by comparison.
+
+LOAM reconstructed the oldest directive one final time, now using the bidirectional carrier.
+
+PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+The room went silent. Pike sat down.
+
+Cassian had never seen her do that during a briefing. Nico stared at the words.
+
+“Then the resets...”
+
+Imani answered.
+
+“May not have been law.”
+
+Pike looked up.
+
+“Or they were emergency interpretations of law.”
+
+“Maybe.”
+
+Cassian returned to the records of destroyed human civilizations. Shaal-Amur's mercy. The clean command. The convenient authority. Everything still happened.
+
+The dead did not return because a translation changed.
+
+But the moral architecture underneath the acts shifted completely, not obedience. Dispute, not purity. Redundancy, not one true line.
+
+Many survivable lines checked against one another.
+
+Nico said, “What do we do with this?” Pike answered automatically.
+
+“Contain it until verified.”
+
+Imani looked at her.
+
+“You hear yourself, right?”
+
+Pike's face hardened. Then softened.
+
+She looked again at PRESERVE DIVERGENCE UNTIL WITNESSES CONVERGE.
+
+For perhaps the first time in her career, secrecy itself had become evidence against her preferred solution. Cassian looked at LOAM.
+
+“Reprocess every intervention record under the reversed orientation.”
+
+PROCESSING.
+
+“Priority?”
+
+After the half-turn, Seren asked Imani a question through the archive interface, not directly.
+
+A reconstructed prompt repeated across three carrier fragments:
+
+IF A COPY PRESERVES THE WRONG ORDER BUT PRESERVES THE DIFFERENCE BETWEEN VERSIONS, IS IT FAILED?
+
+Imani read it twice. Cassian said:
+
+“That sounds like Seren.”
+
+“Maybe.”
+
+“What would you answer?”
+
+Imani thought about manuscripts. A wrong copy could still preserve readings lost elsewhere.
+
+A corrupted text could contain evidence of the corruption.
+
+A mistranslation could reveal the assumptions of the translator.
+
+“No,” she said.
+
+Cassian looked at her.
+
+“It is not failed?”
+
+“Not entirely.”
+
+LOAM displayed:
+
+FUNCTION MAY PERSIST AFTER PRIMARY SEMANTIC FAILURE.
+
+Imani nodded.
+
+“That.”
+
+The half-turn suddenly became more than correction.
+
+The later ORDER copies were wrong as constitutional roots.
+
+But they preserved the history of how authority had drifted.
+
+Deleting them would destroy evidence. Cassian said:
+
+“So we keep the corrupted law.”
+
+“With labels.”
+
+“Dangerous.”

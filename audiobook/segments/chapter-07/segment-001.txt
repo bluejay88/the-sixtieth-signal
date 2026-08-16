@@ -1,0 +1,118 @@
+CHAPTER SEVEN
+THE SOUTHERN WINDOW
+
+The flight south took long enough for everyone to become less interesting.
+
+That was one of Nico’s theories about travel. Airports made strangers mysterious. Twelve hours in a transport aircraft reduced everyone to neck pillows, bad digestion, and the question of who snored. Cassian did not sleep.
+
+He watched LOAM’s field node rebuild its prediction every fifteen minutes as new meteorological data arrived.
+
+The window moved by seconds, not hours. That was strange.
+
+Weather uncertainty should have widened it. Instead the model remained stubborn.
+
+47 minutes. Start: 14:03 local. End: 14:50.
+
+“Still the same?” Nico asked from the opposite seat.
+
+“Yes.”
+
+“That bothers you.”
+
+“Yes.”
+
+“What would make you happier?”
+
+“A worse model.”
+
+Nico nodded as if this were reasonable.
+
+Outside, cloud and ocean merged into a gray without horizon. The expedition had twelve people.
+
+Two glaciologists. An oceanographer. A field engineer. A medic. Three polar logistics specialists. Cassian. Nico. A systems technician assigned by Pike. And a woman named Lian Vorr who introduced herself as “interagency safety” and wore boots too new for field work. Cassian assumed she was intelligence.
+
+Nico assumed she was intelligence and told her so. She said, “That saves time.”
+
+They landed at a coastal research station and transferred by ski aircraft the next morning.
+
+The interior of Antarctica did not look empty. It looked unfinished.
+
+White planes folded into blue distance. Wind carved surfaces into hard ribs. The sky felt too large because there were no buildings tall enough to tell the eye where to stop.
+
+Cassian had seen photographs all his life.
+
+None conveyed the violence of reflected light.
+
+At the temporary camp, the team unpacked sensors while Pike joined by encrypted link.
+
+“No improvisation,” she said.
+
+Nico looked at Cassian. Cassian looked away. Pike continued.
+
+“The predicted event may be nothing. If it occurs, deploy the passive probe exactly as planned.”
+
+The glaciologist, Dr. Hye-Jin Park, raised a hand.
+
+“What is our actual hypothesis?”
+
+Pike answered, “Subglacial hydraulic transition.” Park looked at Cassian.
+
+“And the food model?”
+
+Cassian said, “Predicts the timing.” Park waited for more.
+
+“That’s the part we’re testing.”
+
+She gave him the expression scientists reserved for colleagues who had brought an embarrassing result to a respectable field site.
+
+“Fine,” she said. “If your bread computer beats my ice model, I buy dinner.”
+
+Nico whispered, “Bread computer.” Cassian said, “Don’t.”
+
+At 13:40, they moved to coordinate three.
+
+The access site looked like nothing.
+
+A shallow equipment trench. Two antenna masts. A buried fiber line. Old marker poles.
+
+Then Cassian saw the older hardware.
+
+Half covered by snow, thirty meters east. Government-grade instrument housing. Stamped SVW.
+
+Someone had been here. Many someones. Pike had not lied.
+
+That almost made Cassian trust her less. LOAM updated.
+
+WINDOW CONFIDENCE: 0.71.
+
+Park’s team lowered the passive acoustic package into a preexisting narrow bore channel. No new drilling. No heat. No fluid.
+
+At 13:58, the signal remained ordinary.
+
+At 14:00, wind gusted hard enough to shake the mast.
+
+At 14:02, Cassian’s field display changed.
+
+SUBGLACIAL PRESSURE SHIFT DETECTED.
+
+Park swore.
+
+“Independent?”
+
+Her technician checked.
+
+“Yes.”
+
+“Magnitude?”
+
+“Small. Real.”
+
+14:03. The access window opened, not visibly. Nothing cracked. No cinematic rupture.
+
+But the instruments agreed that water beneath them was moving in a way the conventional model had placed somewhere in the next week. Park stared at Cassian.
+
+“Your bread computer gets dinner.”
+
+Cassian did not smile.
+
+“Deploy probe.”

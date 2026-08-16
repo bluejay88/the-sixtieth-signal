@@ -1,0 +1,162 @@
+CHAPTER EIGHT
+COUNT WHAT IS MISSING
+
+The first thing the recovery team confiscated was nothing.
+
+No cameras. No drives. No instruments. They confiscated time.
+
+“Everyone remains on site pending systems review,” Lian Vorr announced as the second aircraft settled beyond camp. “No external transmission.”
+
+Nico raised his hand.
+
+“No.”
+
+Lian looked at him.
+
+“That was not a question.”
+
+“My contract permits independent retention.”
+
+“Retention, yes. Transmission, no.”
+
+Nico glanced toward Cassian. A hash of the media had already left the site before the event window under the routine transparency protocol, not the media. Proof the media existed. Cassian disliked dead-man mechanisms.
+
+Today he was grateful for one.
+
+Pike arrived on the second aircraft. In person. That mattered.
+
+She walked straight past the camp commander to Cassian.
+
+“What did LOAM transmit?”
+
+“Nothing external.”
+
+“To the probe?”
+
+“Standard timing diagnostics only.”
+
+“Before the pulses?”
+
+Cassian thought. The field node had emitted clock checks to verify instrument drift.
+
+“Yes.”
+
+“What sequence?”
+
+He opened the log. Routine.
+
+Three timing packets. Six-second retry. Twelve-second timeout. Pike read. Then looked toward the ice.
+
+“Three. Six. Twelve.”
+
+“That is our software.”
+
+“Is it?”
+
+Cassian felt irritation.
+
+“Yes. It is.”
+
+“Why those intervals?”
+
+“Exponential backoff.”
+
+“So ordinary engineering.”
+
+“Yes.”
+
+Pike nodded slowly.
+
+“Good.”
+
+Nico appeared beside them.
+
+“You say ‘good’ like you wanted a boring explanation.”
+
+“I always want a boring explanation.”
+
+“Then your career choices are terrible.”
+
+Pike ignored him. Cassian reopened the event trace.
+
+The subglacial pulses had come after LOAM’s diagnostic sequence.
+
+Three pulses. Six seconds apart. Then later a twelve-second separation.
+
+It looked like mimicry. That was the dangerous interpretation.
+
+The less dangerous interpretation was shared timing. Coincidence.
+
+Feedback through the probe. Mechanical resonance.
+
+“LOAM,” Cassian said, “test whether our outbound diagnostics could induce measured pulses through probe mechanics.”
+
+CALCULATING.
+
+Park joined them.
+
+“I already did a first pass. Energy is wrong by orders of magnitude.”
+
+“Source coupling?”
+
+“Still wrong.”
+
+LOAM returned the same conclusion.
+
+INDUCED MECHANICAL RESPONSE UNLIKELY.
+
+Pike said, “Pattern recognition?” Cassian looked at her.
+
+“Too early.”
+
+“Correct.”
+
+He hated how relieved he felt.
+
+Pike had spent decades around the anomaly and was still resisting the dramatic answer. That made her useful.
+
+Nico paced along the equipment trench.
+
+“What if we stop looking at what happened,” he said, “and count what didn’t?”
+
+Cassian almost dismissed him. Then he remembered LOAM’s phrase from the first data audit. Missingness itself.
+
+“Explain.”
+
+Nico pointed to the event log.
+
+“During the window, what data disappeared?”
+
+They checked. One atmospheric sensor dropped six samples.
+
+A legacy SVW acoustic channel flatlined for sixty seconds.
+
+A navigation beacon logged no error but omitted three expected housekeeping packets.
+
+The probe itself lost twelve microbursts of telemetry.
+
+None of those failures had seemed important during the event because the primary sensors continued working.
+
+Cassian loaded the omissions into LOAM.
+
+“Do not compare content. Compare interval structure.”
+
+The system ran. The wall of the field tent filled with absence. Little blank rectangles. Gaps.
+
+Six samples. Three packets. Twelve bursts. Sixty seconds. Nico said nothing. Pike’s face changed.
+
+She had seen something like it. Cassian noticed.
+
+“You know this pattern.”
+
+“Not this pattern.”
+
+“Something close.”
+
+Pike did not answer.
+
+LOAM normalized the gaps against each instrument’s sampling rate.
+
+Then rotated them into a common phase space.
+
+The result looked almost childish. Three groups.

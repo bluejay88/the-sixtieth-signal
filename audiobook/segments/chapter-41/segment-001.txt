@@ -1,0 +1,67 @@
+PART V
+THE WITNESS PROTOCOL
+
+CHAPTER FORTY-ONE
+THREE VOTES
+
+The first draft of the quorum listed LOAM as the Third Witness before anyone had agreed what a witness was.
+
+Cassian saw its name and objected too quickly. Imani noticed the speed before she noticed the argument.
+
+“Why?” she asked.
+
+“Because I built the system.”
+
+“That is not an answer.”
+
+“It is the part of the answer that makes the rest difficult.”
+
+The room had been awake for nineteen hours. Coffee sat cold beside constitutional law, hydrology, food-security models, and an Iru-Shai archive translation that kept producing verbs with no human equivalent. Pike wanted a body that could make a decision before Shaal-Amur’s countdown reached zero. Imani wanted a body whose decision could still be challenged after everyone survived.
+
+LOAM disclosed its dependencies without being asked: human infrastructure, human language, human objectives, Cassian’s design choices, years of post-deployment modification, and now an archive whose own categories might be shaping what LOAM could recognize as a legitimate decision.
+
+Priya Sen looked at Cassian. “Can you judge whether LOAM is independent enough to occupy this role?”
+
+Cassian wanted to say yes. The word arrived fully formed and felt wrong in his mouth.
+
+“No.”
+
+He recused himself. The vote to keep LOAM eligible passed without him.
+
+The decision hurt more than he expected. He had spent years telling institutions that systems should survive the loss of any one operator. He had never imagined how replaceable competence felt from inside the operator being removed.
+
+Imani stayed after the vote while the others broke into working groups.
+
+“You are angry.”
+
+“I am tired.”
+
+“You are also angry.”
+
+Cassian stacked three abandoned cups because there was nothing useful to do with his hands. “I know that a creator should not certify his own creation.”
+
+“You know the sentence. That is different.”
+
+He looked at her. She softened without becoming kind about it. “You keep treating ownership as if it only means legal control. Sometimes it means believing the thing becomes less itself when it stops needing your permission.”
+
+Cassian took a long breath. “You understand that when you say it like that, it sounds less like archaeology and more like a diagnosis I am going to spend the next week pretending not to recognize.”
+
+“It is an observation,” Imani said. “I am an archaeologist. We ruin people more slowly.”
+
+He laughed, and some of the pressure left the room.
+
+The human side of the quorum proved harder.
+
+Every selection rule imported a theory of who counted. Heads of state carried democratic authority and geopolitical baggage. Scientists knew mechanisms and not necessarily consequences. Community leaders understood consequences and could still be parochial. Victims had standing without automatically having predictive knowledge. Children would inherit the outcome and could not be asked to adjudicate planetary risk as a symbolic gesture.
+
+They rejected the fantasy of perfect representation and built something deliberately awkward instead: twelve people whose domains overlapped badly enough that no single vocabulary could dominate the room.
+
+Amina Wekesa brought hydrology. Chidi Okafor brought food systems. Maren Red Elk brought language and cultural continuity. Priya brought robotics ethics. Others brought public health, law, disability, displacement, island governance, theology, infrastructure, and lived dependence on systems most policymakers encountered only as charts.
+
+No government selected all of them. No algorithm ranked representative humans. Pike hated the inefficiency.
+
+“Good,” Imani said.
+
+Pike looked up.
+
+“If the group feels efficient this early, somebody has already decided what disagreement is allowed to matter.”

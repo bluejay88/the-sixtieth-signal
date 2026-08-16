@@ -1,0 +1,466 @@
+{
+  "schema_version": 1,
+  "status": "in_production",
+  "source_locked": true,
+  "text_integrity_verified": true,
+  "chapter_count": 50,
+  "total_words": 100008,
+  "total_segments": 209,
+  "estimated_hours": 11.1,
+  "voices_approved": false,
+  "audio_generated": false,
+  "mastered_chapters": 0,
+  "published_chapters": 0,
+  "chapters": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "THE HUNGER MAP",
+      "words": 2339,
+      "estimated_minutes": 15.6,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "A VARIABLE WITH NO CROP",
+      "words": 2250,
+      "estimated_minutes": 15,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "title": "MISSING WATER",
+      "words": 2309,
+      "estimated_minutes": 15.4,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "title": "THE MAN WHO COUNTS TOMORROW",
+      "words": 2237,
+      "estimated_minutes": 14.9,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "title": "NICO'S LEAK",
+      "words": 1964,
+      "estimated_minutes": 13.1,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "title": "SIX COORDINATES",
+      "words": 1558,
+      "estimated_minutes": 10.4,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "title": "THE SOUTHERN WINDOW",
+      "words": 2139,
+      "estimated_minutes": 14.3,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "title": "COUNT WHAT IS MISSING",
+      "words": 2169,
+      "estimated_minutes": 14.5,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "title": "WHITE TRANSIT",
+      "words": 1948,
+      "estimated_minutes": 13,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "title": "THE MOUTH IN THE ICE",
+      "words": 1956,
+      "estimated_minutes": 13,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "title": "IMANI SAYS NO",
+      "words": 2684,
+      "estimated_minutes": 17.9,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "title": "THE LEDGER BEFORE LANGUAGE",
+      "words": 2639,
+      "estimated_minutes": 17.6,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "title": "A NUMBER THAT REFUSES TEN",
+      "words": 2257,
+      "estimated_minutes": 15,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "title": "THE FIRST CHECKSUM",
+      "words": 2360,
+      "estimated_minutes": 15.7,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "title": "THE PRISM",
+      "words": 1627,
+      "estimated_minutes": 10.8,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "title": "THE FIELD OF THREE GRAVES",
+      "words": 3498,
+      "estimated_minutes": 23.3,
+      "segments": 7,
+      "status": "script_locked"
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "title": "COMPARE",
+      "words": 2786,
+      "estimated_minutes": 18.6,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "title": "THE ARCHIVE OPENS SIDEWAYS",
+      "words": 2402,
+      "estimated_minutes": 16,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "title": "NARA",
+      "words": 2920,
+      "estimated_minutes": 19.5,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "title": "GODS ARE BAD TRANSLATIONS",
+      "words": 2902,
+      "estimated_minutes": 19.3,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "title": "THE GOVERNMENT ALREADY KNEW",
+      "words": 2967,
+      "estimated_minutes": 19.8,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "title": "PIKE'S MODEL",
+      "words": 3052,
+      "estimated_minutes": 20.3,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "title": "THE SPECIES THAT PRAYED FOR DATA",
+      "words": 1647,
+      "estimated_minutes": 11,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "title": "PRESERVE ORDER",
+      "words": 750,
+      "estimated_minutes": 5,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "title": "HALF TURN",
+      "words": 2027,
+      "estimated_minutes": 13.5,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "title": "AFTER THE TURN",
+      "words": 1876,
+      "estimated_minutes": 12.5,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "title": "THE MERCY DOCTRINE",
+      "words": 3382,
+      "estimated_minutes": 22.5,
+      "segments": 7,
+      "status": "script_locked"
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "title": "THE CITY BENEATH MEMORY",
+      "words": 2345,
+      "estimated_minutes": 15.6,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "title": "SEREN'S CRIME",
+      "words": 3917,
+      "estimated_minutes": 26.1,
+      "segments": 8,
+      "status": "script_locked"
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "title": "WHAT THE FLOOD KEPT",
+      "words": 1634,
+      "estimated_minutes": 10.9,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "title": "THE THIRD WITNESS",
+      "words": 596,
+      "estimated_minutes": 4,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "title": "THE FIRST PUBLIC PROOF",
+      "words": 3227,
+      "estimated_minutes": 21.5,
+      "segments": 6,
+      "status": "script_locked"
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "title": "OVERLAY",
+      "words": 1583,
+      "estimated_minutes": 10.6,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "title": "SEVENTY-TWO HOURS",
+      "words": 2370,
+      "estimated_minutes": 15.8,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "title": "THE DEATH OF ONE TRUTH",
+      "words": 1669,
+      "estimated_minutes": 11.1,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "title": "THE RETURNERS",
+      "words": 735,
+      "estimated_minutes": 4.9,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "title": "THE GOD WHO STAYED",
+      "words": 2301,
+      "estimated_minutes": 15.3,
+      "segments": 5,
+      "status": "script_locked"
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "title": "NICO BROADCASTS THE IMPOSSIBLE",
+      "words": 1471,
+      "estimated_minutes": 9.8,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "title": "LOAM REFUSES",
+      "words": 1886,
+      "estimated_minutes": 12.6,
+      "segments": 4,
+      "status": "script_locked"
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "title": "THE WAR OF DEFINITIONS",
+      "words": 713,
+      "estimated_minutes": 4.8,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 41,
+      "part": 5,
+      "title": "THREE VOTES",
+      "words": 933,
+      "estimated_minutes": 6.2,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 42,
+      "part": 5,
+      "title": "WITNESS",
+      "words": 782,
+      "estimated_minutes": 5.2,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 43,
+      "part": 5,
+      "title": "THE IRU-SHAI DIVIDE",
+      "words": 624,
+      "estimated_minutes": 4.2,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 44,
+      "part": 5,
+      "title": "THE LAST RESET",
+      "words": 4173,
+      "estimated_minutes": 27.8,
+      "segments": 8,
+      "status": "script_locked"
+    },
+    {
+      "number": 45,
+      "part": 5,
+      "title": "PIKE OPENS THE FILES",
+      "words": 763,
+      "estimated_minutes": 5.1,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 46,
+      "part": 5,
+      "title": "THE HUMAN VARIABLE",
+      "words": 1555,
+      "estimated_minutes": 10.4,
+      "segments": 3,
+      "status": "script_locked"
+    },
+    {
+      "number": 47,
+      "part": 5,
+      "title": "SIGNAL FROM OUTSIDE",
+      "words": 636,
+      "estimated_minutes": 4.2,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 48,
+      "part": 5,
+      "title": "THE CREATORS' FEAR",
+      "words": 626,
+      "estimated_minutes": 4.2,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 49,
+      "part": 5,
+      "title": "THE CONSENT PROTOCOL",
+      "words": 1035,
+      "estimated_minutes": 6.9,
+      "segments": 2,
+      "status": "script_locked"
+    },
+    {
+      "number": 50,
+      "part": 5,
+      "title": "FULL CIRCLE",
+      "words": 1789,
+      "estimated_minutes": 11.9,
+      "segments": 4,
+      "status": "script_locked"
+    }
+  ]
+}

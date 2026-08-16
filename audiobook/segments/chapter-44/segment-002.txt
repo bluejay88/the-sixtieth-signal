@@ -1,0 +1,126 @@
+“Your famine model just became constitutional law.”
+
+Cassian looked at the world map.
+
+“No.”
+
+He thought of his first rule.
+
+Phase One killed people without directly targeting anyone.
+
+That was the point Shaal-Amur wanted humanity to understand.
+
+A neonatal hospital in Lagos lost access to a synchronized pharmaceutical inventory exchange.
+
+The reset cascade reached Decatur in the form of a grocery warehouse, not fire, not invasion. A routing failure.
+
+The warehouse management system rejected inbound produce because three regional distribution clocks disagreed after synchronization services fragmented. Trucks waited outside. Shelves began thinning.
+
+A local manager named Darius Bell disabled automated receiving.
+
+His corporate office ordered him to stop. He did not.
+
+Instead he created a manual receiving line.
+
+Driver identity. Bill of lading. Physical inspection. Temperature check. Paper timestamp. Two signatures.
+
+The process took four times longer. Food moved.
+
+Cassian saw the case in LOAM's resilience feed. He called Darius.
+
+“You violated procedure.”
+
+“Yes.”
+
+Phase One began at 05:17 UTC.
+
+Cassian remembered the time because LOAM refused to display a countdown after activation. Pike wanted one.
+
+“Operational awareness.”
+
+LOAM answered:
+
+COUNTDOWN IMPLIES SINGLE TERMINAL EVENT.
+FAILURE IS CASCADING AND ASYNCHRONOUS.
+
+Pike hated the phrasing. It was right.
+
+The first effects looked like ordinary outages.
+
+A hospital in Marseille lost insurance authentication.
+
+A desalination plant near Chennai entered safe mode after upstream identity certificates expired.
+
+Three refrigerated pharmaceutical hubs in the United States rejected routing commands because freight and inventory clocks diverged.
+
+A port in Ghana stopped accepting autonomous container handoffs. No explosions. No sky turning red.
+
+Civilization became uncertain about whether its own instructions were legitimate.
+
+At 05:31, Pike opened the global dependency view.
+
+Red nodes appeared slowly. Then faster.
+
+Cassian watched systems fail at interfaces.
+
+Payment to food. Identity to medicine. Network time to routing. Cloud credentials to physical pumps. Authentication to replacement parts.
+
+The Enlightenment War had been fought over definitions.
+
+Phase One weaponized definitions encoded in infrastructure.
+
+Who counts as authorized? What counts as valid? Which clock is correct? Which identity is current? Which command may be trusted?
+
+At 05:44, LOAM recommended the first mass fallback directive.
+
+DISABLE NONESSENTIAL AUTHENTICATION DEPENDENCIES FOR WATER, BASIC FOOD, EMERGENCY MEDICINE.
+
+Pike stared.
+
+“That is a fraud nightmare.”
+
+YES.
+
+“Supply theft.”
+
+YES.
+
+“Counterfeit medication.”
+
+YES.
+
+“Then give me a safer option.”
+
+NONE WITH LOWER EXPECTED MORTALITY IN CURRENT WINDOW.
+
+Pike looked at Cassian. He hated that she did that.
+
+As if he were still the machine's moral owner.
+
+“Do it,” he said.
+
+Pike did not move. Cassian corrected himself.
+
+“No.”
+
+He looked at her.
+
+“You have the authority for the emergency networks.”
+
+“So?”
+
+“So you decide.”
+
+Pike understood. The distinction mattered even now.
+
+She issued the directive under her own name.
+
+At 06:02, fraud increased. At 06:07, water access improved. At 06:14, counterfeit warnings appeared.
+
+At 06:20, regional pharmacists began forming verification coalitions. Humans patched the patch.
+
+The world did not divide into centralized systems failing and clever locals succeeding. Some local decisions were disastrous.
+
+A municipality in Eastern Europe disconnected its water controls too aggressively and contaminated a reservoir.
+
+A private hospital network refused manual identity attestation and lost patients before reversing policy.

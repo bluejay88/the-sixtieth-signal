@@ -1,0 +1,116 @@
+He had refused to build a machine that simply said trust me.
+
+At 09:17, the audit layer failed in a new way, not technically. Philosophically.
+
+The Antarctic feature survived every removal test, but no human-readable mechanism explained all of its value. The causal path fragmented and reformed. Fisheries in one run. Insurance in another. Energy and desalination in a third. The model was not pointing to one pipe between Antarctica and bread. It was pointing to a region whose behavior altered many systems at once. Cassian opened the counterfactual view.
+
+“Assume the inferred thermal event is false.”
+
+LOAM recalculated. Projected food instability rose.
+
+“Assume it is measurement bias.”
+
+Different rise.
+
+“Assume it is classified human activity.”
+
+The system did not object to the premise. It modeled additional shipping constraints, energy signatures, access restrictions. Fit improved slightly. Cassian leaned back.
+
+“That doesn't mean anything.”
+
+The machine remained silent. He said it again because he was speaking to himself.
+
+Classified human activity was an explanation category, not evidence. A secret submarine program, a sensor network, a mining survey, a military installation. Any could distort data.
+
+But the model had just told him that *human secrecy* fit the missingness better than random instrument failure.
+
+That was not an alien story.
+
+Cassian visited the cooling plant that afternoon.
+
+He had not been there in months.
+
+The facility sat beneath the research campus, louder and less futuristic than the public imagination of artificial intelligence. Pumps. Heat exchangers. filtration membranes. Maintenance crews in ear protection. No glowing consciousness. Plumbing.
+
+The operations manager, Ruth Ekanem, met him beside a reclaimed-water manifold.
+
+“You are here because someone yelled at you about water.”
+
+“Mira did not yell.”
+
+“She has a civil-service yell. Very efficient.”
+
+Ruth handed him a tablet.
+
+LOAM’s field and training systems consumed less fresh water than comparable campuses because of reclaimed-water loops, but peak summer cooling still competed with municipal treatment capacity and electrical demand. Cassian studied the curves.
+
+“We are within allocation.”
+
+“I did not say you were violating anything.”
+
+“Then why show me?”
+
+“Because legal is not the same as harmless.”
+
+He looked at her. Ruth tapped the chart.
+
+“On extreme heat days, your campus can stay inside its contract while the utility spends more energy treating marginal source water.”
+
+“So our water number goes down while system cost goes up.”
+
+“Yes.”
+
+“Hidden dependency.”
+
+She smiled.
+
+“You named the thing.”
+
+Cassian hated when the world used his own language against him.
+
+He asked LOAM to ingest the campus footprint.
+
+The system initially categorized it as MODEL OPERATIONS. Cassian changed the ontology.
+
+“No. Resource demand.”
+
+The label shifted.
+
+POWER.
+WATER.
+REPLACEMENT HARDWARE.
+NETWORK.
+STAFF.
+LAND.
+
+LOAM now existed inside the system it modeled.
+
+Cassian stood beside the pipes and realized this was the ethical version of the same Antarctic problem.
+
+The category had hidden the cause.
+
+AI was not outside civilization measuring it. Neither was Cassian.
+
+Every observer consumed something. Every model had a footprint.
+
+Every solution created new dependencies if nobody bothered to count them. Ruth asked:
+
+“Does that ruin your work?”
+
+“No.”
+
+“What does it do?”
+
+“Makes it more annoying.”
+
+“Good science often does.”
+
+On the way out, Cassian noticed emergency bypass valves painted bright yellow. Mechanical. No network control.
+
+“Why are those still manual?”
+
+Ruth looked at him as though he had asked why doors had handles.
+
+“Because computers fail.”
+
+Cassian almost told her their automated controls had better uptime than human operators. Then he stopped.

@@ -1,0 +1,141 @@
+Humanity’s earliest surviving information systems and one of its newest had been built around the same mundane problem. Who gets what. How much. Where.
+
+“That does not mean continuity,” Imani said.
+
+Nico said, “You are ruining my life.”
+
+“It means the problem recurs because scarcity recurs.”
+
+Cassian studied the two abstract diagrams.
+
+“What if that recurrence is why the archive uses it?”
+
+Imani looked at him.
+
+“Explain.”
+
+“If you wanted a representation to be understood by civilizations separated by language, you might choose a problem every civilization eventually has.”
+
+“Allocation.”
+
+“Scarcity.”
+
+“Accounting.”
+
+LOAM added:
+
+RESOURCE TRANSFER IS A HIGH-PROBABILITY CROSS-CIVILIZATIONAL ABSTRACTION.
+
+Imani looked annoyed.
+
+“Do not encourage him.”
+
+Cassian said, “You asked for predictive structure.”
+
+“Not yet. This is still us being clever after seeing both sides.”
+
+She closed the human examples.
+
+“Now blind the Antarctic structure.”
+
+Cassian removed labels, hid coordinate origin, randomized three control patterns, and sent the dataset to LOAM without archaeological metadata. LOAM returned classifications.
+
+One Antarctic segment was ranked most consistent with repeated allocation-state records. Two controls were rejected.
+
+One control received moderate confidence. Imani smiled.
+
+“That is what I wanted.”
+
+“You wanted it to make a mistake?”
+
+“I wanted it to have the ability to.”
+
+She pointed at the moderate-confidence control.
+
+“A system that always confirms us is not analysis. It is applause.”
+
+Cassian saved the result. The Antarctic record still had no translation.
+
+But it had passed its first test against something older than words:
+
+the logic of giving one thing to another.
+
+The museum work happened through screens because nobody was going to fly irreplaceable tablets into a polar security zone.
+
+Imani insisted that was a benefit.
+
+“Objects become magical when people cannot touch their documentation.”
+
+Nico looked confused.
+
+“Isn't the object the evidence?”
+
+“The object plus context.”
+
+She built a virtual workspace from museum photography, published measurements, old catalog entries, transliterations, excavation histories, and conservation notes.
+
+Then she made everyone read the boring parts.
+
+Acquisition history. Provenance uncertainty. Old restoration. Modern damage. Photography dates. Nico protested.
+
+“You are making ancient civilization feel like tax accounting.”
+
+“It often was tax accounting.”
+
+A British Museum ration tablet appeared beside a modern logistics manifest. Imani refused visual overlay.
+
+Instead she asked Mira Kestrel to join the call.
+
+Mira looked at the ancient record.
+
+“What am I seeing?”
+
+“Do not guess culture. Just function.”
+
+Mira squinted.
+
+“Allocation?”
+
+“Why?”
+
+“Repeated quantity marks. Repeated recipient categories. Grouping.”
+
+Imani nodded.
+
+Then she showed Mira a blinded LOAM resource-transfer abstraction.
+
+“Same question.”
+
+“Allocation.”
+
+Nico smiled. Imani did not.
+
+“One modern policy expert identifying the same broad administrative problem proves very little.”
+
+Mira said, “You called me at two in the morning to prove very little?”
+
+“Yes.”
+
+“Excellent.”
+
+They repeated the exercise with six people from different fields.
+
+Warehouse logistics. Public health. Accounting history. Data architecture. Agricultural cooperatives. Anthropology.
+
+Most classified both systems as allocation records. Some misclassified controls. That mattered.
+
+The connection became less cinematic and more durable:
+
+civilizations repeatedly invent formal information systems because scarce things must move between people.
+
+Cassian looked at the ancient tablet.
+
+“Who gets what. How much. Where.”
+
+Mira replied:
+
+“And who gets blamed when it doesn't arrive.”
+
+Imani added a fourth category.
+
+ACCOUNTABILITY.

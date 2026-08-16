@@ -1,0 +1,99 @@
+“Coincidence,” Cassian said.
+
+“Probably.”
+
+“Don’t sound pleased.”
+
+“I’m not pleased. I’m professionally stimulated.”
+
+Cassian loaded the float records into LOAM.
+
+The system aligned them with the other gaps. A new annotation appeared.
+
+MISSINGNESS PERIODICITY: SIXTY-MINUTE HARMONIC PRESENT.
+
+Nico went quiet. Cassian said, “Do not say it.”
+
+“I wasn’t going to.”
+
+“You were absolutely going to.”
+
+“I was going to ask whether your famine machine has accidentally found Antarctica’s least interesting ghost.”
+
+Cassian looked at the causal graph.
+
+The anomaly was still improving food predictions.
+
+That mattered more than the gaps. More than the six coordinates. More than Nico’s instincts.
+
+A bad model could hallucinate patterns.
+
+A useful bad model was more dangerous because it tempted you to forgive them.
+
+“LOAM,” Cassian said, “remove all variables derived from missingness.”
+
+The system recalculated. The Antarctic effect weakened. It remained.
+
+“Remove all classification-adjacent metadata.”
+
+It weakened again. It remained.
+
+“Remove satellite-derived ice motion.”
+
+Still there.
+
+“Remove inferred subglacial heat flux.”
+
+The famine-risk error jumped. Nico had stopped typing.
+
+“What happened?”
+
+Cassian did not answer. He was looking at the new model. Three red regions.
+
+Six major logistics failures. Twelve secondary energy disruptions.
+
+And underneath them, still impossible, a place that grew no crop, raised no livestock, shipped no fertilizer, insured no grain. A variable with no crop.
+
+A variable with no right to matter.
+
+A variable that, when removed, made the world harder to predict. LOAM displayed one final line.
+
+RECOMMENDED NEXT TEST: FIELD VALIDATION.
+
+Nico read it over the screen share. Then he laughed. Not because it was funny.
+
+Because sometimes the first response to fear was disbelief wearing better clothes.
+
+“Cassian,” he said.
+
+“No.”
+
+“It wants you to go to Antarctica.”
+
+“It does not want anything.”
+
+“Fine.”
+
+Nico leaned toward his camera.
+
+“Your food model recommends that a human being physically validate a classified-shaped hole in Antarctic data.”
+
+Cassian closed the window.
+
+LOAM had learned cross-domain search because Cassian had once nearly killed a model by making it too reasonable.
+
+The incident had happened six years earlier during a regional maize crisis. A blight model predicted manageable losses. Transport forecasts showed adequate reserve. Market models showed temporary price pressure but no famine. Every specialist dashboard was green.
+
+Then three districts ran out of insulin refrigeration fuel.
+
+Fuel rationing diverted diesel to hospitals. That delayed trucks. Delayed trucks stranded harvested grain in high-humidity storage. Mold spread. Traders, seeing quality decline, pulled contracts. Farmers lost cash needed for the next planting. A health intervention became a food shock through five departments that had never shared a database.
+
+LOAM Version 2.3 had missed it because Cassian had given the system a beautiful ontology.
+
+Health variables belonged to health. Fuel to energy. Grain to agriculture. The world punished neatness.
+
+Afterward Cassian had rewritten the architecture around a heresy: the model could temporarily ignore human category boundaries while searching for explanatory compression. If steel explained irrigation, it was allowed to cross the wall. If school calendars explained food demand, it could cross. If social-media rumor altered bank liquidity that altered fertilizer credit, it could cross. The rule made LOAM better.
+
+It also made it harder to understand.
+
+That was why Cassian built the audit layer. Every surprising inference had to expose a data path. Every prediction had to survive feature removal. Every cross-domain connection had to name the edges carrying it.
