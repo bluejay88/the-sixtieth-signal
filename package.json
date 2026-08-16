@@ -13,6 +13,7 @@
     "audio:review": "browser-sync start --config bs-routing-config.cjs",
     "audio:validate-routing": "node scripts/validate-routing-decisions.mjs",
     "audio:test-routing": "node --test tests/routing-validator.test.mjs",
+    "audio:audit-readiness": "node scripts/audit-audio-readiness.mjs --report-only",
     "audio:plan": "node scripts/generate-elevenlabs.mjs --dry-run"
   },
   "devDependencies": {
