@@ -11,6 +11,7 @@
     "audio:route:chapter1": "node scripts/extract-dialogue-routing.mjs --chapter=1",
     "audio:route": "node scripts/extract-dialogue-routing.mjs --all",
     "audio:review": "browser-sync start --config bs-routing-config.cjs",
+    "audio:validate-routing": "node scripts/validate-routing-decisions.mjs",
     "audio:plan": "node scripts/generate-elevenlabs.mjs --dry-run"
   },
   "devDependencies": {
