@@ -9,4 +9,17 @@ export function configuration(){
 
 export function publicHeaders(key){return {apikey:key,Authorization:`Bearer ${key}`,Accept:'application/json'};}
 
-export function safeJson(body,status=200){return Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});}
+export function corsHeaders(request){
+  const origin=request.headers.get('origin');
+  const allowed=(Netlify.env.get('ALLOWED_PUBLIC_ORIGINS')||'').split(',').map(value=>value.trim()).filter(Boolean);
+  if(!origin||!allowed.includes(origin))return {};
+  return {
+    'Access-Control-Allow-Origin':origin,
+    'Access-Control-Allow-Methods':'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers':'Content-Type',
+    'Access-Control-Max-Age':'86400',
+    'Vary':'Origin'
+  };
+}
+
+export function safeJson(body,status=200,headers={}){return Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff',...headers}});}

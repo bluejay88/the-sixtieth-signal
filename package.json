@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "browser-sync start --config bs-config.cjs",
     "dev:netlify": "netlify dev",
+    "dev:gateway": "browser-sync start --config bs-gateway-config.cjs",
     "deploy": "netlify deploy --prod",
     "audio:prepare": "node scripts/prepare-audiobook.mjs",
     "audio:signals": "node scripts/prepare-signal-layer.mjs",

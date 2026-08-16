@@ -10,3 +10,4 @@ audiobook/audio/
 labs.py
 __pycache__/
 .venv-local-tts/
+.artifacts/
