@@ -2,23 +2,25 @@ import {readFile,writeFile,mkdir,access} from 'node:fs/promises';
 import path from 'node:path';
 
 const root=path.resolve('audiobook');
-const manifest=JSON.parse(await readFile(path.join(root,'production-manifest.json'),'utf8'));
+let manifest;
+try{manifest=JSON.parse(await readFile(path.join(root,'render-plan','fullcast-render-manifest.json'),'utf8'));}
+catch{throw new Error('Full-cast render plan missing. Complete and validate dialogue routing, then run npm run audio:build-fullcast-plan.');}
 const cast=JSON.parse(await readFile(path.join(root,'voice-cast.json'),'utf8'));
 const chapterArg=process.argv.find(x=>x.startsWith('--chapter='));
 const selected=chapterArg?Number(chapterArg.split('=')[1]):null;
 const dryRun=process.argv.includes('--dry-run');
 let key=process.env.ELEVENLABS_API_KEY||'';
 if(!key){try{const local=await readFile('labs.py','utf8');key=local.match(/sk_[A-Za-z0-9_-]+/)?.[0]||''}catch{}}
-if(!dryRun&&!key.startsWith('sk_'))throw new Error('A valid ElevenLabs sk_ secret is required in ELEVENLABS_API_KEY or labs.py.');
+if(!dryRun&&!key.startsWith('sk_'))throw new Error('A valid ElevenLabs API key beginning with sk_ is required. The legacy key ID in labs.py cannot authenticate.');
 
 const jobs=[];
 for(const chapter of manifest.chapters){
-  if(selected&&chapter.number!==selected)continue;
-  for(const segment of chapter.segments){
-    const actor=cast.roles[segment.voice_role];
-    if(!actor)throw new Error(`Unknown voice role ${segment.voice_role}`);
-    if(!dryRun&&!actor.voice_id)throw new Error(`Missing ElevenLabs voice_id for ${segment.voice_role}`);
-    jobs.push({chapter:chapter.number,segment:segment.index,input:path.join(root,segment.file),output:path.join(root,'audio',`chapter-${String(chapter.number).padStart(2,'0')}`,`segment-${String(segment.index).padStart(3,'0')}.mp3`),actor});
+  if(selected&&chapter.chapter!==selected)continue;
+  for(const unit of chapter.units){
+    const actor=cast.roles[unit.voice_role];
+    if(!actor)throw new Error(`Unknown or uncast voice role ${unit.voice_role}`);
+    if(!dryRun&&!actor.voice_id)throw new Error(`Missing ElevenLabs voice_id for ${unit.voice_role}`);
+    jobs.push({chapter:chapter.chapter,segment:unit.index,input:path.join(root,unit.file),output:path.join(root,'audio',`chapter-${String(chapter.chapter).padStart(2,'0')}`,`unit-${String(unit.index).padStart(4,'0')}.mp3`),actor});
   }
 }
 if(dryRun){console.log(JSON.stringify({dry_run:true,jobs:jobs.length,chapters:[...new Set(jobs.map(j=>j.chapter))],roles:[...new Set(jobs.map(j=>j.actor.role))]},null,2));process.exit(0)}

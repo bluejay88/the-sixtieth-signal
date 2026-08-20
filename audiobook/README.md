@@ -33,3 +33,5 @@ The retail audiobook must never include companion-panel interruptions. Signal Pa
 # Completion verification
 
 Run `npm run audio:audit-completion`. A release is complete only when it returns `complete: true`: 50 chapter masters, 209 non-empty source-aligned audio segments, approved casting and pronunciation, resolved routing for all 5,291 dialogue spans, and an accounted-for 360-signal layer. A website label or successful API request is not evidence of audiobook completion.
+
+After all chapter routing decisions validate, run `npm run audio:build-fullcast-plan`. This produces exact-text narration/dialogue render units under `audiobook/render-plan/`, assigns each approved speaker independently, and refuses to produce a plan if any quote is unresolved or if reconstruction differs from the locked chapter text.

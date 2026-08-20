@@ -79,6 +79,40 @@
   const campaign={source:new URLSearchParams(location.search).get('utm_source'),medium:new URLSearchParams(location.search).get('utm_medium'),campaign:new URLSearchParams(location.search).get('utm_campaign')};
   if(Object.values(campaign).some(Boolean))sessionStorage.setItem('signal_campaign',JSON.stringify(campaign));
 
+  // Full-cast audition room: one accessible controller for ten cached ElevenLabs auditions.
+  const castAudio=$('#castAudio'),castCards=$$('[data-cast-audio]'),castPlay=$('#castMainPlay');
+  if(castAudio&&castCards.length&&castPlay){
+    const now=$('#castNowPlaying'),voice=$('#castVoiceName'),status=$('#castStatus'),seek=$('#castSeek'),elapsed=$('#castElapsed'),duration=$('#castDuration'),back=$('#castBack'),forward=$('#castForward'),mute=$('#castMute'),volume=$('#castVolume'),speed=$('#castSpeed');
+    let active=null,seeking=false;
+    const fmt=value=>{if(!Number.isFinite(value))return '0:00';const seconds=Math.max(0,Math.floor(value));return `${Math.floor(seconds/60)}:${String(seconds%60).padStart(2,'0')}`;};
+    const controls=[castPlay,seek,back,forward,mute,volume,speed];
+    const setEnabled=enabled=>controls.forEach(control=>control.disabled=!enabled);
+    const syncPlay=()=>{const playing=!castAudio.paused&&!castAudio.ended;castPlay.setAttribute('aria-pressed',String(playing));castPlay.setAttribute('aria-label',playing?'Pause selected audition':'Play selected audition');active?.classList.toggle('is-playing',playing);active?.setAttribute('aria-pressed','true');};
+    const save=()=>{if(active)localStorage.setItem('signal_cast_player',JSON.stringify({role:active.dataset.role,time:Math.floor(castAudio.currentTime),volume:castAudio.volume,speed:castAudio.playbackRate}));};
+    const load=async card=>{
+      const same=active===card;
+      if(same&&castAudio.readyState){if(castAudio.paused)await castAudio.play();else castAudio.pause();return;}
+      castAudio.pause();castCards.forEach(item=>{item.classList.remove('is-playing');item.setAttribute('aria-pressed','false');});active=card;card.setAttribute('aria-pressed','true');
+      now.textContent=card.dataset.role;voice.textContent=`${card.dataset.voice} · ElevenLabs audition candidate`;status.className='cast-status';status.textContent=`Loading ${card.dataset.role} audition…`;castPlay.setAttribute('aria-busy','true');setEnabled(false);
+      castAudio.src=card.dataset.castAudio;castAudio.load();
+      try{await castAudio.play();}catch(error){if(error.name!=='AbortError'){status.classList.add('error');status.textContent='Playback was blocked or the audio could not load. Select the role again to retry.';}}
+    };
+    castCards.forEach(card=>{card.setAttribute('aria-pressed','false');card.addEventListener('click',()=>load(card));});
+    castAudio.addEventListener('loadedmetadata',()=>{setEnabled(true);duration.textContent=fmt(castAudio.duration);castPlay.removeAttribute('aria-busy');status.textContent=`Ready · ${fmt(castAudio.duration)} AI-generated audition`;});
+    castAudio.addEventListener('playing',()=>{syncPlay();status.textContent=`Playing ${active?.dataset.role||'audition'}`;});
+    castAudio.addEventListener('pause',()=>{syncPlay();if(!castAudio.ended&&castAudio.currentTime)status.textContent=`Paused at ${fmt(castAudio.currentTime)}`;save();});
+    castAudio.addEventListener('timeupdate',()=>{elapsed.textContent=fmt(castAudio.currentTime);if(!seeking&&castAudio.duration)seek.value=String(Math.round(castAudio.currentTime/castAudio.duration*1000));});
+    castAudio.addEventListener('ended',()=>{syncPlay();seek.value='0';elapsed.textContent='0:00';status.textContent=`${active?.dataset.role||'Audition'} complete`;});
+    castAudio.addEventListener('error',()=>{castPlay.removeAttribute('aria-busy');setEnabled(Boolean(active));status.classList.add('error');status.textContent='This audition could not be decoded or reached. Check the connection and select the role to retry.';syncPlay();});
+    castPlay.addEventListener('click',async()=>{if(!active)return;if(castAudio.paused)await castAudio.play();else castAudio.pause();});
+    back.addEventListener('click',()=>castAudio.currentTime=Math.max(0,castAudio.currentTime-10));forward.addEventListener('click',()=>castAudio.currentTime=Math.min(castAudio.duration||0,castAudio.currentTime+10));
+    seek.addEventListener('input',()=>{seeking=true;if(castAudio.duration)elapsed.textContent=fmt(Number(seek.value)/1000*castAudio.duration);});seek.addEventListener('change',()=>{if(castAudio.duration)castAudio.currentTime=Number(seek.value)/1000*castAudio.duration;seeking=false;});
+    mute.addEventListener('click',()=>{castAudio.muted=!castAudio.muted;mute.setAttribute('aria-pressed',String(castAudio.muted));mute.textContent=castAudio.muted?'Unmute':'Mute';});volume.addEventListener('input',()=>{castAudio.volume=Number(volume.value);if(castAudio.volume)castAudio.muted=false;mute.textContent=castAudio.muted?'Unmute':'Mute';save();});speed.addEventListener('change',()=>{castAudio.playbackRate=Number(speed.value);save();});
+    document.addEventListener('keydown',event=>{if(!active||/INPUT|SELECT|TEXTAREA/.test(event.target.tagName))return;if(event.code==='Space'||event.key.toLowerCase()==='k'){event.preventDefault();castPlay.click();}else if(event.key==='ArrowLeft')back.click();else if(event.key==='ArrowRight')forward.click();else if(event.key.toLowerCase()==='m')mute.click();});
+    try{const saved=JSON.parse(localStorage.getItem('signal_cast_player'));if(saved){castAudio.volume=Math.min(1,Math.max(0,Number(saved.volume)||1));volume.value=String(castAudio.volume);castAudio.playbackRate=Number(saved.speed)||1;speed.value=String(castAudio.playbackRate);const card=castCards.find(item=>item.dataset.role===saved.role);if(card){now.textContent=saved.role;voice.textContent=`${card.dataset.voice} · resume available`;status.textContent='Previous audition remembered. Select it to resume.';card.addEventListener('click',()=>{if(Number(saved.time)>0)castAudio.addEventListener('loadedmetadata',()=>castAudio.currentTime=Math.min(saved.time,castAudio.duration),{once:true});},{once:true});}}}catch{}
+    addEventListener('beforeunload',save);
+  }
+
   // FAQ behaves as a restrained accordion and remains keyboard-native.
   const faqs=$$('.faq-list details');
   faqs.forEach(item=>item.addEventListener('toggle',()=>{if(item.open)faqs.filter(other=>other!==item).forEach(other=>other.open=false);}));

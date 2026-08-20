@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "policy": "Short source-derived auditions only. Candidate assignment is not approval for full-book synthesis.",
+  "auditions": [
+    {"role":"narrator","text":"The map did not show hunger. It showed everything that would become hunger before anyone admitted the connection.","source_file":"manuscript/chapter-01-the-hunger-map.txt"},
+    {"role":"cassian","text":"Remove non-agricultural features. Explain. That's impossible.","source_file":"manuscript/chapter-01-the-hunger-map.txt"},
+    {"role":"imani","text":"Good. Because it isn't writing.","source_file":"manuscript/chapter-11-imani-says-no.txt"},
+    {"role":"nico","text":"Coordinate four had commercial radar every twelve days. Four years. Boring, repetitive, beautiful.","source_file":"manuscript/chapter-02-a-variable-with-no-crop.txt"},
+    {"role":"pike","text":"No single anomaly is unique. The combination is. We don't know.","source_file":"manuscript/chapter-06-six-coordinates.txt"},
+    {"role":"loam","text":"WHO MAY DISAGREE WITH AN ORIGINATING AUTHORITY?", "source_file":"manuscript/chapter-31-the-third-witness.txt"},
+    {"role":"seren","text":"Seal the raw records. Everything is temporary.","source_file":"manuscript/chapter-43-the-iru-shai-divide.txt"},
+    {"role":"shaal","text":"We were given the rule. We inherited it from those before them.","source_file":"manuscript/chapter-38-nico-broadcasts-the-impossible.txt"},
+    {"role":"nara","text":"Sometimes systems deserve bad data.","source_file":"manuscript/chapter-19-nara.txt"},
+    {"role":"abena","text":"You sound tired.","source_file":"manuscript/chapter-01-the-hunger-map.txt"}
+  ]
+}

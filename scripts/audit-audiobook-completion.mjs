@@ -8,11 +8,15 @@ const [manifest,cast,support,lexicon,signals,routing]=await Promise.all([
   json('production-manifest.json'),json('voice-cast.json'),json('supporting-cast-plan.json'),
   json('pronunciation-lexicon.json'),json('signal-layer-manifest.json'),json('routing/routing-summary.json')
 ]);
+let fullcastPlan=null;
+try{fullcastPlan=await json('render-plan/fullcast-render-manifest.json');}catch{}
 
 const expected=[];
-for(const chapter of manifest.chapters){
-  for(const segment of chapter.segments){
-    expected.push({chapter:chapter.number,segment:segment.index,file:path.join(root,'audio',`chapter-${String(chapter.number).padStart(2,'0')}`,`segment-${String(segment.index).padStart(3,'0')}.mp3`)});
+if(fullcastPlan?.chapter_count===50&&fullcastPlan?.text_integrity_verified===true){
+  for(const chapter of fullcastPlan.chapters){
+    for(const unit of chapter.units){
+      expected.push({chapter:chapter.chapter,segment:unit.index,file:path.join(root,'audio',`chapter-${String(chapter.chapter).padStart(2,'0')}`,`unit-${String(unit.index).padStart(4,'0')}.mp3`)});
+    }
   }
 }
 
@@ -37,10 +41,12 @@ const voiceIdsMissing=Object.values(cast.roles).filter(role=>!role.voice_id).map
 const pronunciationsPending=lexicon.entries.filter(entry=>entry.status!=='approved').map(entry=>entry.term);
 const checks={
   locked_text_verified:manifest.text_integrity_verified===true&&manifest.total_words===100008&&manifest.chapter_count===50,
-  all_source_segments_present:expected.length===209,
-  all_segment_audio_present:present.length===expected.length,
+  all_source_segments_present:manifest.total_segments===209,
+  fullcast_render_plan_verified:fullcastPlan?.chapter_count===50&&fullcastPlan?.text_integrity_verified===true,
+  all_segment_audio_present:expected.length>0&&present.length===expected.length,
   all_chapter_masters_present:masters.length===50,
   principal_voices_assigned:voiceIdsMissing.length===0,
+  principal_cast_approved:cast.casting_status==='approved'&&Object.values(cast.roles).every(role=>role.approval_status==='approved'),
   supporting_cast_approved:support.status==='approved',
   pronunciations_approved:pronunciationsPending.length===0,
   signal_layer_complete:signals.counts?.signals===360&&signals.counts?.seren_payloads===120&&signals.counts?.loam_payloads===60&&signals.counts?.gates===6&&signals.signals?.every(signal=>signal.paragraph_anchor_verified===true),
@@ -53,8 +59,8 @@ const report={
   complete:failed.length===0,
   completion_percent:Number(((Object.keys(checks).length-failed.length)/Object.keys(checks).length*100).toFixed(1)),
   checks,
-  inventory:{chapters:manifest.chapter_count,source_words:manifest.total_words,expected_segments:expected.length,audio_segments_present:present.length,chapter_masters_present:masters.length},
-  blockers:{failed_checks:failed,missing_principal_voice_ids:voiceIdsMissing,pending_pronunciations:pronunciationsPending,unresolved_dialogue_spans:routing.unresolved,missing_audio_segments:missing.length},
+  inventory:{chapters:manifest.chapter_count,source_words:manifest.total_words,source_segments:manifest.total_segments,expected_render_units:expected.length,audio_render_units_present:present.length,chapter_masters_present:masters.length},
+  blockers:{failed_checks:failed,missing_principal_voice_ids:voiceIdsMissing,pending_pronunciations:pronunciationsPending,unresolved_dialogue_spans:routing.unresolved,missing_audio_render_units:fullcastPlan?missing.length:null},
   evidence:{source_sha256:manifest.source_sha256,audio_checksums:present.map(({chapter,segment,bytes,sha256})=>({chapter,segment,bytes,sha256}))},
   audited_at:new Date().toISOString()
 };

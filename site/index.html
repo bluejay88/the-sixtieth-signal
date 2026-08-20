@@ -1113,6 +1113,47 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     <h2 class="section-title reveal">The <span class="accent">Audiobook</span></h2>
     <p class="reveal" style="color:var(--slate);margin-top:16.8px;max-width:600px;">Chapter samples are published only after voice, edit, mastering, and listening-quality approval.</p>
     <div class="production-status reveal" id="audioProductionStatus" role="status" aria-live="polite"><span class="status-pulse"></span><b>Checking approved audio inventory</b><small id="audioVerifiedAt"></small></div>
+    <section class="cast-console reveal" aria-labelledby="castConsoleTitle">
+      <div class="cast-console-copy">
+        <div class="cast-kicker">ELEVENLABS CASTING LAB · 10 VOICES</div>
+        <h3 id="castConsoleTitle">Full-cast audition room</h3>
+        <p>Hear the proposed voice identity for every principal role. These are AI-generated casting auditions—not approved chapter masters—and may change after listening review.</p>
+      </div>
+      <div class="cast-now-playing" aria-live="polite">
+        <span>NOW AUDITIONING</span>
+        <strong id="castNowPlaying">Choose a character</strong>
+        <small id="castVoiceName">One shared player · no overlapping audio</small>
+      </div>
+      <div class="cast-transport" id="castTransport">
+        <button class="cast-skip" id="castBack" type="button" aria-label="Skip back 10 seconds" disabled>−10</button>
+        <button class="cast-main-play" id="castMainPlay" type="button" aria-label="Play selected audition" aria-pressed="false" disabled><span class="transport-icon" aria-hidden="true"></span></button>
+        <button class="cast-skip" id="castForward" type="button" aria-label="Skip forward 10 seconds" disabled>+10</button>
+      </div>
+      <div class="cast-timeline">
+        <time id="castElapsed">0:00</time>
+        <input id="castSeek" type="range" min="0" max="1000" value="0" aria-label="Audition playback position" disabled>
+        <time id="castDuration">0:00</time>
+      </div>
+      <div class="cast-utilities">
+        <button id="castMute" type="button" aria-pressed="false" disabled>Mute</button>
+        <label>Volume <input id="castVolume" type="range" min="0" max="1" step="0.05" value="1" disabled></label>
+        <label>Speed <select id="castSpeed" disabled><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
+      </div>
+      <div class="cast-status" id="castStatus" role="status" aria-live="polite">Select a role to begin. Keyboard: Space/K play, arrows seek, M mute.</div>
+      <audio id="castAudio" preload="metadata"></audio>
+      <div class="cast-grid" id="castGrid">
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/narrator.mp3" data-role="Narrator" data-voice="George"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Narrator</b><small>George · intimate documentary</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/cassian.mp3" data-role="Cassian Osei-Lorne" data-voice="Daniel"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Cassian</b><small>Daniel · analytical warmth</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/imani.mp3" data-role="Dr. Imani Sayegh" data-voice="Lily"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Imani</b><small>Lily · exacting scholar</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/nico.mp3" data-role="Nico Ashbourne" data-voice="Eric"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Nico</b><small>Eric · agile broadcaster</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/pike.mp3" data-role="Director Maelin Pike" data-voice="Sarah"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Pike</b><small>Sarah · controlled authority</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/loam.mp3" data-role="LOAM" data-voice="River"><span class="cast-card-icon" aria-hidden="true"></span><span><b>LOAM</b><small>River · synthetic precision</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/seren.mp3" data-role="Seren" data-voice="Alice"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Seren</b><small>Alice · archival witness</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/shaal.mp3" data-role="Shaal-Amur" data-voice="Adam"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Shaal-Amur</b><small>Adam · alien authority</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/nara.mp3" data-role="Nara" data-voice="Bella"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Nara</b><small>Bella · grounded moral clarity</small></span></button>
+        <button class="cast-card" type="button" data-cast-audio="/audio/auditions/abena.mp3" data-role="Abena" data-voice="Matilda"><span class="cast-card-icon" aria-hidden="true"></span><span><b>Abena</b><small>Matilda · warm, unsentimental</small></span></button>
+      </div>
+    </section>
     <div class="audiobook-list reveal" id="audiobookList">
       <!-- Populated from the backend at /api/public/audiobook-clips, or a
            local fallback sample if the backend isn't connected yet. -->
